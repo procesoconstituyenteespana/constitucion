@@ -1,1380 +1,2300 @@
-# Constitución Española (1978)
+# Constitución Española (1812)
 
-> **Fuente oficial**: Boletín Oficial del Estado (BOE) – Título BOE-A-1978-31229  
-> Versión consolidada con las últimas reformas: 17 de febrero de 2024 ([boe.es](https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229))
+> **Fuente oficial**: Congreso de los Diputados  
+> Versión consolidada: 12 de marzo de 1812 ([ver en congreso.es](https://www.congreso.es/constitucion/ficheros/historicas/cons_1812.pdf))
 
 ---
 
 # CONSTITUCIÓN
 
-## TÍTULO PRELIMINAR
+# CONSTITUCIÓN POLÍTICA DE LA MONARQUÍA ESPAÑOLA. PROMULGADA EN 
+## CÁDIZ A 19 DE MARZO DE 1812
+Don Fernando VII, por la gracia de Dios y la Constitución de la Monarquía española, Rey 
+de las Españas, y en su ausencia y cautividad la Regencia del Reino, nombrada por las 
+Cortes generales y extraordinarias, a todos los que las presentes vieren y entendieren, 
+sabed: Que las mismas Cortes han decretado y sancionado la siguiente: 
+## CONSTITUCIÓN POLÍTICA DE LA MONARQUÍA ESPAÑOLA 
+En el nombre de Dios Todopoderoso, Padre, Hijo y Espíritu Santo, autor y supremo 
+legislador de la sociedad. 
+Las Cortes generales y extraordinarias de la Nación española, bien convencidas, después 
+del más detenido examen y madura deliberación, de que las antiguas leyes 
+fundamentales de esta Monarquía, acompañadas de las oportunas providencias y 
+precauciones, que aseguren de un modo estable y permanente su entero cumplimiento, 
+podrán llenar debidamente el grande objeto de promover la gloria, la prosperidad y el bien 
+de toda la Nación, decretan la siguiente Constitución política para el buen gobierno y 
+recta administración del Estado. 
+
+## TÍTULO PRIMERO 
+DE LA NACIÓN ESPAÑOLA Y DE LOS ESPAÑOLES 
+
+## CAPÍTULO PRIMERO 
+De la Nación española. 
+
 ### Artículo 1
-1. España se constituye en un Estado social y democrático de Derecho, que propugna como valores superiores de su ordenamiento jurídico la libertad, la justicia, la igualdad y el pluralismo político.
-
-2. La soberanía nacional reside en el pueblo español, del que emanan los poderes del Estado.
-
-3. La forma política del Estado español es la Monarquía parlamentaria.
+La Nación española es la reunión de todos los españoles de ambos hemisferios. 
 
 ### Artículo 2
-La Constitución se fundamenta en la indisoluble unidad de la Nación española, patria común e indivisible de todos los españoles, y reconoce y garantiza el derecho a la autonomía de las nacionalidades y regiones que la integran y la solidaridad entre todas ellas.
+La Nación española es libre e independiente, y no es ni puede ser patrimonio de ninguna 
+familia ni persona. 
 
 ### Artículo 3
-1. El castellano es la lengua española oficial del Estado. Todos los españoles tienen el deber de conocerla y el derecho a usarla.
-
-2. Las demás lenguas españolas serán también oficiales en las respectivas Comunidades Autónomas de acuerdo con sus Estatutos.
-
-3. La riqueza de las distintas modalidades lingüísticas de España es un patrimonio cultural que será objeto de especial respeto y protección.
+La soberanía reside esencialmente en la Nación, y por lo mismo pertenece a ésta 
+exclusivamente el derecho de establecer sus leyes fundamentales. 
 
 ### Artículo 4
-1. La bandera de España está formada por tres franjas horizontales, roja, amarilla y roja, siendo la amarilla de doble anchura que cada una de las rojas.
+La Nación está obligada a conservar y proteger por leyes sabias y justas la libertad civil, 
+la propiedad y los demás derechos legítimos de todos los individuos que la componen. 
 
-2. Los Estatutos podrán reconocer banderas y enseñas propias de las Comunidades Autónomas. Estas se utilizarán junto a la bandera de España en sus edificios públicos y en sus actos oficiales.
+## CAPÍTULO II 
+De los españoles. 
 
 ### Artículo 5
-La capital del Estado es la villa de Madrid.
+Son españoles: 
+Primero. Todos los hombres libres nacidos y avecindados en los dominios de las 
+Españas, y los hijos de éstos. 
+Segundo. Los extranjeros que hayan obtenido de las Cortes cartas de naturaleza. 
+Tercero. Los que sin ella lleven diez años de vecindad, ganada según la ley en cualquier 
+pueblo de la Monarquía. 
+Cuarto. Los libertos desde que adquieran la libertad en las Españas. 
 
 ### Artículo 6
-Los partidos políticos expresan el pluralismo político, concurren a la formación y manifestación de la voluntad popular y son instrumento fundamental para la participación política. Su creación y el ejercicio de su actividad son libres dentro del respeto a la Constitución y a la ley. Su estructura interna y funcionamiento deberán ser democráticos.
+El amor de la Patria es una de las principales obligaciones de todos los españoles, y 
+asimismo el ser justos y benéficos. 
 
 ### Artículo 7
-Los sindicatos de trabajadores y las asociaciones empresariales contribuyen a la defensa y promoción de los intereses económicos y sociales que les son propios. Su creación y el ejercicio de su actividad son libres dentro del respeto a la Constitución y a la ley. Su estructura interna y funcionamiento deberán ser democráticos.
+Todo español está obligado a ser fiel a la Constitución, obedecer las leyes y respetar las 
+autoridades establecidas. 
 
 ### Artículo 8
-1. Las Fuerzas Armadas, constituidas por el Ejército de Tierra, la Armada y el Ejército del Aire, tienen como misión garantizar la soberanía e independencia de España, defender su integridad territorial y el ordenamiento constitucional.
-
-2. Una ley orgánica regulará las bases de la organización militar conforme a los principios de la presente Constitución.
+También está obligado todo español, sin distinción alguna, a contribuir en proporción de 
+sus haberes para los gastos del Estado. 
 
 ### Artículo 9
-1. Los ciudadanos y los poderes públicos están sujetos a la Constitución y al resto del ordenamiento jurídico.
+Está asimismo obligado todo español a defender la Patria con las armas cuando sea 
+llamado por la ley. 
 
-2. Corresponde a los poderes públicos promover las condiciones para que la libertad y la igualdad del individuo y de los grupos en que se integra sean reales y efectivas; remover los obstáculos que impidan o dificulten su plenitud y facilitar la participación de todos los ciudadanos en la vida política, económica, cultural y social.
+## TÍTULO II 
+DEL TERRITORIO DE LAS ESPAÑAS, SU RELIGIÓN Y GOBIERNO, Y DE LOS 
+CIUDADANOS ESPAÑOLES 
 
-3. La Constitución garantiza el principio de legalidad, la jerarquía normativa, la publicidad de las normas, la irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales, la seguridad jurídica, la responsabilidad y la interdicción de la arbitrariedad de los poderes públicos.
+## CAPÍTULO PRIMERO 
+Del territorio de las Españas 
 
-### TÍTULO I
-**De los derechos y deberes fundamentales**
 ### Artículo 10
-1. La dignidad de la persona, los derechos inviolables que le son inherentes, el libre desarrollo de la personalidad, el respeto a la ley y a los derechos de los demás son fundamento del orden político y de la paz social.
+El territorio español comprende en la Península con sus posesiones e islas adyacentes, 
+Aragón, Asturias, Castilla la Vieja, Castilla la Nueva, Cataluña, Córdoba, Extremadura, 
+Galicia, Granada, Jaén, León, Molina, Murcia, Navarra, Provincias Vascongadas, Sevilla y 
+Valencia, las islas Baleares y las Canarias con las demás posesiones de África. 
+En la América septentrional, Nueva España, con la Nueva Galicia y Península de 
+Yucatán, Guatemala, provincias internas de Oriente, provincias internas de Occidente, 
+isla de Cuba con las dos Floridas, la parte española de la isla de Santo Domingo, y la isla 
+de Puerto Rico con las demás adyacentes a éstas y al continente en uno y otro mar. 
+En la América meridional, la Nueva Granada, Venezuela, el Perú, Chile, provincias del 
+Río de la Plata, y todas las islas adyacentes en el mar Pacífico y en el Atlántico. 
+En el Asia, las islas Filipinas, y las que dependen de su gobierno. 
 
-2. Las normas relativas a los derechos fundamentales y a las libertades que la Constitución reconoce se interpretarán de conformidad con la Declaración Universal de Derechos Humanos y los tratados y acuerdos internacionales sobre las mismas materias ratificados por España.
-
-## CAPÍTULO PRIMERO
-**De los españoles y los extranjeros**
 ### Artículo 11
-1. La nacionalidad española se adquiere, se conserva y se pierde de acuerdo con lo establecido por la ley.
+Se hará una división más conveniente del territorio español por una ley constitucional, 
+luego que las circunstancias políticas de la Nación lo permitan. 
 
-2. Ningún español de origen podrá ser privado de su nacionalidad.
-
-3. El Estado podrá concertar tratados de doble nacionalidad con los países iberoamericanos o con aquellos que hayan tenido o tengan una particular vinculación con España. En estos mismos países, aun cuando no reconozcan a sus ciudadanos un derecho recíproco, podrán naturalizarse los españoles sin perder su nacionalidad de origen.
+## CAPÍTULO II 
+De la religión. 
 
 ### Artículo 12
-Los españoles son mayores de edad a los dieciocho años.
+La religión de la Nación española es y será perpetuamente la católica, apostólica, 
+romana, única verdadera. La Nación la protege por leyes sabias y justas, y prohíbe el 
+ejercicio de cualquiera otra. 
+
+## CAPÍTULO III 
+Del Gobierno. 
 
 ### Artículo 13
-1. Los extranjeros gozarán en España de las libertades públicas que garantiza el presente Título en los términos que establezcan los tratados y la ley.
+El objeto del Gobierno es la felicidad de la Nación, puesto que el fin de toda sociedad 
+política no es otro que el bienestar de los individuos que la componen. 
 
-2. Solamente los españoles serán titulares de los derechos reconocidos en el artículo 23, salvo lo que, atendiendo a criterios de reciprocidad, pueda establecerse por tratado o ley para el derecho de sufragio activo y pasivo en las elecciones municipales.
-
-3. La extradición sólo se concederá en cumplimiento de un tratado o de la ley, atendiendo al principio de reciprocidad. Quedan excluidos de la extradición los delitos políticos, no considerándose como tales los actos de terrorismo.
-
-4. La ley establecerá los términos en que los ciudadanos de otros países y los apátridas podrán gozar del derecho de asilo en España.
-
-## CAPÍTULO SEGUNDO
-**Derechos y libertades**
 ### Artículo 14
-Los españoles son iguales ante la ley, sin que pueda prevalecer discriminación alguna por razón de nacimiento, raza, sexo, religión, opinión o cualquier otra condición o circunstancia personal o social.
+El Gobierno de la Nación española es una Monarquía moderada hereditaria. 
 
-_**Sección 1.ª De los derechos fundamentales y de las libertades públicas**_
 ### Artículo 15
-Todos tienen derecho a la vida y a la integridad física y moral, sin que, en ningún caso, puedan ser sometidos a tortura ni a penas o tratos inhumanos o degradantes. Queda abolida la pena de muerte, salvo lo que puedan disponer las leyes penales militares para tiempos de guerra.
+La potestad de hacer las leyes reside en las Cortes con el Rey. 
 
 ### Artículo 16
-1. Se garantiza la libertad ideológica, religiosa y de culto de los individuos y las comunidades sin más limitación, en sus manifestaciones, que la necesaria para el mantenimiento del orden público protegido por la ley.
-
-2. Nadie podrá ser obligado a declarar sobre su ideología, religión o creencias.
-
-3. Ninguna confesión tendrá carácter estatal. Los poderes públicos tendrán en cuenta las creencias religiosas de la sociedad española y mantendrán las consiguientes relaciones de cooperación con la Iglesia Católica y las demás confesiones.
+La potestad de hacer ejecutar las leyes reside en el Rey. 
 
 ### Artículo 17
-1. Toda persona tiene derecho a la libertad y a la seguridad. Nadie puede ser privado de su libertad, sino con la observancia de lo establecido en este artículo y en los casos y en la forma previstos en la ley.
+La potestad de aplicar las leyes en las causas civiles y criminales reside en los Tribunales 
+establecidos por la ley. 
 
-2. La detención preventiva no podrá durar más del tiempo estrictamente necesario para la realización de las averiguaciones tendentes al esclarecimiento de los hechos, y, en todo caso, en el plazo máximo de setenta y dos horas, el detenido deberá ser puesto en libertad o a disposición de la autoridad judicial.
-
-3. Toda persona detenida debe ser informada de forma inmediata, y de modo que le sea comprensible, de sus derechos y de las razones de su detención, no pudiendo ser obligada a declarar. Se garantiza la asistencia de abogado al detenido en las diligencias policiales y judiciales, en los términos que la ley establezca.
-
-4. La ley regulará un procedimiento de «habeas corpus» para producir la inmediata puesta a disposición judicial de toda persona detenida ilegalmente. Asimismo, por ley se determinará el plazo máximo de duración de la prisión provisional.
+## CAPÍTULO IV 
+De los ciudadanos españoles 
 
 ### Artículo 18
-1. Se garantiza el derecho al honor, a la intimidad personal y familiar y a la propia imagen.
-
-2. El domicilio es inviolable. Ninguna entrada o registro podrá hacerse en él sin consentimiento del titular o resolución judicial, salvo en caso de flagrante delito.
-
-3. Se garantiza el secreto de las comunicaciones y, en especial, de las postales, telegráficas y telefónicas, salvo resolución judicial.
-
-4. La ley limitará el uso de la informática para garantizar el honor y la intimidad personal y familiar de los ciudadanos y el pleno ejercicio de sus derechos.
+Son ciudadanos aquellos españoles que por ambas líneas traen su origen de los 
+dominios españoles de ambos hemisferios, y están, avecindados en cualquier pueblo de 
+los mismos dominios. 
 
 ### Artículo 19
-Los españoles tienen derecho a elegir libremente su residencia y a circular por el territorio nacional.
-
-Asimismo, tienen derecho a entrar y salir libremente de España en los términos que la ley establezca. Este derecho no podrá ser limitado por motivos políticos o ideológicos.
+Es también ciudadano el extranjero que gozando ya de los derechos del español, 
+obtuviere de las Cortes carta especial de ciudadano. 
 
 ### Artículo 20
-1. Se reconocen y protegen los derechos:
-
-a) A expresar y difundir libremente los pensamientos, ideas y opiniones mediante la palabra, el escrito o cualquier otro medio de reproducción.
-
-b) A la producción y creación literaria, artística, científica y técnica.
-
-c) A la libertad de cátedra.
-
-d) A comunicar o recibir libremente información veraz por cualquier medio de difusión. La ley regulará el derecho a la cláusula de conciencia y al secreto profesional en el ejercicio de estas libertades.
-
-2. El ejercicio de estos derechos no puede restringirse mediante ningún tipo de censura previa.
-
-3. La ley regulará la organización y el control parlamentario de los medios de comunicación social dependientes del Estado o de cualquier ente público y garantizará el acceso a dichos medios de los grupos sociales y políticos significativos, respetando el pluralismo de la sociedad y de las diversas lenguas de España.
-
-4. Estas libertades tienen su límite en el respeto a los derechos reconocidos en este Título, en los preceptos de las leyes que lo desarrollen y, especialmente, en el derecho al honor, a la intimidad, a la propia imagen y a la protección de la juventud y de la infancia.
-
-5. Sólo podrá acordarse el secuestro de publicaciones, grabaciones y otros medios de información en virtud de resolución judicial.
+Para que el extranjero pueda obtener de las Cortes esta carta, deberá estar casado con 
+española, y haber traído o fijado en las Españas alguna invención o industria apreciable, 
+o adquirido bienes raíces por los que pague una contribución directa, o estableciéndose 
+en el comercio con un capital propio o considerable a juicio de las mismas Cortes, o 
+hecho servicios señalados en bien y defensa de la Nación. 
 
 ### Artículo 21
-1. Se reconoce el derecho de reunión pacífica y sin armas. El ejercicio de este derecho no necesitará autorización previa.
-
-2. En los casos de reuniones en lugares de tránsito público y manifestaciones se dará comunicación previa a la autoridad, que sólo podrá prohibirlas cuando existan razones fundadas de alteración del orden público, con peligro para personas o bienes.
+Son asimismo ciudadanos los hijos legítimos de los extranjeros domiciliados en las 
+Españas, que habiendo nacido en los dominios españoles, no hayan salido nunca fuera 
+sin licencia del Gobierno, y teniendo veintiún años cumplidos, se hayan avecindado en un 
+pueblo de los mismos dominios, ejerciendo en él alguna profesión, oficio o industria útil. 
 
 ### Artículo 22
-1. Se reconoce el derecho de asociación.
-
-2. Las asociaciones que persigan fines o utilicen medios tipificados como delito son ilegales.
-
-3. Las asociaciones constituidas al amparo de este artículo deberán inscribirse en un registro a los solos efectos de publicidad.
-
-4. Las asociaciones sólo podrán ser disueltas o suspendidas en sus actividades en virtud de resolución judicial motivada.
-
-5. Se prohíben las asociaciones secretas y las de carácter paramilitar.
+A los españoles que por cualquiera línea son habidos y reputados por originarios del 
+África, les queda abierta la puerta de la virtud y del merecimiento para ser ciudadanos: en 
+su consecuencia, las Cortes concederán carta de ciudadano a los que hicieren servicios 
+calificados a la Patria, o a los que se distingan por su talento, aplicación y conducta, con 
+la condición de que sean hijos de legítimo matrimonio de padres ingenuos; de que estén 
+casados con mujer ingenua, y avecindados en los dominios de las Españas, y de que 
+ejerzan alguna profesión, oficio o industria útil con un capital propio. 
 
 ### Artículo 23
-1. Los ciudadanos tienen el derecho a participar en los asuntos públicos, directamente o por medio de representantes, libremente elegidos en elecciones periódicas por sufragio universal.
-
-2. Asimismo, tienen derecho a acceder en condiciones de igualdad a las funciones y cargos públicos, con los requisitos que señalen las leyes.
+Sólo los que sean ciudadanos podrán obtener empleos municipales, y elegir para ellos en 
+los casos señalados por la ley. 
 
 ### Artículo 24
-1. Todas las personas tienen derecho a obtener la tutela efectiva de los jueces y tribunales en el ejercicio de sus derechos e intereses legítimos, sin que, en ningún caso, pueda producirse indefensión.
-
-2. Asimismo, todos tienen derecho al Juez ordinario predeterminado por la ley, a la defensa y a la asistencia de letrado, a ser informados de la acusación formulada contra ellos, a un proceso público sin dilaciones indebidas y con todas las garantías, a utilizar los medios de prueba pertinentes para su defensa, a no declarar contra sí mismos, a no confesarse culpables y a la presunción de inocencia.
-
-La ley regulará los casos en que, por razón de parentesco o de secreto profesional, no se estará obligado a declarar sobre hechos presuntamente delictivos.
+La calidad del ciudadano español se pierde: 
+Primero. Por adquirir naturaleza en país extranjero. 
+Segundo. Por admitir empleo de otro Gobierno. 
+Tercero. Por sentencia en que se impongan penas aflictivas o infamantes, si no se 
+obtiene rehabilitación. 
+Cuarto. Por haber residido cinco años consecutivos fuera del territorio español sin 
+comisión o licencia del Gobierno. 
 
 ### Artículo 25
-1. Nadie puede ser condenado o sancionado por acciones u omisiones que en el momento de producirse no constituyan delito, falta o infracción administrativa, según la legislación vigente en aquel momento.
-
-2. Las penas privativas de libertad y las medidas de seguridad estarán orientadas hacia la reeducación y reinserción social y no podrán consistir en trabajos forzados. El condenado a pena de prisión que estuviere cumpliendo la misma gozará de los derechos fundamentales de este Capítulo, a excepción de los que se vean expresamente limitados por el contenido del fallo condenatorio, el sentido de la pena y la ley penitenciaria. En todo caso, tendrá derecho a un trabajo remunerado y a los beneficios correspondientes de la Seguridad Social, así como al acceso a la cultura y al desarrollo integral de su personalidad.
-
-3. La Administración civil no podrá imponer sanciones que, directa o subsidiariamente, impliquen privación de libertad.
+El ejercicio de los mismos derechos se suspende: 
+Primero. En virtud de interdicción judicial por incapacidad física o moral. 
+Segundo. Por el estado de deudor quebrado, o de deudor a los caudales públicos. 
+Tercero. Por el estado de sirviente doméstico. 
+Cuarto. Por no tener empleo, oficio, o modo de vivir conocido. 
+Quinto. Por hallarse procesado criminalmente. 
+Sexto. Desde el año de 1830 deberán saber leer y escribir los que de nuevo entren en el 
+ejercicio de los derechos de ciudadano. 
 
 ### Artículo 26
-Se prohíben los Tribunales de Honor en el ámbito de la Administración civil y de las organizaciones profesionales.
+Sólo por las causas señaladas en los dos artículos precedentes se pueden perder o 
+suspender los derechos de ciudadano, y no por otras. 
+
+## TÍTULO III 
+DE LAS CORTES 
+
+## CAPÍTULO PRIMERO 
+Del modo de formarse las Cortes. 
 
 ### Artículo 27
-1. Todos tienen el derecho a la educación. Se reconoce la libertad de enseñanza.
-
-2. La educación tendrá por objeto el pleno desarrollo de la personalidad humana en el respeto a los principios democráticos de convivencia y a los derechos y libertades fundamentales.
-
-3. Los poderes públicos garantizan el derecho que asiste a los padres para que sus hijos reciban la formación religiosa y moral que esté de acuerdo con sus propias convicciones.
-
-4. La enseñanza básica es obligatoria y gratuita.
-
-5. Los poderes públicos garantizan el derecho de todos a la educación, mediante una programación general de la enseñanza, con participación efectiva de todos los sectores afectados y la creación de centros docentes.
-
-6. Se reconoce a las personas físicas y jurídicas la libertad de creación de centros docentes, dentro del respeto a los principios constitucionales.
-
-7. Los profesores, los padres y, en su caso, los alumnos intervendrán en el control y gestión de todos los centros sostenidos por la Administración con fondos públicos, en los términos que la ley establezca.
-
-8. Los poderes públicos inspeccionarán y homologarán el sistema educativo para garantizar el cumplimiento de las leyes.
-
-9. Los poderes públicos ayudarán a los centros docentes que reúnan los requisitos que la ley establezca.
-
-10. Se reconoce la autonomía de las Universidades, en los términos que la ley establezca.
+Las Cortes son la reunión de todos los Diputados que representan la 
+Nación, nombrados por los ciudadanos en la forma que se dirá. 
 
 ### Artículo 28
-1. Todos tienen derecho a sindicarse libremente. La ley podrá limitar o exceptuar el ejercicio de este derecho a las Fuerzas o Institutos armados o a los demás Cuerpos sometidos a disciplina militar y regulará las peculiaridades de su ejercicio para los funcionarios públicos. La libertad sindical comprende el derecho a fundar sindicatos y a afiliarse al de su elección, así como el derecho de los sindicatos a formar confederaciones y a fundar organizaciones sindicales internacionales o a afiliarse a las mismas. Nadie podrá ser obligado a afiliarse a un sindicato.
-
-2. Se reconoce el derecho a la huelga de los trabajadores para la defensa de sus intereses. La ley que regule el ejercicio de este derecho establecerá las garantías precisas para asegurar el mantenimiento de los servicios esenciales de la comunidad.
+La base para la representación nacional es la misma en ambos hemisferios. 
 
 ### Artículo 29
-1. Todos los españoles tendrán el derecho de petición individual y colectiva, por escrito, en la forma y con los efectos que determine la ley.
+Esta base es la población compuesta de los naturales que por ambas líneas sean 
+originarios de los dominios españoles, y de aquellos que hayan obtenido de las Cortes 
+carta de ciudadano, como también de los comprendidos en el art. 21. 
 
-2. Los miembros de las Fuerzas o Institutos armados o de los Cuerpos sometidos a disciplina militar podrán ejercer este derecho sólo individualmente y con arreglo a lo dispuesto en su legislación específica.
-
-_**Sección 2.ª De los derechos y deberes de los ciudadanos**_
 ### Artículo 30
-1. Los españoles tienen el derecho y el deber de defender a España.
-
-2. La ley fijará las obligaciones militares de los españoles y regulará, con las debidas garantías, la objeción de conciencia, así como las demás causas de exención del servicio militar obligatorio, pudiendo imponer, en su caso, una prestación social sustitutoria.
-
-3. Podrá establecerse un servicio civil para el cumplimiento de fines de interés general.
-
-4. Mediante ley podrán regularse los deberes de los ciudadanos en los casos de grave riesgo, catástrofe o calamidad pública.
+Para el cómputo de la población de los dominios europeos servirá el último censo del año 
+1797, hasta que pueda hacerse otro nuevo; y se formará el correspondiente para el 
+cómputo de la población de los de Ultramar, sirviendo entre tanto los censos más 
+auténticos entre los últimamente formados. 
 
 ### Artículo 31
-1. Todos contribuirán al sostenimiento de los gastos públicos de acuerdo con su capacidad económica mediante un sistema tributario justo inspirado en los principios de igualdad y progresividad que, en ningún caso, tendrá alcance confiscatorio.
-
-2. El gasto público realizará una asignación equitativa de los recursos públicos, y su programación y ejecución responderán a los criterios de eficiencia y economía.
-
-3. Sólo podrán establecerse prestaciones personales o patrimoniales de carácter público con arreglo a la ley.
+Por cada 70.000 almas de la población, compuesta como queda dicho en el art. 29, habrá 
+un Diputado de Cortes. 
 
 ### Artículo 32
-1. El hombre y la mujer tienen derecho a contraer matrimonio con plena igualdad jurídica.
-
-2. La ley regulará las formas de matrimonio, la edad y capacidad para contraerlo, los derechos y deberes de los cónyuges, las causas de separación y disolución y sus efectos.
+Distribuida la población por las diferentes provincias, si resultase en alguna el exceso de 
+más de 35.000 almas, se elegirá un Diputado más, como si el número llegase a 70.000, y 
+si el sobrante no excediere de 35.000, no se contará con él. 
 
 ### Artículo 33
-1. Se reconoce el derecho a la propiedad privada y a la herencia.
+Si hubiese alguna provincia cuya población no llegue a 70.000 almas, pero que no baje 
+de 35.000, elegirá por sí un Diputado; y si bajare de este número, se unirá a la inmediata 
+para completar el de 70.000 requerido. Exceptúase de esta regla la isla de Santo 
+Domingo, que nombrará Diputado, cualquiera que sea su población. 
 
-2. La función social de estos derechos delimitará su contenido, de acuerdo con las leyes.
-
-3. Nadie podrá ser privado de sus bienes y derechos sino por causa justificada de utilidad pública o interés social, mediante la correspondiente indemnización y de conformidad con lo dispuesto por las leyes.
+## CAPÍTULO II 
+Del nombramiento de Diputados de Cortes. 
 
 ### Artículo 34
-1. Se reconoce el derecho de fundación para fines de interés general, con arreglo a la ley.
+Para la elección de los Diputados de Cortes se celebrarán juntas electorales de 
+parroquia, de partido y de provincia. 
 
-2. Regirá también para las fundaciones lo dispuesto en los apartados 2 y 4 del artículo 22.
+## CAPÍTULO III 
+De las juntas electorales de parroquia. 
 
 ### Artículo 35
-1. Todos los españoles tienen el deber de trabajar y el derecho al trabajo, a la libre elección de profesión u oficio, a la promoción a través del trabajo y a una remuneración suficiente para satisfacer sus necesidades y las de su familia, sin que en ningún caso pueda hacerse discriminación por razón de sexo.
-
-2. La ley regulará un estatuto de los trabajadores.
+Las juntas electorales de parroquia se compondrán de todos los ciudadanos avecindados 
+y residentes en el territorio de la parroquia respectiva, entre los que se comprenden los 
+eclesiásticos seculares. 
 
 ### Artículo 36
-La ley regulará las peculiaridades propias del régimen jurídico de los Colegios Profesionales y el ejercicio de las profesiones tituladas. La estructura interna y el funcionamiento de los Colegios deberán ser democráticos.
+Estas juntas se celebrarán siempre en la Península e islas y posesiones adyacentes, el 
+primer domingo del mes de Octubre del año anterior al de la celebración de las Cortes. 
 
 ### Artículo 37
-1. La ley garantizará el derecho a la negociación colectiva laboral entre los representantes de los trabajadores y empresarios, así como la fuerza vinculante de los convenios.
-
-2. Se reconoce el derecho de los trabajadores y empresarios a adoptar medidas de conflicto colectivo. La ley que regule el ejercicio de este derecho, sin perjuicio de las limitaciones que puedan establecer, incluirá las garantías precisas para asegurar el funcionamiento de los servicios esenciales de la comunidad.
+En las provincias de Ultramar se celebrarán el primer domingo del mes de Diciembre, 
+quince meses antes de la celebración de las Cortes, con aviso que para unas y otras 
+hayan de dar anticipadamente las justicias. 
 
 ### Artículo 38
-Se reconoce la libertad de empresa en el marco de la economía de mercado. Los poderes públicos garantizan y protegen su ejercicio y la defensa de la productividad, de acuerdo con las exigencias de la economía general y, en su caso, de la planificación.
+En las juntas de parroquia se nombrará por cada 200 vecinos un elector parroquial. 
 
-## CAPÍTULO TERCERO
-**De los principios rectores de la política social y económica**
 ### Artículo 39
-1. Los poderes públicos aseguran la protección social, económica y jurídica de la familia.
-
-2. Los poderes públicos aseguran, asimismo, la protección integral de los hijos, iguales éstos ante la ley con independencia de su filiación, y de las madres, cualquiera que sea su estado civil. La ley posibilitará la investigación de la paternidad.
-
-3. Los padres deben prestar asistencia de todo orden a los hijos habidos dentro o fuera del matrimonio, durante su minoría de edad y en los demás casos en que legalmente proceda.
-
-4. Los niños gozarán de la protección prevista en los acuerdos internacionales que velan por sus derechos.
+Si el número de vecinos de la parroquia excediese de 300, aunque no llegue a 400, se 
+nombrarán dos electores; si excediese de 500, aunque no llegue a 600, se nombrarán 
+tres, y así progresivamente. 
 
 ### Artículo 40
-1. Los poderes públicos promoverán las condiciones favorables para el progreso social y económico y para una distribución de la renta regional y personal más equitativa, en el marco de una política de estabilidad económica. De manera especial realizarán una política orientada al pleno empleo.
-
-2. Asimismo, los poderes públicos fomentarán una política que garantice la formación y readaptación profesionales; velarán por la seguridad e higiene en el trabajo y garantizarán el descanso necesario, mediante la limitación de la jornada laboral, las vacaciones periódicas retribuidas y la promoción de centros adecuados.
+En las parroquias cuyo número de vecinos no llegue a 200, con tal que tengan 150, se 
+nombrará ya un elector, y en aquellas en que no haya este número, se reunirán los 
+vecinos a los de otra inmediata para nombrar el elector o electores que les correspondan. 
 
 ### Artículo 41
-Los poderes públicos mantendrán un régimen público de Seguridad Social para todos los ciudadanos, que garantice la asistencia y prestaciones sociales suficientes ante situaciones de necesidad, especialmente en caso de desempleo. La asistencia y prestaciones complementarias serán libres.
+La junta parroquial elegirá a pluralidad de votos once compromisarios, para que éstos 
+nombren el elector parroquial. 
 
 ### Artículo 42
-El Estado velará especialmente por la salvaguardia de los derechos económicos y sociales de los trabajadores españoles en el extranjero y orientará su política hacia su retorno.
+Si en la junta parroquial hubieren de nombrarse dos electores parroquiales, se elegirán 21 
+compromisarios, y si tres, 31; sin que en ningún caso se pueda exceder de este número 
+de compromisarios, a fin de evitar confusión. 
 
 ### Artículo 43
-1. Se reconoce el derecho a la protección de la salud.
-
-2. Compete a los poderes públicos organizar y tutelar la salud pública a través de medidas preventivas y de las prestaciones y servicios necesarios. La ley establecerá los derechos y deberes de todos al respecto.
-
-3. Los poderes públicos fomentarán la educación sanitaria, la educación física y el deporte. Asimismo facilitarán la adecuada utilización del ocio.
+Para consultar la mayor comodidad de las poblaciones pequeñas, se observará que 
+aquella parroquia que llegar e a tener 20 vecinos elegirá un compromisario, la que llegue 
+a tener de 30 a 40, elegirá dos; la que tuviere de 50 a 60, tres, y así progresivamente. Las 
+parroquias que tuvieren menos de 20 vecinos se unirán, con las más inmediatas para 
+elegir compromisario. 
 
 ### Artículo 44
-1. Los poderes públicos promoverán y tutelarán el acceso a la cultura, a la que todos tienen derecho.
-
-2. Los poderes públicos promoverán la ciencia y la investigación científica y técnica en beneficio del interés general.
+Los compromisarios de las parroquias de las poblaciones pequeñas, así elegidos, se 
+juntarán en el pueblo más a propósito, y en componiendo el número de 11, o a lo menos 
+de nueve, nombrarán un elector parroquial, si compusieren el número de 21, o a lo menos 
+de 17, nombrarán dos electores parroquiales, y si fueren 31, y se reuniere a lo menos 25, 
+nombrarán tres electores o los que correspondan. 
 
 ### Artículo 45
-1. Todos tienen el derecho a disfrutar de un medio ambiente adecuado para el desarrollo de la persona, así como el deber de conservarlo.
-
-2. Los poderes públicos velarán por la utilización racional de todos los recursos naturales, con el fin de proteger y mejorar la calidad de la vida y defender y restaurar el medio ambiente, apoyándose en la indispensable solidaridad colectiva.
-
-3. Para quienes violen lo dispuesto en el apartado anterior, en los términos que la ley fije se establecerán sanciones penales o, en su caso, administrativas, así como la obligación de reparar el daño causado.
+Para ser nombrado elector parroquial se requiere ser ciudadano, mayor de veinticinco 
+años, vecino y residente en la parroquia. 
 
 ### Artículo 46
-Los poderes públicos garantizarán la conservación y promoverán el enriquecimiento del patrimonio histórico, cultural y artístico de los pueblos de España y de los bienes que lo integran, cualquiera que sea su régimen jurídico y su titularidad. La ley penal sancionará los atentados contra este patrimonio.
+Las juntas de parroquia serán presididas por el jefe político, o el alcalde de la ciudad, villa 
+o aldea en que se congregaren, con asistencia del cura párroco para mayor solemnidad 
+del acto; y si en un mismo pueblo, por razón del número de sus parroquias, se tuvieren 
+dos o más juntas, presidirá una el jefe político, o el alcalde, otra el otro alcalde, y los 
+regidores, por suerte, presidirán las demás. 
 
 ### Artículo 47
-Todos los españoles tienen derecho a disfrutar de una vivienda digna y adecuada. Los poderes públicos promoverán las condiciones necesarias y establecerán las normas pertinentes para hacer efectivo este derecho, regulando la utilización del suelo de acuerdo con el interés general para impedir la especulación. La comunidad participará en las plusvalías que genere la acción urbanística de los entes públicos.
+Llegada la hora de la reunión, que se hará en las Casas consistoriales o en el lugar 
+donde lo tengan de costumbre, hallándose juntos los ciudadanos que hayan concurrido, 
+pasarán a la parroquia con su presidente, y en ella se celebrará una misa solemne de 
+Espíritu Santo por el cura párroco, quien hará un discurso correspondiente a las 
+circunstancias. 
 
 ### Artículo 48
-Los poderes públicos promoverán las condiciones para la participación libre y eficaz de la juventud en el desarrollo político, social, económico y cultural.
+Concluida la misa, volverán al lugar de donde salieron, y en él se dará principio a la junta, 
+nombrando dos escrutadores y un secretario de entre los ciudadanos presentes, todo a 
+puerta abierta. 
 
 ### Artículo 49
-1. Las personas con discapacidad ejercen los derechos previstos en este Título en condiciones de libertad e igualdad reales y efectivas. Se regulará por ley la protección especial que sea necesaria para dicho ejercicio.
-
-2. Los poderes públicos impulsarán las políticas que garanticen la plena autonomía personal y la inclusión social de las personas con discapacidad, en entornos universalmente accesibles. Asimismo, fomentarán la participación de sus organizaciones, en los términos que la ley establezca. Se atenderán particularmente las necesidades específicas de las mujeres y los menores con discapacidad.
+En seguida preguntará el presidente si algún ciudadano tiene que exponer alguna queja 
+relativa a cohecho o soborno para que la elección recaiga en determinada persona; y si la 
+hubiere deberá hacerse justificación pública y verbal en el mismo acto. Siendo cierta la 
+acusación, serán privados de voz activa y pasiva los que hubieren cometido el delito. Los 
+calumniadores sufrirán la misma pena; y de este juicio no se admitirá recurso alguno. 
 
 ### Artículo 50
-Los poderes públicos garantizarán, mediante pensiones adecuadas y periódicamente actualizadas, la suficiencia económica a los ciudadanos durante la tercera edad. Asimismo, y con independencia de las obligaciones familiares, promoverán su bienestar mediante un sistema de servicios sociales que atenderán sus problemas específicos de salud, vivienda, cultura y ocio.
+Si se suscitasen dudas sobre si en alguno de los presentes concurren las calidades 
+requeridas para poder votar, la misma junta decidirá en el acto lo que le parezca; y lo que 
+decidiere se ejecutará sin recurso alguno por esta vez y para este solo efecto. 
 
 ### Artículo 51
-1. Los poderes públicos garantizarán la defensa de los consumidores y usuarios, protegiendo, mediante procedimientos eficaces, la seguridad, la salud y los legítimos intereses económicos de los mismos.
-
-2. Los poderes públicos promoverán la información y la educación de los consumidores y usuarios, fomentarán sus organizaciones y oirán a éstas en las cuestiones que puedan afectar a aquéllos, en los términos que la ley establezca.
-
-3. En el marco de lo dispuesto por los apartados anteriores, la ley regulará el comercio interior y el régimen de autorización de productos comerciales.
+Se procederá inmediatamente al nombramiento de los compromisarios; lo que se hará 
+designando cada ciudadano un número de personas igual al de los compromisarios, para 
+lo que se acercará a la mesa donde se hallen el presidente, los escrutadores y el 
+secretario; y éste las escribirá en una lista a su presencia; y en éste y en los demás actos 
+de elección nadie podrá votarse a sí mismo, bajo la pena de perder el derecho de votar. 
 
 ### Artículo 52
-La ley regulará las organizaciones profesionales que contribuyan a la defensa de los intereses económicos que les sean propios. Su estructura interna y funcionamiento deberán ser democráticos.
+Concluido este acto, el presidente, escrutadores y secretario reconocerán las listas, y 
+aquél publicará en alta voz los nombres de los ciudadanos que hayan sido elegidos 
+compromisarios por haber reunido mayor número de votos. 
 
-## CAPÍTULO CUARTO
-**De las garantías de las libertades y derechos fundamentales**
 ### Artículo 53
-1. Los derechos y libertades reconocidos en el Capítulo segundo del presente Título vinculan a todos los poderes públicos. Sólo por ley, que en todo caso deberá respetar su contenido esencial, podrá regularse el ejercicio de tales derechos y libertades, que se tutelarán de acuerdo con lo previsto en el artículo 161, 1, a).
-
-2. Cualquier ciudadano podrá recabar la tutela de las libertades y derechos reconocidos en el artículo 14 y la Sección primera del Capítulo segundo ante los Tribunales ordinarios por un procedimiento basado en los principios de preferencia y sumariedad y, en su caso, a través del recurso de amparo ante el Tribunal Constitucional. Este último recurso será aplicable a la objeción de conciencia reconocida en el artículo 30.
-
-3. El reconocimiento, el respeto y la protección de los principios reconocidos en el Capítulo tercero informarán la legislación positiva, la práctica judicial y la actuación de los poderes públicos. Sólo podrán ser alegados ante la Jurisdicción ordinaria de acuerdo con lo que dispongan las leyes que los desarrollen.
+Los compromisarios nombrados se retirarán a un lugar separado antes de disolverse la 
+junta, y conferenciando entre sí, procederán a nombrar el elector o electores de aquella 
+parroquia, y quedarán elegidas la persona o personas que reúnan más de la mitad de 
+votos. En seguida se publicará en la junta el nombramiento. 
 
 ### Artículo 54
-Una ley orgánica regulará la institución del Defensor del Pueblo, como alto comisionado de las Cortes Generales, designado por éstas para la defensa de los derechos comprendidos en este Título, a cuyo efecto podrá supervisar la actividad de la Administración, dando cuenta a las Cortes Generales.
+El secretario extenderá el acta, que con él firmarán el presidente y los compromisarios, y 
+se entregará copia de ella firmada a la persona o personas elegidas, para hacer constar 
+su nombramiento. 
 
-## CAPÍTULO QUINTO
-**De la suspensión de los derechos y libertades**
 ### Artículo 55
-1. Los derechos reconocidos en los artículos 17, 18, apartados 2 y 3, artículos 19, 20, apartados 1, a) y d), y 5, artículos 21, 28, apartado 2, y artículo 37, apartado 2, podrán ser suspendidos cuando se acuerde la declaración del estado de excepción o de sitio en los términos previstos en la Constitución. Se exceptúa de lo establecido anteriormente el apartado 3 del artículo 17 para el supuesto de declaración de estado de excepción.
+Ningún ciudadano podrá excusarse de estos encargos por motivo ni pretexto alguno. 
 
-2. Una ley orgánica podrá determinar la forma y los casos en los que, de forma individual y con la necesaria intervención judicial y el adecuado control parlamentario, los derechos reconocidos en los artículos 17, apartado 2, y 18, apartados 2 y 3, pueden ser suspendidos para personas determinadas, en relación con las investigaciones correspondientes a la actuación de bandas armadas o elementos terroristas.
-
-La utilización injustificada o abusiva de las facultades reconocidas en dicha ley orgánica producirá responsabilidad penal, como violación de los derechos y libertades reconocidos por las leyes.
-
-### TÍTULO II
-**De la Corona**
 ### Artículo 56
-1. El Rey es el Jefe del Estado, símbolo de su unidad y permanencia, arbitra y modera el funcionamiento regular de las instituciones, asume la más alta representación del Estado español en las relaciones internacionales, especialmente con las naciones de su comunidad histórica, y ejerce las funciones que le atribuyen expresamente la Constitución y las leyes.
-
-2. Su título es el de Rey de España y podrá utilizar los demás que correspondan a la Corona.
-
-3. La persona del Rey es inviolable y no está sujeta a responsabilidad. Sus actos estarán siempre refrendados en la forma establecida en el artículo 64, careciendo de validez sin dicho refrendo, salvo lo dispuesto en el artículo 65, 2.
+En la junta parroquial ningún ciudadano se presentará con armas. 
 
 ### Artículo 57
-1. La Corona de España es hereditaria en los sucesores de S. M. Don Juan Carlos I de Borbón, legítimo heredero de la dinastía histórica. La sucesión en el trono seguirá el orden regular de primogenitura y representación, siendo preferida siempre la línea anterior a las posteriores; en la misma línea, el grado más próximo al más remoto; en el mismo grado, el varón a la mujer, y en el mismo sexo, la persona de más edad a la de menos.
-
-2. El Príncipe heredero, desde su nacimiento o desde que se produzca el hecho que origine el llamamiento, tendrá la dignidad de Príncipe de Asturias y los demás títulos vinculados tradicionalmente al sucesor de la Corona de España.
-
-3. Extinguidas todas las líneas llamadas en Derecho, las Cortes Generales proveerán a la sucesión en la Corona en la forma que más convenga a los intereses de España.
-
-4. Aquellas personas que teniendo derecho a la sucesión en el trono contrajeren matrimonio contra la expresa prohibición del Rey y de las Cortes Generales, quedarán excluidas en la sucesión a la Corona por sí y sus descendientes.
-
-5. Las abdicaciones y renuncias y cualquier duda de hecho o de derecho que ocurra en el orden de sucesión a la Corona se resolverán por una ley orgánica.
+Verificado el nombramiento de electores, se disolverá inmediatamente la junta, y 
+cualquier otro acto en que intente mezclarse será nulo. 
 
 ### Artículo 58
-La Reina consorte o el consorte de la Reina no podrán asumir funciones constitucionales, salvo lo dispuesto para la Regencia.
+Los ciudadanos que han compuesto la junta se trasladarán a la parroquia, donde se 
+cantará un solemne Te Deum, llevando al elector o electores entre el presidente, los 
+escrutadores y el secretario. 
+
+## CAPÍTULO IV 
+De las juntas electorales de partido. 
 
 ### Artículo 59
-1. Cuando el Rey fuere menor de edad, el padre o la madre del Rey y, en su defecto, el pariente mayor de edad más próximo a suceder en la Corona, según el orden establecido en la Constitución, entrará a ejercer inmediatamente la Regencia y la ejercerá durante el tiempo de la minoría de edad del Rey.
-
-2. Si el Rey se inhabilitare para el ejercicio de su autoridad y la imposibilidad fuere reconocida por las Cortes Generales, entrará a ejercer inmediatamente la Regencia el Príncipe heredero de la Corona, si fuere mayor de edad. Si no lo fuere, se procederá de la manera prevista en el apartado anterior, hasta que el Príncipe heredero alcance la mayoría de edad.
-
-3. Si no hubiere ninguna persona a quien corresponda la Regencia, ésta será nombrada por las Cortes Generales, y se compondrá de una, tres o cinco personas.
-
-4. Para ejercer la Regencia es preciso ser español y mayor de edad.
-
-5. La Regencia se ejercerá por mandato constitucional y siempre en nombre del Rey.
+Las juntas electorales de partido se compondrán de los electores parroquiales, que se 
+congregarán en la cabeza de cada partido, a fin de nombrar el elector o electores que han 
+de concurrir a la capital de la provincia para elegir los Diputados de Cortes. 
 
 ### Artículo 60
-1. Será tutor del Rey menor la persona que en su testamento hubiese nombrado el Rey difunto, siempre que sea mayor de edad y español de nacimiento; si no lo hubiese nombrado, será tutor el padre o la madre mientras permanezcan viudos. En su defecto, lo nombrarán las Cortes Generales, pero no podrán acumularse los cargos de Regente y de tutor sino en el padre, madre o ascendientes directos del Rey.
-
-2. El ejercicio de la tutela es también incompatible con el de todo cargo o representación política.
+Estas juntas se celebrarán siempre, en la Península e islas y posesiones adyacentes, el 
+primer domingo del mes de Noviembre del año anterior al en que han de celebrarse las 
+Cortes. 
 
 ### Artículo 61
-1. El Rey, al ser proclamado ante las Cortes Generales, prestará juramento de desempeñar fielmente sus funciones, guardar y hacer guardar la Constitución y las leyes y respetar los derechos de los ciudadanos y de las Comunidades Autónomas.
-
-2. El Príncipe heredero, al alcanzar la mayoría de edad, y el Regente o Regentes al hacerse cargo de sus funciones, prestarán el mismo juramento, así como el de fidelidad al Rey.
+En las provincias de Ultramar se celebrarán el primer domingo del mes de Enero próximo 
+siguiente al de Diciembre en que se hubieren celebrado las juntas de parroquia. 
 
 ### Artículo 62
-Corresponde al Rey:
-
-a) Sancionar y promulgar las leyes.
-
-b) Convocar y disolver las Cortes Generales y convocar elecciones en los términos previstos en la Constitución.
-
-c) Convocar a referéndum en los casos previstos en la Constitución.
-
-d) Proponer el candidato a Presidente del Gobierno y, en su caso, nombrarlo, así como poner fin a sus funciones en los términos previstos en la Constitución.
-
-e) Nombrar y separar a los miembros del Gobierno, a propuesta de su Presidente.
-
-f) Expedir los decretos acordados en el Consejo de Ministros, conferir los empleos civiles y militares y conceder honores y distinciones con arreglo a las leyes.
-
-g) Ser informado de los asuntos de Estado y presidir, a estos efectos, las sesiones del Consejo de Ministros, cuando lo estime oportuno, a petición del Presidente del Gobierno.
-
-h) El mando supremo de las Fuerzas Armadas.
-
-i) Ejercer el derecho de gracia con arreglo a la ley, que no podrá autorizar indultos generales.
-
-j) El Alto Patronazgo de las Reales Academias.
+Para venir en conocimiento del número de electores que haya de nombrar cada partido, 
+se tendrán presentes las siguientes reglas. 
 
 ### Artículo 63
-1. El Rey acredita a los embajadores y otros representantes diplomáticos. Los representantes extranjeros en España están acreditados ante él.
-
-2. Al Rey corresponde manifestar el consentimiento del Estado para obligarse internacionalmente por medio de tratados, de conformidad con la Constitución y las leyes.
-
-3. Al Rey corresponde, previa autorización de las Cortes Generales, declarar la guerra y hacer la paz.
+El número de electores de partido será triple al de los Diputados que se han de elegir. 
 
 ### Artículo 64
-1. Los actos del Rey serán refrendados por el Presidente del Gobierno y, en su caso, por los Ministros competentes. La propuesta y el nombramiento del Presidente del Gobierno, y la disolución prevista en el artículo 99, serán refrendados por el Presidente del Congreso.
-
-2. De los actos del Rey serán responsables las personas que los refrenden.
+Si el número de partidos de la provincia fuere mayor que el de los electores que se 
+requieren por el artículo precedente para el nombramiento de los Diputados que le 
+correspondan, se nombrará, sin embargo, un elector por cada partido. 
 
 ### Artículo 65
-1. El Rey recibe de los Presupuestos del Estado una cantidad global para el sostenimiento de su Familia y Casa, y distribuye libremente la misma.
+Si el número de partidos fuere menor que el de los electores que deban nombrarse, cada 
+partido elegirá uno, dos o más, hasta completar el número que se requiera; pero si faltase 
+aún un elector, le nombrará el partido de mayor población; si todavía faltase otro, le 
+nombrará el que le siga en mayor población, y así sucesivamente. 
 
-2. El Rey nombra y releva libremente a los miembros civiles y militares de su Casa.
-
-### TÍTULO III
-**De las Cortes Generales**
-## CAPÍTULO PRIMERO
-**De las Cámaras**
 ### Artículo 66
-1. Las Cortes Generales representan al pueblo español y están formadas por el Congreso de los Diputados y el Senado.
-
-2. Las Cortes Generales ejercen la potestad legislativa del Estado, aprueban sus Presupuestos, controlan la acción del Gobierno y tienen las demás competencias que les atribuya la Constitución.
-
-3. Las Cortes Generales son inviolables.
+Por lo que queda establecido en los artículos 31, 32 y 33, y en los tres artículos 
+precedentes, el censo determina cuántos Diputados corresponden a cada provincia y 
+cuántos electores a cada uno de sus partidos. 
 
 ### Artículo 67
-1. Nadie podrá ser miembro de las dos Cámaras simultáneamente, ni acumular el acta de una Asamblea de Comunidad Autónoma con la de Diputado al Congreso.
-
-2. Los miembros de las Cortes Generales no estarán ligados por mandato imperativo.
-
-3. Las reuniones de Parlamentarios que se celebren sin convocatoria reglamentaria no vincularán a las Cámaras, y no podrán ejercer sus funciones ni ostentar sus privilegios.
+Las juntas electorales de partido serán presididas por el jefe político, o el alcalde primero 
+del pueblo cabeza de partido, a quien se presentarán los electores parroquiales con el 
+documento que acredite su elección, para que sean anotados sus nombres en el libro en 
+que han de extenderse las actas de la junta. 
 
 ### Artículo 68
-1. El Congreso se compone de un mínimo de 300 y un máximo de 400 Diputados, elegidos por sufragio universal, libre, igual, directo y secreto, en los términos que establezca la ley.
-
-2. La circunscripción electoral es la provincia. Las poblaciones de Ceuta y Melilla estarán representadas cada una de ellas por un Diputado. La ley distribuirá el número total de Diputados, asignando una representación mínima inicial a cada circunscripción y distribuyendo los demás en proporción a la población.
-
-3. La elección se verificará en cada circunscripción atendiendo a criterios de representación proporcional.
-
-4. El Congreso es elegido por cuatro años. El mandato de los Diputados termina cuatro años después de su elección o el día de la disolución de la Cámara.
-
-5. Son electores y elegibles todos los españoles que estén en pleno uso de sus derechos políticos.
-
-La ley reconocerá y el Estado facilitará el ejercicio del derecho de sufragio a los españoles que se encuentren fuera del territorio de España.
-
-6. Las elecciones tendrán lugar entre los treinta días y sesenta días desde la terminación del mandato. El Congreso electo deberá ser convocado dentro de los veinticinco días siguientes a la celebración de las elecciones.
+En el día señalado se juntarán los electores de parroquia con el presidente de las Salas 
+consistoriales, a puerta abierta, y comenzarán por nombrar un secretario y dos 
+escrutadores de entre los mismos electores. 
 
 ### Artículo 69
-1. El Senado es la Cámara de representación territorial.
-
-2. En cada provincia se elegirán cuatro Senadores por sufragio universal, libre, igual, directo y secreto por los votantes de cada una de ellas, en los términos que señale una ley orgánica.
-
-3. En las provincias insulares, cada isla o agrupación de ellas, con Cabildo o Consejo Insular, constituirá una circunscripción a efectos de elección de Senadores, correspondiendo tres a cada una de las islas mayores –Gran Canaria, Mallorca y Tenerife– y uno a cada una de las siguientes islas o agrupaciones: Ibiza-Formentera, Menorca, Fuerteventura, Gomera, Hierro, Lanzarote y La Palma.
-
-4. Las poblaciones de Ceuta y Melilla elegirán cada una de ellas dos Senadores.
-
-5. Las Comunidades Autónomas designarán además un Senador y otro más por cada millón de habitantes de su respectivo territorio. La designación corresponderá a la Asamblea legislativa o, en su defecto, al órgano colegiado superior de la Comunidad Autónoma, de acuerdo con lo que establezcan los Estatutos, que asegurarán, en todo caso, la adecuada representación proporcional.
-
-6. El Senado es elegido por cuatro años. El mandato de los Senadores termina cuatro años después de su elección o el día de la disolución de la Cámara.
+En seguida presentarán los electores las certificaciones de su nombramiento para ser 
+examinadas por el secretario y escrutadores, quienes deberán al día siguiente informar si 
+están o no arregladas. Las certificaciones del secretario y escrutadores serán 
+examinadas por una comisión de tres individuos de la junta, que se nombrará al efecto, 
+para que informe también en el siguiente día sobre ellas. 
 
 ### Artículo 70
-1. La ley electoral determinará las causas de inelegibilidad e incompatibilidad de los Diputados y Senadores, que comprenderán, en todo caso:
-
-a) A los componentes del Tribunal Constitucional.
-
-b) A los altos cargos de la Administración del Estado que determine la ley, con la excepción de los miembros del Gobierno.
-
-c) Al Defensor del Pueblo.
-
-d) A los Magistrados, Jueces y Fiscales en activo.
-
-e) A los militares profesionales y miembros de las Fuerzas y Cuerpos de Seguridad y Policía en activo.
-
-f) A los miembros de las Juntas Electorales.
-
-2. La validez de las actas y credenciales de los miembros de ambas Cámaras estará sometida al control judicial, en los términos que establezca la ley electoral.
+En este día, congregados los electores parroquiales, se leerán los informes sobre las 
+certificaciones; y si se hubiere hallado reparo que oponer a alguna de ellas, o a los 
+electores, por defecto de algunas de las calidades requeridas, la junta resolverá 
+definitivamente y acto continuo lo que le parezca, y lo que resolviere se ejecutará sin 
+recurso. 
 
 ### Artículo 71
-1. Los Diputados y Senadores gozarán de inviolabilidad por las opiniones manifestadas en el ejercicio de sus funciones.
-
-2. Durante el período de su mandato los Diputados y Senadores gozarán asimismo de inmunidad y sólo podrán ser detenidos en caso de flagrante delito. No podrán ser inculpados ni procesados sin la previa autorización de la Cámara respectiva.
-
-3. En las causas contra Diputados y Senadores será competente la Sala de lo Penal del Tribunal Supremo.
-
-4. Los Diputados y Senadores percibirán una asignación que será fijada por las respectivas Cámaras.
+Concluido este acto, pasarán los electores parroquiales con su presidente a la Iglesia 
+mayor, en donde se cantará una misa solemne de Espíritu Santo por el eclesiástico de 
+mayor dignidad, el que hará un discurso propio de las circunstancias. 
 
 ### Artículo 72
-1. Las Cámaras establecen sus propios Reglamentos, aprueban autónomamente sus presupuestos y, de común acuerdo, regulan el Estatuto del Personal de las Cortes Generales. Los Reglamentos y su reforma serán sometidos a una votación final sobre su totalidad, que requerirá la mayoría absoluta.
-
-2. Las Cámaras eligen sus respectivos Presidentes y los demás miembros de sus Mesas. Las sesiones conjuntas serán presididas por el Presidente del Congreso y se regirán por un Reglamento de las Cortes Generales aprobado por mayoría absoluta de cada Cámara.
-
-3. Los Presidentes de las Cámaras ejercen en nombre de las mismas todos los poderes administrativos y facultades de policía en el interior de sus respectivas sedes.
+Después de este acto religioso, se restituirán a las Casas consistoriales, y ocupando los 
+electores sus asientos sin preferencia alguna, leerá el secretario este capítulo de la 
+Constitución, y en seguida hará el presidente la misma pregunta que se contiene en el 
+art. 49, y se observará todo cuanto en él se previene. 
 
 ### Artículo 73
-1. Las Cámaras se reunirán anualmente en dos períodos ordinarios de sesiones: el primero, de septiembre a diciembre, y el segundo, de febrero a junio.
-
-2. Las Cámaras podrán reunirse en sesiones extraordinarias a petición del Gobierno, de la Diputación Permanente o de la mayoría absoluta de los miembros de cualquiera de las Cámaras. Las sesiones extraordinarias deberán convocarse sobre un orden del día determinado y serán clausuradas una vez que éste haya sido agotado.
+Inmediatamente después se procederá al nombramiento del elector o electores de 
+partido, eligiéndolos de uno en uno, y por escrutinio secreto, mediante cédulas en que 
+esté escrito el nombre de la persona que cada uno elige. 
 
 ### Artículo 74
-1. Las Cámaras se reunirán en sesión conjunta para ejercer las competencias no legislativas que el Título II atribuye expresamente a las Cortes Generales.
-
-2. Las decisiones de las Cortes Generales previstas en los artículos 94, 1, 145, 2 y 158, 2, se adoptarán por mayoría de cada una de las Cámaras. En el primer caso, el procedimiento se iniciará por el Congreso, y en los otros dos, por el Senado. En ambos casos, si no hubiera acuerdo entre Senado y Congreso, se intentará obtener por una Comisión Mixta compuesta de igual número de Diputados y Senadores. La Comisión presentará un texto que será votado por ambas Cámaras. Si no se aprueba en la forma establecida, decidirá el Congreso por mayoría absoluta.
+Concluida la votación, el presidente, secretario y escrutadores harán la regulación de los 
+votos, y quedará elegido el que haya reunido, a lo menos, la mitad de los votos y uno 
+más, publicando el presidente cada elección. Si ninguno hubiere tenido la pluralidad 
+absoluta de votos, los dos que hayan tenido el mayor número entrarán en segundo 
+escrutinio, y quedará elegido el que reúna mayor número de votos, En caso de empate 
+decidirá la suerte. 
 
 ### Artículo 75
-1. Las Cámaras funcionarán en Pleno y por Comisiones.
-
-2. Las Cámaras podrán delegar en las Comisiones Legislativas Permanentes la aprobación de proyectos o proposiciones de ley. El Pleno podrá, no obstante, recabar en cualquier momento el debate y votación de cualquier proyecto o proposición de ley que haya sido objeto de esta delegación.
-
-3. Quedan exceptuados de lo dispuesto en el apartado anterior la reforma constitucional, las cuestiones internacionales, las leyes orgánicas y de bases y los Presupuestos Generales del Estado.
+Para ser elector de partido se requiere ser ciudadano que se halle en el ejercicio de sus 
+derechos, mayor de veinticinco años, y vecino y residente en el partido, ya sea del estado 
+seglar, o del eclesiástico secular, pudiendo recaer la elección en los ciudadanos que 
+componen la junta, o en los de fuera de ella. 
 
 ### Artículo 76
-1. El Congreso y el Senado, y, en su caso, ambas Cámaras conjuntamente, podrán nombrar Comisiones de investigación sobre cualquier asunto de interés público. Sus conclusiones no serán vinculantes para los Tribunales, ni afectarán a las resoluciones judiciales, sin perjuicio de que el resultado de la investigación sea comunicado al Ministerio Fiscal para el ejercicio, cuando proceda, de las acciones oportunas.
-
-2. Será obligatorio comparecer a requerimiento de las Cámaras. La ley regulará las sanciones que puedan imponerse por incumplimiento de esta obligación.
+El secretario extenderá el acta, que con él firmarán el presidente y escrutadores, y se 
+entregará copia de ella, firmada por los mismos, a la persona o personas elegidas para 
+hacer constar su nombramiento. El presidente de esta junta remitirá otra copia, firmada 
+por él y por el secretario, al presidente de la junta de provincia, donde se hará notoria la 
+elección en los papeles públicos. 
 
 ### Artículo 77
-1. Las Cámaras pueden recibir peticiones individuales y colectivas, siempre por escrito, quedando prohibida la presentación directa por manifestaciones ciudadanas.
+En las juntas electorales de partido se observará todo lo que se previene para las juntas 
+electorales de parroquia en los artículos 55, 56, 57 y 58. 
 
-2. Las Cámaras pueden remitir al Gobierno las peticiones que reciban. El Gobierno está obligado a explicarse sobre su contenido, siempre que las Cámaras lo exijan.
+## CAPÍTULO V 
+De las juntas electorales de provincia. 
 
 ### Artículo 78
-1. En cada Cámara habrá una Diputación Permanente compuesta por un mínimo de veintiún miembros, que representarán a los grupos parlamentarios, en proporción a su importancia numérica.
-
-2. Las Diputaciones Permanentes estarán presididas por el Presidente de la Cámara respectiva y tendrán como funciones la prevista en el artículo 73, la de asumir las facultades que correspondan a las Cámaras, de acuerdo con los artículos 86 y 116, en caso de que éstas hubieren sido disueltas o hubiere expirado su mandato y la de velar por los poderes de las Cámaras cuando éstas no estén reunidas.
-
-3. Expirado el mandato o en caso de disolución, las Diputaciones Permanentes seguirán ejerciendo sus funciones hasta la constitución de las nuevas Cortes Generales.
-
-4. Reunida la Cámara correspondiente, la Diputación Permanente dará cuenta de los asuntos tratados y de sus decisiones.
+Las juntas electorales de provincia se compondrán de los electores de todos los partidos 
+de ella, que se congregarán en la capital, a fin de nombrar los Diputados que le 
+correspondan para asistir a las Cortes como representantes de la Nación. 
 
 ### Artículo 79
-1. Para adoptar acuerdos, las Cámaras deben estar reunidas reglamentariamente y con asistencia de la mayoría de sus miembros.
-
-2. Dichos acuerdos, para ser válidos, deberán ser aprobados por la mayoría de los miembros presentes, sin perjuicio de las mayorías especiales que establezcan la Constitución o las leyes orgánicas y las que para elección de personas establezcan los Reglamentos de las Cámaras.
-
-3. El voto de Senadores y Diputados es personal e indelegable.
+Estas juntas se celebrarán siempre en la Península e islas adyacentes el primer domingo 
+del mes de Diciembre del año anterior a las Cortes. 
 
 ### Artículo 80
-Las sesiones plenarias de las Cámaras serán públicas, salvo acuerdo en contrario de cada Cámara, adoptado por mayoría absoluta o con arreglo al Reglamento.
+En las provincias de Ultramar se celebrarán en el domingo segundo del mes de Marzo del 
+mismo año en que se celebraren las juntas de partido. 
 
-## CAPÍTULO SEGUNDO
-**De la elaboración de las leyes**
 ### Artículo 81
-1. Son leyes orgánicas las relativas al desarrollo de los derechos fundamentales y de las libertades públicas, las que aprueben los Estatutos de Autonomía y el régimen electoral general y las demás previstas en la Constitución.
-
-2. La aprobación, modificación o derogación de las leyes orgánicas exigirá mayoría absoluta del Congreso, en una votación final sobre el conjunto del proyecto.
+Serán presididas estas juntas por el jefe político de la Capital de provincia, a quien se 
+presentarán los electores de partido con el documento de su elección, para que sus 
+nombres se anoten en el libro en que han de extenderse las actas de la junta. 
 
 ### Artículo 82
-1. Las Cortes Generales podrán delegar en el Gobierno la potestad de dictar normas con rango de ley sobre materias determinadas no incluidas en el artículo anterior.
-
-2. La delegación legislativa deberá otorgarse mediante una ley de bases cuando su objeto sea la formación de textos articulados o por una ley ordinaria cuando se trate de refundir varios textos legales en uno solo.
-
-3. La delegación legislativa habrá de otorgarse al Gobierno de forma expresa para materia concreta y con fijación del plazo para su ejercicio. La delegación se agota por el uso que de ella haga el Gobierno mediante la publicación de la norma correspondiente. No podrá entenderse concedida de modo implícito o por tiempo indeterminado. Tampoco podrá permitir la subdelegación a autoridades distintas del propio Gobierno.
-
-4. Las leyes de bases delimitarán con precisión el objeto y alcance de la delegación legislativa y los principios y criterios que han de seguirse en su ejercicio.
-
-5. La autorización para refundir textos legales determinará el ámbito normativo a que se refiere el contenido de la delegación, especificando si se circunscribe a la mera formulación de un texto único o si se incluye la de regularizar, aclarar y armonizar los textos legales que han de ser refundidos.
-
-6. Sin perjuicio de la competencia propia de los Tribunales, las leyes de delegación podrán establecer en cada caso fórmulas adicionales de control.
+En el día señalado se juntarán los electores de partido con el presidente en las Casas 
+consistoriales, o en el edificio que se tenga por más a propósito para un acto tan 
+solemne, a puerta abierta, y comenzarán por nombrar a pluralidad de votos un secretario 
+y dos escrutadores de entre los mismos electores. 
 
 ### Artículo 83
-Las leyes de bases no podrán en ningún caso:
-
-a) Autorizar la modificación de la propia ley de bases.
-
-b) Facultar para dictar normas con carácter retroactivo.
+Si a una provincia no le cupiere más que un Diputado, concurrirán, a lo menos, cinco 
+electores para su nombramiento, distribuyendo este número entre los partidos en que 
+estuviere dividida, o formando partido para este solo efecto. 
 
 ### Artículo 84
-Cuando una proposición de ley o una enmienda fuere contraria a una delegación legislativa en vigor, el Gobierno está facultado para oponerse a su tramitación. En tal supuesto, podrá presentarse una proposición de ley para la derogación total o parcial de la ley de delegación.
+Se leerán los cuatro capítulos de esta Constitución que tratan de las elecciones. Después 
+se leerán las certificaciones de las actas de las elecciones hechas en las cabezas de 
+partido, remitidas por los respectivos presidentes, y asimismo presentarán los electores 
+las certificaciones de su nombramiento, para ser examinadas por el secretario y 
+escrutadores, quienes deberán al día siguiente informar si están o no arregladas. Las 
+certificaciones del secretario y escrutadores serán examinadas por una comisión de tres 
+individuos de la junta, que se nombrarán al efecto, para que informen también sobre ellas 
+en el siguiente día. 
 
 ### Artículo 85
-Las disposiciones del Gobierno que contengan legislación delegada recibirán el título de Decretos Legislativos.
+Juntos en él los electores de partido, se leerán los informes sobre las certificaciones, y si 
+se hubiere hallado reparo que oponer a alguna de ellas, o a los electores por defecto de 
+alguna de las calidades requeridas, la junta resolverá definitivamente y acto continuo lo 
+que le parezca, y lo que resolviere se ejecutará sin recurso. 
 
 ### Artículo 86
-1. En caso de extraordinaria y urgente necesidad, el Gobierno podrá dictar disposiciones legislativas provisionales que tomarán la forma de Decretos-leyes y que no podrán afectar al ordenamiento de las instituciones básicas del Estado, a los derechos, deberes y libertades de los ciudadanos regulados en el Título I, al régimen de las Comunidades Autónomas ni al Derecho electoral general.
-
-2. Los Decretos-leyes deberán ser inmediatamente sometidos a debate y votación de totalidad al Congreso de los Diputados, convocado al efecto si no estuviere reunido, en el plazo de los treinta días siguientes a su promulgación. El Congreso habrá de pronunciarse expresamente dentro de dicho plazo sobre su convalidación o derogación, para lo cual el Reglamento establecerá un procedimiento especial y sumario.
-
-3. Durante el plazo establecido en el apartado anterior, las Cortes podrán tramitarlos como proyectos de ley por el procedimiento de urgencia.
+En seguida se dirigirán los electores de partido, con su presidente, a la catedral o iglesia 
+mayor, en donde se cantará una misa solemne de Espíritu Santo, y el Obispo, o en su 
+defecto el eclesiástico de mayor dignidad, hará un discurso propio de las circunstancias. 
 
 ### Artículo 87
-1. La iniciativa legislativa corresponde al Gobierno, al Congreso y al Senado, de acuerdo con la Constitución y los Reglamentos de las Cámaras.
-
-2. Las Asambleas de las Comunidades Autónomas podrán solicitar del Gobierno la adopción de un proyecto de ley o remitir a la Mesa del Congreso una proposición de ley, delegando ante dicha Cámara un máximo de tres miembros de la Asamblea encargados de su defensa.
-
-3. Una ley orgánica regulará las formas de ejercicio y requisitos de la iniciativa popular para la presentación de proposiciones de ley. En todo caso se exigirán no menos de 500.000 firmas acreditadas. No procederá dicha iniciativa en materias propias de ley orgánica, tributarias o de carácter internacional, ni en lo relativo a la prerrogativa de gracia.
+Concluido este acto religioso, volverán al lugar de donde salieron, y a puerta a abierta, 
+ocupando los electores sus asientos sin preferencia alguna, hará el presidente la misma 
+pregunta que se contiene en el artículo 49, y se observará cuanto en él se previene. 
 
 ### Artículo 88
-Los proyectos de ley serán aprobados en Consejo de Ministros, que los someterá al Congreso, acompañados de una exposición de motivos y de los antecedentes necesarios para pronunciarse sobre ellos.
+Se procederá en seguida por los electores que se hallen presentes a la elección del 
+Diputado o Diputados, y se elegirán de uno en uno, acercándose a la mesa donde se 
+halle el presidente, los escrutadores y el secretario, y éste escribirá en una lista, a su 
+presencia, el nombre de la persona que cada uno elige. El secretario y los escrutadores 
+serán los primeros que voten. 
 
 ### Artículo 89
-1. La tramitación de las proposiciones de ley se regulará por los Reglamentos de las Cámaras, sin que la prioridad debida a los proyectos de ley impida el ejercicio de la iniciativa legislativa en los términos regulados por el artículo 87.
-
-2. Las proposiciones de ley que, de acuerdo con el artículo 87, tome en consideración el Senado, se remitirán al Congreso para su trámite en éste como tal proposición.
+Concluida la votación, el presidente, secretario y escrutadores harán la regulación de los 
+votos, y quedará elegido aquel que haya reunido, a lo menos, la mitad de los votos y uno 
+más. Si ninguno hubiere reunido la pluralidad absoluta de votos, los dos que hayan tenido 
+el mayor número entrarán en segundo escrutinio, y quedará elegido el que reúna la 
+pluralidad. En caso de empate decidirá la suerte, y hecha la elección de cada uno, la 
+publicará el presidente. 
 
 ### Artículo 90
-1. Aprobado un proyecto de ley ordinaria u orgánica por el Congreso de los Diputados, su Presidente dará inmediata cuenta del mismo al Presidente del Senado, el cual lo someterá a la deliberación de éste.
-
-2. El Senado en el plazo de dos meses, a partir del día de la recepción del texto, puede, mediante mensaje motivado, oponer su veto o introducir enmiendas al mismo. El veto deberá ser aprobado por mayoría absoluta. El proyecto no podrá ser sometido al Rey para sanción sin que el Congreso ratifique por mayoría absoluta, en caso de veto, el texto inicial, o por mayoría simple, una vez transcurridos dos meses desde la interposición del mismo, o se pronuncie sobre las enmiendas, aceptándolas o no por mayoría simple.
-
-3. El plazo de dos meses de que el Senado dispone para vetar o enmendar el proyecto se reducirá al de veinte días naturales en los proyectos declarados urgentes por el Gobierno o por el Congreso de los Diputados.
+Después de la elección de Diputados se procederá a la de suplentes, por el mismo 
+método y forma, y su número será en cada provincia la tercera parte de los Diputados 
+que le correspondan. Si a alguna provincia no le tocare elegir más que uno o dos 
+Diputados, elegirá sin embargo, un Diputado suplente. Estos concurrirán a las Cortes 
+siempre que se verifique la muerte del propietario, o su imposibilidad, a juicio de las 
+mismas, en cualquier tiempo que uno u otro accidente se verifique después de la 
+elección. 
 
 ### Artículo 91
-El Rey sancionará en el plazo de quince días las leyes aprobadas por las Cortes Generales, y las promulgará y ordenará su inmediata publicación.
+Para ser Diputado a Cortes se requiere ser ciudadano que está en el ejercicio de sus 
+derechos, mayor de veinticinco años, y que haya nacido en la provincia o esté 
+avecindado en ella con residencia, a lo menos, de siete años, bien sea del estado seglar 
+o del eclesiástico secular; pudiendo recaer la elección en los ciudadanos que componen 
+la junta, o en los de fuera de ella. 
 
 ### Artículo 92
-1. Las decisiones políticas de especial trascendencia podrán ser sometidas a referéndum consultivo de todos los ciudadanos.
+Se requiere, además para ser elegido Diputado de Cortes, tener una renta anual 
+proporcionada, procedente de bienes propios. 
 
-2. El referéndum será convocado por el Rey, mediante propuesta del Presidente del Gobierno, previamente autorizada por el Congreso de los Diputados.
-
-3. Una ley orgánica regulará las condiciones y el procedimiento de las distintas modalidades de referéndum previstas en esta Constitución.
-
-## CAPÍTULO TERCERO
-**De los Tratados Internacionales**
 ### Artículo 93
-Mediante ley orgánica se podrá autorizar la celebración de tratados por los que se atribuya a una organización o institución internacional el ejercicio de competencias derivadas de la Constitución. Corresponde a las Cortes Generales o al Gobierno, según los casos, la garantía del cumplimiento de estos tratados y de las resoluciones emanadas de los organismos internacionales o supranacionales titulares de la cesión.
+Suspéndese la disposición del artículo precedente hasta que las Cortes que en adelante 
+han de celebrarse declaren haber llegado ya el tiempo de que pueda tener efecto, 
+señalando la cuota de la renta y la calidad de los bienes de que haya de provenir; y lo que 
+entonces resolvieren se tendrá por constitucional, como si aquí se hallara expresado. 
 
 ### Artículo 94
-1. La prestación del consentimiento del Estado para obligarse por medio de tratados o convenios requerirá la previa autorización de las Cortes Generales, en los siguientes casos:
-
-a) Tratados de carácter político.
-
-b) Tratados o convenios de carácter militar.
-
-c) Tratados o convenios que afecten a la integridad territorial del Estado o a los derechos y deberes fundamentales establecidos en el Título I.
-
-d) Tratados o convenios que impliquen obligaciones financieras para la Hacienda Pública.
-
-e) Tratados o convenios que supongan modificación o derogación de alguna ley o exijan medidas legislativas para su ejecución.
-
-2. El Congreso y el Senado serán inmediatamente informados de la conclusión de los restantes tratados o convenios.
+Si sucediere que una misma persona sea elegida por la provincia de su naturaleza y por 
+la que está avecindada, subsistirá la elección por razón de la vecindad, y por la provincia 
+de su naturaleza vendrá a las Cortes el suplente a quien corresponda. 
 
 ### Artículo 95
-1. La celebración de un tratado internacional que contenga estipulaciones contrarias a la Constitución exigirá la previa revisión constitucional.
-
-2. El Gobierno o cualquiera de las Cámaras puede requerir al Tribunal Constitucional para que declare si existe o no esa contradicción.
+Los Secretarios del Despacho, los Consejeros de Estado y los que sirven empleos de la 
+Casa Real no podrán ser elegidos Diputados de Cortes. 
 
 ### Artículo 96
-1. Los tratados internacionales válidamente celebrados, una vez publicados oficialmente en España, formarán parte del ordenamiento interno. Sus disposiciones sólo podrán ser derogadas, modificadas o suspendidas en la forma prevista en los propios tratados o de acuerdo con las normas generales del Derecho internacional.
+Tampoco podrá ser elegido Diputado de Cortes ningún extranjero, aunque haya obtenido 
+de las Cortes carta de ciudadano. 
 
-2. Para la denuncia de los tratados y convenios internacionales se utilizará el mismo procedimiento previsto para su aprobación en el artículo 94.
-
-### TÍTULO IV
-**Del Gobierno y de la Administración**
 ### Artículo 97
-El Gobierno dirige la política interior y exterior, la Administración civil y militar y la defensa del Estado. Ejerce la función ejecutiva y la potestad reglamentaria de acuerdo con la Constitución y las leyes.
+Ningún empleado público nombrado por el Gobierno podrá ser elegido Diputado de 
+Cortes por la provincia en que ejerce su cargo. 
 
 ### Artículo 98
-1. El Gobierno se compone del Presidente, de los Vicepresidentes, en su caso, de los Ministros y de los demás miembros que establezca la ley.
-
-2. El Presidente dirige la acción del Gobierno y coordina las funciones de los demás miembros del mismo, sin perjuicio de la competencia y responsabilidad directa de éstos en su gestión.
-
-3. Los miembros del Gobierno no podrán ejercer otras funciones representativas que las propias del mandato parlamentario, ni cualquier otra función pública que no derive de su cargo, ni actividad profesional o mercantil alguna.
-
-4. La ley regulará el estatuto e incompatibilidades de los miembros del Gobierno.
+El secretario extenderá el acta de las elecciones, que con él firmarán el presidente y 
+todos los electores. 
 
 ### Artículo 99
-1. Después de cada renovación del Congreso de los Diputados, y en los demás supuestos constitucionales en que así proceda, el Rey, previa consulta con los representantes designados por los Grupos políticos con representación parlamentaria, y a través del Presidente del Congreso, propondrá un candidato a la Presidencia del Gobierno.
-
-2. El candidato propuesto conforme a lo previsto en el apartado anterior expondrá ante el Congreso de los Diputados el programa político del Gobierno que pretenda formar y solicitará la confianza de la Cámara.
-
-3. Si el Congreso de los Diputados, por el voto de la mayoría absoluta de sus miembros, otorgare su confianza a dicho candidato, el Rey le nombrará Presidente. De no alcanzarse dicha mayoría, se someterá la misma propuesta a nueva votación cuarenta y ocho horas después de la anterior, y la confianza se entenderá otorgada si obtuviere la mayoría simple.
-
-4. Si efectuadas las citadas votaciones no se otorgase la confianza para la investidura, se tramitarán sucesivas propuestas en la forma prevista en los apartados anteriores.
-
-5. Si transcurrido el plazo de dos meses, a partir de la primera votación de investidura, ningún candidato hubiere obtenido la confianza del Congreso, el Rey disolverá ambas Cámaras y convocará nuevas elecciones con el refrendo del Presidente del Congreso.
+En seguida otorgarán todos los electores sin excusa alguna, a todos y cada uno de los 
+Diputados, poderes amplios, según la fórmula siguiente, entregándose a cada Diputado 
+su correspondiente poder para presentarse en las 
+Cortes. 
 
 ### Artículo 100
-Los demás miembros del Gobierno serán nombrados y separados por el Rey, a propuesta de su Presidente.
+Los poderes estarán concebidos en estos términos: 
+“En la ciudad o villa de …..a ….. días del mes de ….. del año de ….., en las salas de ….., 
+hallándose congregados los señores (aquí se pondrán los nombres del presidente y de 
+los electores de partido que forman la junta electoral de la provincia), dijeron ante mí, el 
+infrascrito escribano y testigos al efecto convocados, que habiéndose procedido, con 
+arreglo a la Constitución política de la Monarquía española, al nombramiento de los 
+electores parroquiales y de partido con todas las solemnidades prescritas por la misma 
+Constitución, como constaba de las certificaciones que originales obraban en el 
+expediente, reunidos los expresados electores de los partidos de la provincia de ….. en el 
+día de ….. del mes de ….. del presente año, habían hecho el nombramiento de los 
+Diputados que en nombre y 10 representación de esta provincia han de concurrir a las 
+Cortes, y que fueron electos por Diputados para ellas por esta provincia los Sres. N.N.N., 
+como resulta del acta extendida y firmada por N.N.; que en su consecuencia les otorgan 
+poderes amplios a todos juntos, y a cada uno de por sí, para cumplir y desempeñar las 
+augustas funciones de su encargo, y para que con los demás Diputados de Cortes, como 
+representantes de la Nación española, puedan acordar y resolver cuanto entendieren 
+conducente al bien general de ella, en uso de las facultades que la Constitución 
+determina, y dentro de los límites que la misma prescribe, sin poder derogar, alterar o 
+variar en manera alguna ninguno de sus artículos bajo ningún pretexto, y que los 
+otorgantes se obligan por sí mismos y a nombre de todos los vecinos de esta provincia, 
+en virtud de las facultades que les son concedidas como electores nombrados para este 
+acto, a tener por válido, y obedecer y cumplir cuanto como tales Diputados de Cortes 
+hicieren, y se resolviere por éstas con arreglo a la Constitución política de la 
+Monarquía española. Así lo expresaron y otorgaron, hallándose presentes como testigos 
+N.N., que con los señores otorgantes lo firmaron: de que doy fe”. 
 
 ### Artículo 101
-1. El Gobierno cesa tras la celebración de elecciones generales, en los casos de pérdida de la confianza parlamentaria previstos en la Constitución, o por dimisión o fallecimiento de su Presidente.
-
-2. El Gobierno cesante continuará en funciones hasta la toma de posesión del nuevo Gobierno.
+El presidente, escrutadores y secretario remitirán inmediatamente copia firmada por los 
+mismos del acta de las elecciones a la Diputación permanente de las Cortes, y harán que 
+se publiquen las elecciones por medio de la imprenta, remitiendo un ejemplar a cada 
+pueblo de la provincia. 
 
 ### Artículo 102
-1. La responsabilidad criminal del Presidente y los demás miembros del Gobierno será exigible, en su caso, ante la Sala de lo Penal del Tribunal Supremo.
-
-2. Si la acusación fuere por traición o por cualquier delito contra la seguridad del Estado en el ejercicio de sus funciones, sólo podrá ser planteada por iniciativa de la cuarta parte de los miembros del Congreso, y con la aprobación de la mayoría absoluta del mismo.
-
-3. La prerrogativa real de gracia no será aplicable a ninguno de los supuestos del presente artículo.
+Para la indemnización de los Diputados se les asistirá por sus respectivas provincias con 
+las dietas que las Cortes, en el segundo año de cada 
+Diputación general, señalaren para la Diputación que le ha de suceder, y a los 
+Diputados de Ultramar se les abonará, además, lo que parezca necesario, a juicio de sus 
+respectivas provincias, para los gastos de viaje de ida y vuelta. 
 
 ### Artículo 103
-1. La Administración Pública sirve con objetividad los intereses generales y actúa de acuerdo con los principios de eficacia, jerarquía, descentralización, desconcentración y coordinación, con sometimiento pleno a la ley y al Derecho.
+Se observará en las juntas electorales de provincia todo lo que se prescribe en los 
+artículos 55, 56, 57 y 58, a excepción de lo que previene el art. 328. 
 
-2. Los órganos de la Administración del Estado son creados, regidos y coordinados de acuerdo con la ley.
-
-3. La ley regulará el estatuto de los funcionarios públicos, el acceso a la función pública de acuerdo con los principios de mérito y capacidad, las peculiaridades del ejercicio de su derecho a sindicación, el sistema de incompatibilidades y las garantías para la imparcialidad en el ejercicio de sus funciones.
+## CAPÍTULO VI 
+De la celebración de las Cortes. 
 
 ### Artículo 104
-1. Las Fuerzas y Cuerpos de seguridad, bajo la dependencia del Gobierno, tendrán como misión proteger el libre ejercicio de los derechos y libertades y garantizar la seguridad ciudadana.
-
-2. Una ley orgánica determinará las funciones, principios básicos de actuación y estatutos de las Fuerzas y Cuerpos de seguridad.
+Se juntarán las Cortes todos los años en la capital del reino, en edificio destinado a este 
+solo objeto. 
 
 ### Artículo 105
-La ley regulará:
-
-a) La audiencia de los ciudadanos, directamente o a través de las organizaciones y asociaciones reconocidas por la ley, en el procedimiento de elaboración de las disposiciones administrativas que les afecten.
-
-b) El acceso de los ciudadanos a los archivos y registros administrativos, salvo en lo que afecte a la seguridad y defensa del Estado, la averiguación de los delitos y la intimidad de las personas.
-
-c) El procedimiento a través del cual deben producirse los actos administrativos, garantizando, cuando proceda, la audiencia del interesado.
+Cuando tuvieren por conveniente trasladarse a otro lugar, podrán hacerlo, con tal que sea 
+a pueblo que no diste de la capital más que doce leguas, y que convengan en la 
+traslación las dos terceras partes de los Diputados presentes. 
 
 ### Artículo 106
-1. Los Tribunales controlan la potestad reglamentaria y la legalidad de la actuación administrativa, así como el sometimiento de ésta a los fines que la justifican.
-
-2. Los particulares, en los términos establecidos por la ley, tendrán derecho a ser indemnizados por toda lesión que sufran en cualquiera de sus bienes y derechos, salvo en los casos de fuerza mayor, siempre que la lesión sea consecuencia del funcionamiento de los servicios públicos.
+Las sesiones de las Cortes en cada año durarán tres meses consecutivos, dando 
+principio el día 1º, del mes de Marzo. 
 
 ### Artículo 107
-El Consejo de Estado es el supremo órgano consultivo del Gobierno. Una ley orgánica regulará su composición y competencia.
+Las Cortes podrán prorrogar sus sesiones cuando más por otro mes, en sólo dos casos: 
+primero, a petición del Rey; segundo, si las Cortes lo creyeren necesario por una 
+resolución de las dos terceras partes de los Diputados. 
 
-### TÍTULO V
-**De las relaciones entre el Gobierno y las Cortes Generales**
 ### Artículo 108
-El Gobierno responde solidariamente en su gestión política ante el Congreso de los Diputados.
+Los Diputados se renovarán en su totalidad cada dos años. 
 
 ### Artículo 109
-Las Cámaras y sus Comisiones podrán recabar, a través de los Presidentes de aquéllas, la información y ayuda que precisen del Gobierno y de sus Departamentos y de cualesquiera autoridades del Estado y de las Comunidades Autónomas.
+Si la guerra o la ocupación de alguna parte del territorio de la 
+Monarquía por el enemigo impidieren que se presenten a tiempo todos o algunos de los 
+Diputados de una o más provincias, serán suplidos los que falten por los anteriores 
+Diputados de las respectivas provincias, sorteando entre sí hasta completar el número 
+que les corresponda. 
 
 ### Artículo 110
-1. Las Cámaras y sus Comisiones pueden reclamar la presencia de los miembros del Gobierno.
-
-2. Los miembros del Gobierno tienen acceso a las sesiones de las Cámaras y a sus Comisiones y la facultad de hacerse oír en ellas, y podrán solicitar que informen ante las mismas funcionarios de sus Departamentos.
+Los Diputados no podrán volver a ser elegidos, sino mediando otra Diputación. 
 
 ### Artículo 111
-1. El Gobierno y cada uno de sus miembros están sometidos a las interpelaciones y preguntas que se le formulen en las Cámaras. Para esta clase de debate los Reglamentos establecerán un tiempo mínimo semanal.
-
-2. Toda interpelación podrá dar lugar a una moción en la que la Cámara manifieste su posición.
+Al llegar los Diputados a la capital se presentarán a la Diputación permanente de Cortes, 
+la que hará sentar sus nombres, y el de la provincia que los ha elegido, en un registro de 
+la Secretaría de las mismas Cortes. 
 
 ### Artículo 112
-El Presidente del Gobierno, previa deliberación del Consejo de Ministros, puede plantear ante el Congreso de los Diputados la cuestión de confianza sobre su programa o sobre una declaración de política general. La confianza se entenderá otorgada cuando vote a favor de la misma la mayoría simple de los Diputados.
+En el año de la renovación de los Diputados se celebrará, el día 15 de Febrero, a puerta 
+abierta, la primera junta preparatoria, haciendo de Presidente el que lo sea de la 
+Diputación permanente, y de Secretarios y escrutadores los que nombre la misma 
+Diputación de entre los restantes individuos que la componen. 
 
 ### Artículo 113
-1. El Congreso de los Diputados puede exigir la responsabilidad política del Gobierno mediante la adopción por mayoría absoluta de la moción de censura.
-
-2. La moción de censura deberá ser propuesta al menos por la décima parte de los Diputados, y habrá de incluir un candidato a la Presidencia del Gobierno.
-
-3. La moción de censura no podrá ser votada hasta que transcurran cinco días desde su presentación. En los dos primeros días de dicho plazo podrán presentarse mociones alternativas.
-
-4. Si la moción de censura no fuere aprobada por el Congreso, sus signatarios no podrán presentar otra durante el mismo período de sesiones.
+En esta primera junta presentarán todos los Diputados sus poderes, y se nombrarán a 
+pluralidad de votos dos Comisiones, una de cinco individuos, para que examine los 
+poderes de todos los Diputados, y otra de tres, para que examine los de estos cinco 
+individuos de la Comisión. 
 
 ### Artículo 114
-1. Si el Congreso niega su confianza al Gobierno, éste presentará su dimisión al Rey, procediéndose a continuación a la designación de Presidente del Gobierno, según lo dispuesto en el artículo 99.
-
-2. Si el Congreso adopta una moción de censura, el Gobierno presentará su dimisión al Rey y el candidato incluido en aquélla se entenderá investido de la confianza de la Cámara a los efectos previstos en el artículo 99. El Rey le nombrará Presidente del Gobierno.
+El día 20 del mismo Febrero se celebrará también, a puerta abierta, la segunda junta 
+preparatoria, en la que las dos Comisiones informarán sobre la legitimidad de los 
+poderes, habiendo tenido presentes las copias de las actas de las elecciones 
+provinciales. 
 
 ### Artículo 115
-1. El Presidente del Gobierno, previa deliberación del Consejo de Ministros, y bajo su exclusiva responsabilidad, podrá proponer la disolución del Congreso, del Senado o de las Cortes Generales, que será decretada por el Rey. El decreto de disolución fijará la fecha de las elecciones.
-
-2. La propuesta de disolución no podrá presentarse cuando esté en trámite una moción de censura.
-
-3. No procederá nueva disolución antes de que transcurra un año desde la anterior, salvo lo dispuesto en el artículo 99, apartado 5.
+En esta junta, y en las demás que sean necesarias hasta el día 25, se resolverán 
+definitivamente, y a pluralidad de votos, las dudas que se susciten sobre la legitimidad de 
+los poderes y calidades de los Diputados. 
 
 ### Artículo 116
-1. Una ley orgánica regulará los estados de alarma, de excepción y de sitio, y las competencias y limitaciones correspondientes.
+En el año siguiente al de la renovación de los Diputados, se tendrá la primera junta 
+preparatoria el día 20 de Febrero, y hasta el 25 las que se crean necesarias para 
+resolver, en el modo y forma que se ha expresado en los tres artículos precedentes, 
+sobre la legitimidad de los poderes de los Diputados que de nuevo se presenten. 
 
-2. El estado de alarma será declarado por el Gobierno mediante decreto acordado en Consejo de Ministros por un plazo máximo de quince días, dando cuenta al Congreso de los Diputados, reunido inmediatamente al efecto y sin cuya autorización no podrá ser prorrogado dicho plazo. El decreto determinará el ámbito territorial a que se extienden los efectos de la declaración.
-
-3. El estado de excepción será declarado por el Gobierno mediante decreto acordado en Consejo de Ministros, previa autorización del Congreso de los Diputados. La autorización y proclamación del estado de excepción deberá determinar expresamente los efectos del mismo, el ámbito territorial a que se extiende y su duración, que no podrá exceder de treinta días, prorrogables por otro plazo igual, con los mismos requisitos.
-
-4. El estado de sitio será declarado por la mayoría absoluta del Congreso de los Diputados, a propuesta exclusiva del Gobierno. El Congreso determinará su ámbito territorial, duración y condiciones.
-
-5. No podrá procederse a la disolución del Congreso mientras estén declarados algunos de los estados comprendidos en el presente artículo, quedando automáticamente convocadas las Cámaras si no estuvieren en período de sesiones. Su funcionamiento, así como el de los demás poderes constitucionales del Estado, no podrán interrumpirse durante la vigencia de estos estados.
-
-Disuelto el Congreso o expirado su mandato, si se produjere alguna de las situaciones que dan lugar a cualquiera de dichos estados, las competencias del Congreso serán asumidas por su Diputación Permanente.
-
-6. La declaración de los estados de alarma, de excepción y de sitio no modificarán el principio de responsabilidad del Gobierno y de sus agentes reconocidos en la Constitución y en las leyes.
-
-### TÍTULO VI
-**Del Poder Judicial**
 ### Artículo 117
-1. La justicia emana del pueblo y se administra en nombre del Rey por Jueces y Magistrados integrantes del poder judicial, independientes, inamovibles, responsables y sometidos únicamente al imperio de la ley.
-
-2. Los Jueces y Magistrados no podrán ser separados, suspendidos, trasladados ni jubilados, sino por alguna de las causas y con las garantías previstas en la ley.
-
-3. El ejercicio de la potestad jurisdiccional en todo tipo de procesos, juzgando y haciendo ejecutar lo juzgado, corresponde exclusivamente a los Juzgados y Tribunales determinados por las leyes, según las normas de competencia y procedimiento que las mismas establezcan.
-
-4. Los Juzgados y Tribunales no ejercerán más funciones que las señaladas en el apartado anterior y las que expresamente les sean atribuidas por ley en garantía de cualquier derecho.
-
-5. El principio de unidad jurisdiccional es la base de la organización y funcionamiento de los Tribunales. La ley regulará el ejercicio de la jurisdicción militar en el ámbito estrictamente castrense y en los supuestos de estado de sitio, de acuerdo con los principios de la Constitución.
-
-6. Se prohíben los Tribunales de excepción.
+En todos los años, el día 25 de Febrero, se celebrará la última junta preparatoria, en la 
+que se hará por todos los Diputados, poniendo la mano sobre los Santos Evangelios, el 
+juramento siguiente: ¿Juráis defender y conservar la religión Católica, Apostólica, 
+Romana, sin admitir otra alguna en el Reino? --R. Sí juro. -- ¿Juráis guardar y hacer 
+guardar religiosamente la Constitución política de la Monarquía española, sancionada por 
+las Cortes generales y extraordinarias de la Nación en el año de 1812? –R. Sí juro. --
+¿Juráis haberos bien y fielmente en el cargo que la Nación os ha encomendado, mirando 
+en todo por el bien y prosperidad de la misma Nación? –R. Sí juro. –Si así lo hiciereis, 
+Dios os lo premie, y si no, os lo demande. 
 
 ### Artículo 118
-Es obligado cumplir las sentencias y demás resoluciones firmes de los Jueces y Tribunales, así como prestar la colaboración requerida por éstos en el curso del proceso y en la ejecución de lo resuelto.
+En seguida se procederá a elegir de entre los mismos Diputados, por escrutinio secreto y 
+a pluralidad absoluta de votos, un Presidente, un Vicepresidente y cuatro Secretarios, con 
+lo que se tendrán por constituidas y formadas las Corte s, y la Diputación permanente 
+cesará en todas sus funciones. 
 
 ### Artículo 119
-La justicia será gratuita cuando así lo disponga la ley y, en todo caso, respecto de quienes acrediten insuficiencia de recursos para litigar.
+Se nombrará en el mismo día una diputación de 22 individuos, y dos de los Secretarios, 
+para que pase a dar parte el Rey de hallarse constituidas las 
+ Cortes, y del Presidente que han elegido, a fin de que manifieste si asistirá a la apertura 
+de las Cortes que se celebrará el día 1º. De Marzo. 
 
 ### Artículo 120
-1. Las actuaciones judiciales serán públicas, con las excepciones que prevean las leyes de procedimiento.
-
-2. El procedimiento será predominantemente oral, sobre todo en materia criminal.
-
-3. Las sentencias serán siempre motivadas y se pronunciarán en audiencia pública.
+Si el Rey se hallare fuera de la capital, se le hará esta participación por escrito, y el Rey 
+contestará del mismo modo. 
 
 ### Artículo 121
-Los daños causados por error judicial, así como los que sean consecuencia del funcionamiento anormal de la Administración de Justicia, darán derecho a una indemnización a cargo del Estado, conforme a la ley.
+El Rey asistirá por sí mismo a la apertura de las Cortes, y si tuviere impedimento, la hará 
+el Presidente el día señalado, sin que por ningún motivo pueda diferirse para otro. Las 
+mismas formalidades se observarán para el acto de cerrarse las Cortes. 
 
-### Artículo 122
-1. La ley orgánica del poder judicial determinará la constitución, funcionamiento y gobierno de los Juzgados y Tribunales, así como el estatuto jurídico de los Jueces y Magistrados de carrera, que formarán un Cuerpo único, y del personal al servicio de la Administración de Justicia.
-
-2. El Consejo General del Poder Judicial es el órgano de gobierno del mismo. La ley orgánica establecerá su estatuto y el régimen de incompatibilidades de sus miembros y sus funciones, en particular en materia de nombramientos, ascensos, inspección y régimen disciplinario.
-
-3. El Consejo General del Poder Judicial estará integrado por el Presidente del Tribunal Supremo, que lo presidirá, y por veinte miembros nombrados por el Rey por un período de cinco años. De éstos, doce entre Jueces y Magistrados de todas las categorías judiciales, en los términos que establezca la ley orgánica; cuatro a propuesta del Congreso de los Diputados, y cuatro a propuesta del Senado, elegidos en ambos casos por mayoría de tres quintos de sus miembros, entre abogados y otros juristas, todos ellos de reconocida competencia y con más de quince años de ejercicio en su profesión.
+### Artículo 122. 
+En la sala de las Cortes entrará el Rey sin guardia, y sólo le acompañarán las personas 
+que determine el ceremonial para el recibimiento y despedida del Rey que se prescriba 
+en el reglamento del gobierno interior de las 
+Cortes. 
 
 ### Artículo 123
-1. El Tribunal Supremo, con jurisdicción en toda España, es el órgano jurisdiccional superior en todos los órdenes, salvo lo dispuesto en materia de garantías constitucionales.
-
-2. El Presidente del Tribunal Supremo será nombrado por el Rey, a propuesta del Consejo General del Poder Judicial, en la forma que determine la ley.
+El Rey hará un discurso, en el que propondrá a las Cortes lo que crea conveniente, y al 
+que el Presidente contestará en términos generales. Si no asistiere el Rey, remitirá su 
+discurso al Presidente para que por éste se lea en las Cortes. 
 
 ### Artículo 124
-1. El Ministerio Fiscal, sin perjuicio de las funciones encomendadas a otros órganos, tiene por misión promover la acción de la justicia en defensa de la legalidad, de los derechos de los ciudadanos y del interés público tutelado por la ley, de oficio o a petición de los interesados, así como velar por la independencia de los Tribunales y procurar ante éstos la satisfacción del interés social.
-
-2. El Ministerio Fiscal ejerce sus funciones por medio de órganos propios conforme a los principios de unidad de actuación y dependencia jerárquica y con sujeción, en todo caso, a los de legalidad e imparcialidad.
-
-3. La ley regulará el estatuto orgánico del Ministerio Fiscal.
-
-4. El Fiscal General del Estado será nombrado por el Rey, a propuesta del Gobierno, oído el Consejo General del Poder Judicial.
+Las Cortes no podrán deliberar en la presencia del Rey. 
 
 ### Artículo 125
-Los ciudadanos podrán ejercer la acción popular y participar en la Administración de Justicia mediante la institución del Jurado, en la forma y con respecto a aquellos procesos penales que la ley determine, así como en los Tribunales consuetudinarios y tradicionales.
+En los casos en que los Secretarios del Despacho hagan a las Cortes algunas propuestas 
+a nombre del Rey, asistirán a las discusiones cuándo y del modo que las Cortes 
+determinen, y hablarán en ellas; pero no podrán estar presentes a la votación. 
 
 ### Artículo 126
-La policía judicial depende de los Jueces, de los Tribunales y del Ministerio Fiscal en sus funciones de averiguación del delito y descubrimiento y aseguramiento del delincuente, en los términos que la ley establezca.
+Las sesiones de las Cortes serán públicas, y sólo en los casos que exijan reserva podrá 
+celebrarse sesión secreta. 
 
 ### Artículo 127
-1. Los Jueces y Magistrados así como los Fiscales, mientras se hallen en activo, no podrán desempeñar otros cargos públicos, ni pertenecer a partidos políticos o sindicatos. La ley establecerá el sistema y modalidades de asociación profesional de los Jueces, Magistrados y Fiscales.
+En las discusiones de las Cortes, y en todo lo demás que pertenezca a su gobierno y 
+orden interior, se observará el reglamento que se forme por estas Cortes generales y 
+extraordinarias, sin perjuicio de las reformas que las sucesivas tuvieren por conveniente 
+hacer en él. 
 
-2. La ley establecerá el régimen de incompatibilidades de los miembros del poder judicial, que deberá asegurar la total independencia de los mismos.
-
-### TÍTULO VII
-**Economía y Hacienda**
 ### Artículo 128
-1. Toda la riqueza del país en sus distintas formas y sea cual fuere su titularidad está subordinada al interés general.
-
-2. Se reconoce la iniciativa pública en la actividad económica. Mediante ley se podrá reservar al sector público recursos o servicios esenciales, especialmente en caso de monopolio y asimismo acordar la intervención de empresas cuando así lo exigiere el interés general.
+Los Diputados serán inviolables por sus opiniones, y en ningún tiempo ni caso, ni por 
+ninguna autoridad, podrán ser reconvenidos por ellas. En las causas criminales que 
+contra ellos se intentaren, no podrán ser juzgados sino por el Tribunal de Cortes en el 
+modo y forma que se prescriba en el reglamento del gobierno interior de las mismas. 
+Durante las sesiones de las Cortes, y un mes después, los Diputados no podrán ser 
+demandados civilmente, ni ejecutados por deudas. 
 
 ### Artículo 129
-1. La ley establecerá las formas de participación de los interesados en la Seguridad Social y en la actividad de los organismos públicos cuya función afecte directamente a la calidad de la vida o al bienestar general.
-
-2. Los poderes públicos promoverán eficazmente las diversas formas de participación en la empresa y fomentarán, mediante una legislación adecuada, las sociedades cooperativas. También establecerán los medios que faciliten el acceso de los trabajadores a la propiedad de los medios de producción.
+Durante el tiempo de su Diputación, contado para este efecto desde que el nombramiento 
+conste en la permanente de Cortes, no podrán los Diputados admitir para sí, ni solicitar 
+para otro, empleo alguno de provisión del Rey, ni aun ascenso, como no sea de escala en 
+su respectiva carrera. 
 
 ### Artículo 130
-1. Los poderes públicos atenderán a la modernización y desarrollo de todos los sectores económicos y, en particular, de la agricultura, de la ganadería, de la pesca y de la artesanía, a fin de equiparar el nivel de vida de todos los españoles.
+Del mismo modo no podrán, durante el tiempo de su diputación, y un año después del 
+último acto de sus funciones, obtener para sí, ni solicitar para otro, pensión ni 
+condecoración alguna que sea también de provisión del Rey. 
 
-2. Con el mismo fin, se dispensará un tratamiento especial a las zonas de montaña.
+## CAPÍTULO VII 
+De las facultades de las Cortes. 
 
 ### Artículo 131
-1. El Estado, mediante ley, podrá planificar la actividad económica general para atender a las necesidades colectivas, equilibrar y armonizar el desarrollo regional y sectorial y estimular el crecimiento de la renta y de la riqueza y su más justa distribución.
+Las facultades de las Cortes son: 
+Primera. Proponer y decretar las leyes, e interpretarlas y derogarlas en caso necesario. 
+Segunda. Recibir el juramento al Rey, al Príncipe de Asturias y a la Regencia, como se 
+previene en sus lugares. 
+Tercera. Resolver cualquiera duda, de hecho o de derecho, que ocurra en orden a la 
+sucesión a la Corona. 
+Cuarta. Elegir Regencia o Regente del Reino cuando lo previene la Constitución, y 
+señalar las limitaciones con que la Regencia o el Regente han de ejercer la autoridad 
+Real. 
+Quinta. Hacer el reconocimiento público del Príncipe de Asturias. 
+Sexta. Nombrar tutor al Rey menor, cuando lo previene la Constitución. 
+Séptima. Aprobar antes de su ratificación los tratados de alianza ofensiva, los de 
+subsidios y los especiales de comercio. 
+Octava. Conceder o negar la admisión de tropas extranjeras en el Reino. 
+Novena. Decretar la creación y supresión de plazas en los Tribunales que establece la 
+Constitución, e igualmente la creación y supresión de los oficios públicos. 
+Décima. Fijar todos los años, a propuesta del Rey, las fuerzas de tierra y de mar, 
+determinando las que se hayan de tener en pie en tiempo de paz, y su aumento en 
+tiempo de guerra. 
+Undécima. Dar ordenanzas al ejército, armada y milicia nacional en todos los ramos que 
+los constituyen. 
+Duodécima. Fijar los gastos de la administración pública. 
+Décimotercera. Establecer anualmente las contribuciones e impuestos. 
+Décimocuarta. Tomar caudales a préstamo en casos de necesidad sobre el crédito de la 
+Nación. 
+Décimoquinta. Aprobar el repartimiento de las contribuciones entre las provincias. 
+Décimosexta. Examinar y aprobar las cuentas de la inversión de los caudales públicos. 
+Décimoséptima. Establecer las aduanas y aranceles de derechos. 
+Décimoctava. Disponer lo conveniente para la administración, conservación y 
+enajenación de los bienes nacionales. 
+Décimanona. Determinar el valor, pero, ley, tipo y denominación de las monedas. 
+Vigésima. Adoptar el sistema que se juzgue más cómodo y justo de pesos y medidas. 
+Vigésimaprima. Promover y fomentar toda especie de industria, y remover los obstáculos 
+que la entorpezcan. 
+Vigésimasegunda. Establecer el plan general de enseñanza pública en toda la 
+Monarquía, y aprobar el que se forme para la educación del Príncipe de Asturias. 
+Vigésimatercia. Aprobar los reglamentos generales para la policía y sanidad del Reino. 
+Vigésimacuarta. Proteger la libertad política de la imprenta. 
+Vigésimaquinta. Hacer efectiva la responsabilidad de los Secretarios del Despacho y 
+demás empleados públicos. 
+Vigésimasexta. Por último, pertenece a las Cortes dar o negar su consentimiento en 
+todos aquellos casos y actos para los que se previene en la Constitución ser necesario. 
 
-2. El Gobierno elaborará los proyectos de planificación, de acuerdo con las previsiones que le sean suministradas por las Comunidades Autónomas y el asesoramiento y colaboración de los sindicatos y otras organizaciones profesionales, empresariales y económicas. A tal fin se constituirá un Consejo, cuya composición y funciones se desarrollarán por ley.
+## CAPÍTULO VIII 
+De la formación de las leyes y de la sanción Real. 
 
 ### Artículo 132
-1. La ley regulará el régimen jurídico de los bienes de dominio público y de los comunales, inspirándose en los principios de inalienabilidad, imprescriptibilidad e inembargabilidad, así como su desafectación.
-
-2. Son bienes de dominio público estatal los que determine la ley y, en todo caso, la zona marítimo-terrestre, las playas, el mar territorial y los recursos naturales de la zona económica y la plataforma continental.
-
-3. Por ley se regularán el Patrimonio del Estado y el Patrimonio Nacional, su administración, defensa y conservación.
+Todos Diputado tiene la facultad de proponer a las Cortes los proyectos de ley, 
+haciéndolo por escrito, y exponiendo las razones en que se funde. 
 
 ### Artículo 133
-1. La potestad originaria para establecer los tributos corresponde exclusivamente al Estado, mediante ley.
-
-2. Las Comunidades Autónomas y las Corporaciones locales podrán establecer y exigir tributos, de acuerdo con la Constitución y las leyes.
-
-3. Todo beneficio fiscal que afecte a los tributos del Estado deberá establecerse en virtud de ley.
-
-4. Las administraciones públicas sólo podrán contraer obligaciones financieras y realizar gastos de acuerdo con las leyes.
+Dos días, a lo menos, después de presentado y leído el proyecto de ley, se leerá por 
+segunda vez, y las Cortes deliberarán si se admite o no a discusión. 
 
 ### Artículo 134
-1. Corresponde al Gobierno la elaboración de los Presupuestos Generales del Estado y a las Cortes Generales, su examen, enmienda y aprobación.
-
-2. Los Presupuestos Generales del Estado tendrán carácter anual, incluirán la totalidad de los gastos e ingresos del sector público estatal y en ellos se consignará el importe de los beneficios fiscales que afecten a los tributos del Estado.
-
-3. El Gobierno deberá presentar ante el Congreso de los Diputados los Presupuestos Generales del Estado al menos tres meses antes de la expiración de los del año anterior.
-
-4. Si la Ley de Presupuestos no se aprobara antes del primer día del ejercicio económico correspondiente, se considerarán automáticamente prorrogados los Presupuestos del ejercicio anterior hasta la aprobación de los nuevos.
-
-5. Aprobados los Presupuestos Generales del Estado, el Gobierno podrá presentar proyectos de ley que impliquen aumento del gasto público o disminución de los ingresos correspondientes al mismo ejercicio presupuestario.
-
-6. Toda proposición o enmienda que suponga aumento de los créditos o disminución de los ingresos presupuestarios requerirá la conformidad del Gobierno para su tramitación.
-
-7. La Ley de Presupuestos no puede crear tributos. Podrá modificarlos cuando una ley tributaria sustantiva así lo prevea.
+Admitido a discusión, si la gravedad del asunto requiriese, a juicio de las Cortes, que 
+pase previamente a una Comisión, se ejecutará así. 
 
 ### Artículo 135
-1. Todas las Administraciones Públicas adecuarán sus actuaciones al principio de estabilidad presupuestaria.
-
-2. El Estado y las Comunidades Autónomas no podrán incurrir en un déficit estructural que supere los márgenes establecidos, en su caso, por la Unión Europea para sus Estados Miembros.
-
-Una ley orgánica fijará el déficit estructural máximo permitido al Estado y a las Comunidades Autónomas, en relación con su producto interior bruto. Las Entidades Locales deberán presentar equilibrio presupuestario.
-
-3. El Estado y las Comunidades Autónomas habrán de estar autorizados por ley para emitir deuda pública o contraer crédito.
-
-Los créditos para satisfacer los intereses y el capital de la deuda pública de las Administraciones se entenderán siempre incluidos en el estado de gastos de sus presupuestos y su pago gozará de prioridad absoluta. Estos créditos no podrán ser objeto de enmienda o modificación, mientras se ajusten a las condiciones de la ley de emisión.
-
-El volumen de deuda pública del conjunto de las Administraciones Públicas en relación con el producto interior bruto del Estado no podrá superar el valor de referencia establecido en el Tratado de Funcionamiento de la Unión Europea.
-
-4. Los límites de déficit estructural y de volumen de deuda pública sólo podrán superarse en caso de catástrofes naturales, recesión económica o situaciones de emergencia extraordinaria que escapen al control del Estado y perjudiquen considerablemente la situación financiera o la sostenibilidad económica o social del Estado, apreciadas por la mayoría absoluta de los miembros del Congreso de los Diputados.
-
-5. Una ley orgánica desarrollará los principios a que se refiere este artículo, así como la participación, en los procedimientos respectivos, de los órganos de coordinación institucional entre las Administraciones Públicas en materia de política fiscal y financiera. En todo caso, regulará:
-
-a) La distribución de los límites de déficit y de deuda entre las distintas Administraciones Públicas, los supuestos excepcionales de superación de los mismos y la forma y plazo de corrección de las desviaciones que sobre uno y otro pudieran producirse.
-
-b) La metodología y el procedimiento para el cálculo del déficit estructural.
-
-c) La responsabilidad de cada Administración Pública en caso de incumplimiento de los objetivos de estabilidad presupuestaria.
-
-6. Las Comunidades Autónomas, de acuerdo con sus respectivos Estatutos y dentro de los límites a que se refiere este artículo, adoptarán las disposiciones que procedan para la aplicación efectiva del principio de estabilidad en sus normas y decisiones presupuestarias.
+Cuatro días, a lo menos, después de admitido a discusión el proyecto, se leerá tercera 
+vez, y se podrá señalar día para abrir la discusión. 
 
 ### Artículo 136
-1. El Tribunal de Cuentas es el supremo órgano fiscalizador de las cuentas y de la gestión económica de Estado, así como del sector público.
+Llegado el día señalado para la discusión, abrazará ésta el proyecto en su totalidad, y en 
+cada uno de sus artículos. 
 
-Dependerá directamente de las Cortes Generales y ejercerá sus funciones por delegación de ellas en el examen y comprobación de la Cuenta General del Estado.
-
-2. Las cuentas del Estado y del sector público estatal se rendirán al Tribunal de Cuentas y serán censuradas por éste.
-
-El Tribunal de Cuentas, sin perjuicio de su propia jurisdicción, remitirá a las Cortes Generales un informe anual en el que, cuando proceda, comunicará las infracciones o responsabilidades en que, a su juicio, se hubiere incurrido.
-
-3. Los miembros del Tribunal de Cuentas gozarán de la misma independencia e inamovilidad y estarán sometidos a las mismas incompatibilidades que los Jueces.
-
-4. Una ley orgánica regulará la composición, organización y funciones del Tribunal de Cuentas.
-
-### TÍTULO VIII
-**De la Organización Territorial del Estado**
-## CAPÍTULO PRIMERO
-**Principios generales**
 ### Artículo 137
-El Estado se organiza territorialmente en municipios, en provincias y en las Comunidades Autónomas que se constituyan. Todas estas entidades gozan de autonomía para la gestión de sus respectivos intereses.
+Las Cortes decidirán cuándo la materia está suficientemente discutida, y decidido que lo 
+está, se resolverá si ha lugar o no a la votación. 
 
 ### Artículo 138
-1. El Estado garantiza la realización efectiva del principio de solidaridad consagrado en el artículo 2 de la Constitución, velando por el establecimiento de un equilibrio económico, adecuado y justo entre las diversas partes del territorio español, y atendiendo en particular a las circunstancias del hecho insular.
-
-2. Las diferencias entre los Estatutos de las distintas Comunidades Autónomas no podrán implicar, en ningún caso, privilegios económicos o sociales.
+Decidido que ha lugar a la votación, se procederá a ella inmediatamente, admitiendo o 
+desechando en todo o en parte el proyecto, o variándole y modificándole, según las 
+observaciones que se hayan hecho en la discusión. 
 
 ### Artículo 139
-1. Todos los españoles tienen los mismos derechos y obligaciones en cualquier parte del territorio del Estado.
+La votación se hará a pluralidad absoluta de votos, y para proceder a ella, será necesario 
+que se hallen presentes, a lo menos, la mitad y uno más de la totalidad de los Diputados 
+que deben componer las Cortes. 
 
-2. Ninguna autoridad podrá adoptar medidas que directa o indirectamente obstaculicen la libertad de circulación y establecimiento de las personas y la libre circulación de bienes en todo el territorio español.
-
-## CAPÍTULO SEGUNDO
-**De la Administración Local**
 ### Artículo 140
-La Constitución garantiza la autonomía de los municipios. Estos gozarán de personalidad jurídica plena. Su gobierno y administración corresponde a sus respectivos Ayuntamientos, integrados por los Alcaldes y los Concejales. Los Concejales serán elegidos por los vecinos del municipio mediante sufragio universal, igual, libre, directo y secreto, en la forma establecida por la ley. Los Alcaldes serán elegidos por los Concejales o por los vecinos. La ley regulará las condiciones en las que proceda el régimen del concejo abierto.
+Si las Cortes desecharen un proyecto de ley en cualquier estado de su examen, o 
+resolvieren que no debe procederse a la votación, no podrá volver a proponerse en el 
+mismo año. 
 
 ### Artículo 141
-1. La provincia es una entidad local con personalidad jurídica propia, determinada por la agrupación de municipios y división territorial para el cumplimiento de las actividades del Estado. Cualquier alteración de los límites provinciales habrá de ser aprobada por las Cortes Generales mediante ley orgánica.
-
-2. El gobierno y la administración autónoma de las provincias estarán encomendados a Diputaciones u otras Corporaciones de carácter representativo.
-
-3. Se podrán crear agrupaciones de municipios diferentes de la provincia.
-
-4. En los archipiélagos, las islas tendrán además su administración propia en forma de Cabildos o Consejos.
+Si hubiere sido adoptado, se extenderá por duplicado en forma de ley, y se leerá en las 
+Cortes; hecho lo cual, y firmados ambos originales por el 
+Presidente y dos Secretarios, serán presentados inmediatamente al Rey por una 
+Diputación. 
 
 ### Artículo 142
-Las Haciendas locales deberán disponer de los medios suficientes para el desempeño de las funciones que la ley atribuye a las Corporaciones respectivas y se nutrirán fundamentalmente de tributos propios y de participación en los del Estado y de las Comunidades Autónomas.
+El Rey tiene la sanción de las leyes. 
 
-## CAPÍTULO TERCERO
-**De las Comunidades Autónomas**
 ### Artículo 143
-1. En el ejercicio del derecho a la autonomía reconocido en el artículo 2 de la Constitución, las provincias limítrofes con características históricas, culturales y económicas comunes, los territorios insulares y las provincias con entidad regional histórica podrán acceder a su autogobierno y constituirse en Comunidades Autónomas con arreglo a lo previsto en este Título y en los respectivos Estatutos.
-
-2. La iniciativa del proceso autonómico corresponde a todas las Diputaciones interesadas o al órgano interinsular correspondiente y a las dos terceras partes de los municipios cuya población represente, al menos, la mayoría del censo electoral de cada provincia o isla. Estos requisitos deberán ser cumplidos en el plazo de seis meses desde el primer acuerdo adoptado al respecto por alguna de las Corporaciones locales interesadas.
-
-3. La iniciativa, en caso de no prosperar, solamente podrá reiterarse pasados cinco años.
+Da el Rey la sanción por esta fórmula, firmada de su mano: 
+“Publíquese como ley”. 
 
 ### Artículo 144
-Las Cortes Generales, mediante ley orgánica, podrán, por motivos de interés nacional:
-
-a) Autorizar la constitución de una comunidad autónoma cuando su ámbito territorial no supere el de una provincia y no reúna las condiciones del apartado 1 del artículo 143.
-
-b) Autorizar o acordar, en su caso, un Estatuto de autonomía para territorios que no estén integrados en la organización provincial.
-
-c) Sustituir la iniciativa de las Corporaciones locales a que se refiere el apartado 2 del artículo 143.
+Niega el Rey la sanción por esta fórmula igualmente firmada de su mano: “Vuelva a las 
+Cortes”; acompañado al mismo tiempo una exposición de las razones que ha tenido para 
+negarla. 
 
 ### Artículo 145
-1. En ningún caso se admitirá la federación de Comunidades Autónomas.
-
-2. Los Estatutos podrán prever los supuestos, requisitos y términos en que las Comunidades Autónomas podrán celebrar convenios entre sí para la gestión y prestación de servicios propios de las mismas, así como el carácter y efectos de la correspondiente comunicación a las Cortes Generales. En los demás supuestos, los acuerdos de cooperación entre las Comunidades Autónomas necesitarán la autorización de las Cortes Generales.
+Tendrá el Rey treinta días para usar de esta prerrogativa: si dentro de ellos no hubiere 
+dado o negado la sanción, por el mismo hecho se entenderá que la ha dado, y la dará en 
+efecto. 
 
 ### Artículo 146
-El proyecto de Estatuto será elaborado por una asamblea compuesta por los miembros de la Diputación u órgano interinsular de las provincias afectadas y por los Diputados y Senadores elegidos en ellas y será elevado a las Cortes Generales para su tramitación como ley.
+Dada o negada la sanción por el Rey, devolverá a las Cortes uno de los originales con la 
+fórmula respectiva, para darse cuenta en ellas. Este original se conservará en el archivo 
+de las Cortes, y el duplicado quedará en poder del Rey. 
 
 ### Artículo 147
-1. Dentro de los términos de la presente Constitución, los Estatutos serán la norma institucional básica de cada Comunidad Autónoma y el Estado los reconocerá y amparará como parte integrante de su ordenamiento jurídico.
-
-2. Los Estatutos de autonomía deberán contener:
-
-a) La denominación de la Comunidad que mejor corresponda a su identidad histórica.
-
-b) La delimitación de su territorio.
-
-c) La denominación, organización y sede de las instituciones autónomas propias.
-
-d) Las competencias asumidas dentro del marco establecido en la Constitución y las bases para el traspaso de los servicios correspondientes a las mismas.
-
-3. La reforma de los Estatutos se ajustará al procedimiento establecido en los mismos y requerirá, en todo caso, la aprobación por las Cortes Generales, mediante ley orgánica.
+Si el Rey negare la sanción, no se volverá a tratar del mismo asunto en las Cortes de 
+aquel año; pero podrá hacerse en las del siguiente. 
 
 ### Artículo 148
-1. Las Comunidades Autónomas podrán asumir competencias en las siguientes materias:
-
-1.ª Organización de sus instituciones de autogobierno.
-
-2.ª Las alteraciones de los términos municipales comprendidos en su territorio y, en general, las funciones que correspondan a la Administración del Estado sobre las Corporaciones locales y cuya transferencia autorice la legislación sobre Régimen Local.
-
-3.ª Ordenación del territorio, urbanismo y vivienda.
-
-4.ª Las obras públicas de interés de la Comunidad Autónoma en su propio territorio.
-
-5.ª Los ferrocarriles y carreteras cuyo itinerario se desarrolle íntegramente en el territorio de la Comunidad Autónoma y, en los mismos términos, el transporte desarrollado por estos medios o por cable.
-
-6.ª Los puertos de refugio, los puertos y aeropuertos deportivos y, en general, los que no desarrollen actividades comerciales.
-
-7.ª La agricultura y ganadería, de acuerdo con la ordenación general de la economía.
-
-8.ª Los montes y aprovechamientos forestales.
-
-9.ª La gestión en materia de protección del medio ambiente.
-
-10.ª Los proyectos, construcción y explotación de los aprovechamientos hidráulicos, canales y regadíos de interés de la Comunidad Autónoma; las aguas minerales y termales.
-
-11.ª La pesca en aguas interiores, el marisqueo y la acuicultura, la caza y la pesca fluvial.
-
-12.ª Ferias interiores.
-
-13.ª El fomento del desarrollo económico de la Comunidad Autónoma dentro de los objetivos marcados por la política económica nacional.
-
-14.ª La artesanía.
-
-15.ª Museos, bibliotecas y conservatorios de música de interés para la Comunidad Autónoma.
-
-16.ª Patrimonio monumental de interés de la Comunidad Autónoma.
-
-17.ª El fomento de la cultura, de la investigación y, en su caso, de la enseñanza de la lengua de la Comunidad Autónoma.
-
-18.ª Promoción y ordenación del turismo en su ámbito territorial.
-
-19.ª Promoción del deporte y de la adecuada utilización del ocio.
-
-20.ª Asistencia social.
-
-21.ª Sanidad e higiene.
-
-22.ª La vigilancia y protección de sus edificios e instalaciones. La coordinación y demás facultades en relación con las policías locales en los términos que establezca una ley orgánica.
-
-2. Transcurridos cinco años, y mediante la reforma de sus Estatutos, las Comunidades Autónomas podrán ampliar sucesivamente sus competencias dentro del marco establecido en el artículo 149.
+Si en las Cortes del siguiente año fuere de nuevo propuesto, admitido y aprobado el 
+mismo proyecto, presentado que sea al Rey, podrá dar la sanción, o negarla segunda vez 
+en los términos de los artículos 143 y 144, y en el último caso, no se tratará del mismo 
+asunto en aquel año. 
 
 ### Artículo 149
-1. El Estado tiene competencia exclusiva sobre las siguientes materias:
-
-1.ª La regulación de las condiciones básicas que garanticen la igualdad de todos los españoles en el ejercicio de los derechos y en el cumplimiento de los deberes constitucionales.
-
-2.ª Nacionalidad, inmigración, emigración, extranjería y derecho de asilo.
-
-3.ª Relaciones internacionales.
-
-4.ª Defensa y Fuerzas Armadas.
-
-5.ª Administración de Justicia.
-
-6.ª Legislación mercantil, penal y penitenciaria; legislación procesal, sin perjuicio de las necesarias especialidades que en este orden se deriven de las particularidades del derecho sustantivo de las Comunidades Autónomas.
-
-7.ª Legislación laboral; sin perjuicio de su ejecución por los órganos de las Comunidades Autónomas.
-
-8.ª Legislación civil, sin perjuicio de la conservación, modificación y desarrollo por las Comunidades Autónomas de los derechos civiles, forales o especiales, allí donde existan. En todo caso, las reglas relativas a la aplicación y eficacia de las normas jurídicas, relaciones jurídico-civiles relativas a las formas de matrimonio, ordenación de los registros e instrumentos públicos, bases de las obligaciones contractuales, normas para resolver los conflictos de leyes y determinación de las fuentes del Derecho, con respeto, en este último caso, a las normas de derecho foral o especial.
-
-9.ª Legislación sobre propiedad intelectual e industrial.
-
-10.ª Régimen aduanero y arancelario; comercio exterior.
-
-11.ª Sistema monetario: divisas, cambio y convertibilidad; bases de la ordenación de crédito, banca y seguros.
-
-12.ª Legislación sobre pesas y medidas, determinación de la hora oficial.
-
-13.ª Bases y coordinación de la planificación general de la actividad económica.
-
-14.ª Hacienda general y Deuda del Estado.
-
-15.ª Fomento y coordinación general de la investigación científica y técnica.
-
-16.ª Sanidad exterior. Bases y coordinación general de la sanidad. Legislación sobre productos farmacéuticos.
-
-17.ª Legislación básica y régimen económico de la Seguridad Social, sin perjuicio de la ejecución de sus servicios por las Comunidades Autónomas.
-
-18.ª Las bases del régimen jurídico de las Administraciones públicas y del régimen estatutario de sus funcionarios que, en todo caso, garantizarán a los administrados un tratamiento común ante ellas; el procedimiento administrativo común, sin perjuicio de las especialidades derivadas de la organización propia de las Comunidades Autónomas; legislación sobre expropiación forzosa; legislación básica sobre contratos y concesiones administrativas y el sistema de responsabilidad de todas las Administraciones públicas.
-
-19.ª Pesca marítima, sin perjuicio de las competencias que en la ordenación del sector se atribuyan a las Comunidades Autónomas.
-
-20.ª Marina mercante y abanderamiento de buques; iluminación de costas y señales marítimas; puertos de interés general; aeropuertos de interés general; control del espacio aéreo, tránsito y transporte aéreo, servicio meteorológico y matriculación de aeronaves.
-
-21.ª Ferrocarriles y transportes terrestres que transcurran por el territorio de más de una Comunidad Autónoma; régimen general de comunicaciones; tráfico y circulación de vehículos a motor; correos y telecomunicaciones; cables aéreos, submarinos y radiocomunicación.
-
-22.ª La legislación, ordenación y concesión de recursos y aprovechamientos hidráulicos cuando las aguas discurran por más de una Comunidad Autónoma, y la autorización de las instalaciones eléctricas cuando su aprovechamiento afecte a otra Comunidad o el transporte de energía salga de su ámbito territorial.
-
-23.ª Legislación básica sobre protección del medio ambiente, sin perjuicio de las facultades de las Comunidades Autónomas de establecer normas adicionales de protección. La legislación básica sobre montes, aprovechamientos forestales y vías pecuarias.
-
-24.ª Obras públicas de interés general o cuya realización afecte a más de una Comunidad Autónoma.
-
-25.ª Bases de régimen minero y energético.
-
-26.ª Régimen de producción, comercio, tenencia y uso de armas y explosivos.
-
-27.ª Normas básicas del régimen de prensa, radio y televisión y, en general, de todos los medios de comunicación social, sin perjuicio de las facultades que en su desarrollo y ejecución correspondan a las Comunidades Autónomas.
-
-28.ª Defensa del patrimonio cultural, artístico y monumental español contra la exportación y la expoliación; museos, bibliotecas y archivos de titularidad estatal, sin perjuicio de su gestión por parte de las Comunidades Autónomas.
-
-29.ª Seguridad pública, sin perjuicio de la posibilidad de creación de policías por las Comunidades Autónomas en la forma que se establezca en los respectivos Estatutos en el marco de lo que disponga una ley orgánica.
-
-30.ª Regulación de las condiciones de obtención, expedición y homologación de títulos académicos y profesionales y normas básicas para el desarrollo del artículo 27 de la Constitución, a fin de garantizar el cumplimiento de las obligaciones de los poderes públicos en esta materia.
-
-31.ª Estadística para fines estatales.
-
-32.ª Autorización para la convocatoria de consultas populares por vía de referéndum.
-
-2. Sin perjuicio de las competencias que podrán asumir las Comunidades Autónomas, el Estado considerará el servicio de la cultura como deber y atribución esencial y facilitará la comunicación cultural entre las Comunidades Autónomas, de acuerdo con ellas.
-
-3. Las materias no atribuidas expresamente al Estado por esta Constitución podrán corresponder a las Comunidades Autónomas, en virtud de sus respectivos Estatutos. La competencia sobre las materias que no se hayan asumido por los Estatutos de Autonomía corresponderá al Estado, cuyas normas prevalecerán, en caso de conflicto, sobre las de las Comunidades Autónomas en todo lo que no esté atribuido a la exclusiva competencia de éstas. El derecho estatal será, en todo caso, supletorio del derecho de las Comunidades Autónomas.
+Si de nuevo fuere por tercera vez propuesto, admitido y aprobado el mismo proyecto en 
+las Cortes del siguiente año, por el mismo hecho se entiende que el Rey da la sanción, y 
+presentándosele, la dará en efecto por medio de la fórmula expresada en el art. 143. 
 
 ### Artículo 150
-1. Las Cortes Generales, en materias de competencia estatal, podrán atribuir a todas o a alguna de las Comunidades Autónomas la facultad de dictar, para sí mismas, normas legislativas en el marco de los principios, bases y directrices fijados por una ley estatal. Sin perjuicio de la competencia de los Tribunales, en cada ley marco se establecerá la modalidad del control de las Cortes Generales sobre estas normas legislativas de las Comunidades Autónomas.
-
-2. El Estado podrá transferir o delegar en las Comunidades Autónomas, mediante ley orgánica, facultades correspondientes a materia de titularidad estatal que por su propia naturaleza sean susceptibles de transferencia o delegación. La ley preverá en cada caso la correspondiente transferencia de medios financieros, así como las formas de control que se reserve el Estado.
-
-3. El Estado podrá dictar leyes que establezcan los principios necesarios para armonizar las disposiciones normativas de las Comunidades Autónomas, aun en el caso de materias atribuidas a la competencia de éstas, cuando así lo exija el interés general. Corresponde a las Cortes Generales, por mayoría absoluta de cada Cámara, la apreciación de esta necesidad.
+Si antes de que expire el término de treinta días en que el Rey ha de dar o negar la 
+sanción, llegare el día en que las Cortes han de terminar sus sesiones, el Rey la dará o 
+negará en los ocho primeros de las sesiones de las siguientes Cortes, y si este término 
+pasare sin haberla dado, por esto mismo se entenderá dada, y la dará en efecto en la 
+forma prescrita; pero si el Rey negare la sanción, podrán estas Cortes tratar del mismo 
+proyecto. 
 
 ### Artículo 151
-1. No será preciso dejar transcurrir el plazo de cinco años, a que se refiere el apartado 2 del artículo 148, cuando la iniciativa del proceso autonómico sea acordada dentro del plazo del artículo 143.2, además de por las Diputaciones o los órganos interinsulares correspondientes, por las tres cuartas partes de los municipios de cada una de las provincias afectadas que representen, al menos, la mayoría del censo electoral de cada una de ellas y dicha iniciativa sea ratificada mediante referéndum por el voto afirmativo de la mayoría absoluta de los electores de cada provincia en los términos que establezca una ley orgánica.
-
-2. En el supuesto previsto en el apartado anterior, el procedimiento para la elaboración del Estatuto será el siguiente:
-
-1.º El Gobierno convocará a todos los Diputados y Senadores elegidos en las circunscripciones comprendidas en el ámbito territorial que pretenda acceder al autogobierno, para que se constituyan en Asamblea, a los solos efectos de elaborar el correspondiente proyecto de Estatuto de autonomía, mediante el acuerdo de la mayoría absoluta de sus miembros.
-
-2.º Aprobado el proyecto de Estatuto por la Asamblea de Parlamentarios, se remitirá a la Comisión Constitucional del Congreso, la cual, dentro del plazo de dos meses, lo examinará con el concurso y asistencia de una delegación de la Asamblea proponente para determinar de común acuerdo su formulación definitiva.
-
-3.º Si se alcanzare dicho acuerdo, el texto resultante será sometido a referéndum del cuerpo electoral de las provincias comprendidas en el ámbito territorial del proyectado Estatuto.
-
-4.º Si el proyecto de Estatuto es aprobado en cada provincia por la mayoría de los votos válidamente emitidos, será elevado a las Cortes Generales. Los plenos de ambas Cámaras decidirán sobre el texto mediante un voto de ratificación. Aprobado el Estatuto, el Rey lo sancionará y lo promulgará como ley.
-
-5.º De no alcanzarse el acuerdo a que se refiere el apartado 2 de este número, el proyecto de Estatuto será tramitado como proyecto de ley ante las Cortes Generales. El texto aprobado por éstas será sometido a referéndum del cuerpo electoral de las provincias comprendidas en el ámbito territorial del proyectado Estatuto. En caso de ser aprobado por la mayoría de los votos válidamente emitidos en cada provincia, procederá su promulgación en los términos del párrafo anterior.
-
-3. En los casos de los párrafos 4.º y 5.º del apartado anterior, la no aprobación del proyecto de Estatuto por una o varias provincias no impedirá la constitución entre las restantes de la Comunidad Autónoma proyectada, en la forma que establezca la ley orgánica prevista en el apartado 1 de este artículo.
+Aunque después de haber negado el Rey la sanción a un proyecto de ley se pasen 
+alguno o algunos años sin que se proponga el mismo proyecto, como vuelva a suscitarse 
+en el tiempo de la misma diputación, que le adoptó por la primera vez, o en el de las dos 
+diputaciones que inmediatamente la subsigan, se entenderá siempre el mismo proyecto 
+para los efectos de la sanción del Rey, de que tratan los tres artículos precedentes; pero 
+si en la duración de las tres diputaciones expresadas no volviere a proponerse, aunque 
+después se reproduzca en los propios términos, se tendrá por proyecto nuevo para los 
+efectos indicados. 
 
 ### Artículo 152
-1. En los Estatutos aprobados por el procedimiento a que se refiere el artículo anterior, la organización institucional autonómica se basará en una Asamblea Legislativa, elegida por sufragio universal, con arreglo a un sistema de representación proporcional que asegure, además, la representación de las diversas zonas del territorio; un Consejo de Gobierno con funciones ejecutivas y administrativas y un Presidente, elegido por la Asamblea, de entre sus miembros, y nombrado por el Rey, al que corresponde la dirección del Consejo de Gobierno, la suprema representación de la respectiva Comunidad y la ordinaria del Estado en aquélla. El Presidente y los miembros del Consejo de Gobierno serán políticamente responsables ante la Asamblea.
-
-Un Tribunal Superior de Justicia, sin perjuicio de la jurisdicción que corresponde al Tribunal Supremo, culminará la organización judicial en el ámbito territorial de la Comunidad Autónoma. En los Estatutos de las Comunidades Autónomas podrán establecerse los supuestos y las formas de participación de aquéllas en la organización de las demarcaciones judiciales del territorio. Todo ello de conformidad con lo previsto en la ley orgánica del poder judicial y dentro de la unidad e independencia de éste.
-
-Sin perjuicio de lo dispuesto en el artículo 123, las sucesivas instancias procesales, en su caso, se agotarán ante órganos judiciales radicados en el mismo territorio de la Comunidad Autónoma en que esté el órgano competente en primera instancia.
-
-2. Una vez sancionados y promulgados los respectivos Estatutos, solamente podrán ser modificados mediante los procedimientos en ellos establecidos y con referéndum entre los electores inscritos en los censos correspondientes.
-
-3. Mediante la agrupación de municipios limítrofes, los Estatutos podrán establecer circunscripciones territoriales propias, que gozarán de plena personalidad jurídica.
+Si la segunda o tercera vez que se propone el proyecto dentro del término que prefija el 
+artículo precedente, fuere desechado por las Cortes, en cualquier tiempo que se 
+reproduzca después, se tendrá por nuevo proyecto. 
 
 ### Artículo 153
-El control de la actividad de los órganos de las Comunidades Autónomas se ejercerá:
+Las leyes se derogan con las mismas formalidades y por los mismos trámites que se 
+establecen. 
 
-a) Por el Tribunal Constitucional, el relativo a la constitucionalidad de sus disposiciones normativas con fuerza de ley.
-
-b) Por el Gobierno, previo dictamen del Consejo de Estado, el del ejercicio de funciones delegadas a que se refiere el apartado 2 del artículo 150.
-
-c) Por la jurisdicción contencioso-administrativa, el de la administración autónoma y sus normas reglamentarias.
-
-d) Por el Tribunal de Cuentas, el económico y presupuestario.
+## CAPÍTULO IX 
+De la promulgación de las leyes. 
 
 ### Artículo 154
-Un Delegado nombrado por el Gobierno dirigirá la Administración del Estado en el territorio de la Comunidad Autónoma y la coordinará, cuando proceda, con la administración propia de la Comunidad.
+Publicada la ley en las Cortes, se dará de ello aviso al Rey, para que se proceda 
+inmediatamente a su promulgación solemne. 
 
 ### Artículo 155
-1. Si una Comunidad Autónoma no cumpliere las obligaciones que la Constitución u otras leyes le impongan, o actuare de forma que atente gravemente al interés general de España, el Gobierno, previo requerimiento al Presidente de la Comunidad Autónoma y, en el caso de no ser atendido, con la aprobación por mayoría absoluta del Senado, podrá adoptar las medidas necesarias para obligar a aquélla al cumplimiento forzoso de dichas obligaciones o para la protección del mencionado interés general.
-
-2. Para la ejecución de las medidas previstas en el apartado anterior, el Gobierno podrá dar instrucciones a todas las autoridades de las Comunidades Autónomas.
+El Rey, para promulgar las leyes, usará de la fórmula siguiente: N. (el nombre del Rey) 
+por la gracia de Dios y por la Constitución de la Monarquía española, Rey de las 
+Españas, a todos los que las presentes vieren y entendieren; sabed: Que las Cortes han 
+decretado, y Nos sancionamos lo siguiente: (Aquí el texto literal de la ley.) por tanto, 
+mandamos a todos los tribunales, justicias, jefes, gobernadores y demás autoridades, así 
+civiles como militares y eclesiásticas, de cualquiera clase y dignidad, que guarden y 
+hagan guardar, cumplir y ejecutar la presente ley en todas sus partes. Tendréislo 
+entendido para su cumplimiento, y dispondréis se imprima, publique y circule. (Va dirigida 
+al Secretario del Despacho respectivo.) 
 
 ### Artículo 156
-1. Las Comunidades Autónomas gozarán de autonomía financiera para el desarrollo y ejecución de sus competencias con arreglo a los principios de coordinación con la Hacienda estatal y de solidaridad entre todos los españoles.
+Todas las leyes se circularán de mandato del Rey por los respectivos 
+Secretarios del Despacho directamente a todos y cada uno de los Tribunales 
+Supremos y de las provincias, y demás jefes y autoridades superiores, que las circularán 
+a las subalternas. 
 
-2. Las Comunidades Autónomas podrán actuar como delegados o colaboradores del Estado para la recaudación, la gestión y la liquidación de los recursos tributarios de aquél, de acuerdo con las leyes y los Estatutos.
+## CAPÍTULO X 
+De la Diputación permanente de Cortes. 
 
 ### Artículo 157
-1. Los recursos de las Comunidades Autónomas estarán constituidos por:
-
-a) Impuestos cedidos total o parcialmente por el Estado; recargos sobre impuestos estatales y otras participaciones en los ingresos del Estado.
-
-b) Sus propios impuestos, tasas y contribuciones especiales.
-
-c) Transferencias de un Fondo de Compensación interterritorial y otras asignaciones con cargo a los Presupuestos Generales del Estado.
-
-d) Rendimientos procedentes de su patrimonio e ingresos de derecho privado.
-
-e) El producto de las operaciones de crédito.
-
-2. Las Comunidades Autónomas no podrán en ningún caso adoptar medidas tributarias sobre bienes situados fuera de su territorio o que supongan obstáculo para la libre circulación de mercancías o servicios.
-
-3. Mediante ley orgánica podrá regularse el ejercicio de las competencias financieras enumeradas en el precedente apartado 1, las normas para resolver los conflictos que pudieran surgir y las posibles formas de colaboración financiera entre las Comunidades Autónomas y el Estado.
+Antes de separarse las Cortes nombrarán una diputación que se llamará Diputación 
+permanente de Cortes, compuesta de siete individuos de su seno, tres de las provincias 
+de Europa y tres de las de Ultramar, y el séptimo saldrá por suerte entre un Diputado de 
+Europa y otro de Ultramar. 
 
 ### Artículo 158
-1. En los Presupuestos Generales del Estado podrá establecerse una asignación a las Comunidades Autónomas en función del volumen de los servicios y actividades estatales que hayan asumido y de la garantía de un nivel mínimo en la prestación de los servicios públicos fundamentales en todo el territorio español.
+Al mismo tiempo nombrarán las Cortes dos suplentes para esta diputación, uno de 
+Europa y otro de Ultramar. 
 
-2. Con el fin de corregir desequilibrios económicos interterritoriales y hacer efectivo el principio de solidaridad, se constituirá un Fondo de Compensación con destino a gastos de inversión, cuyos recursos serán distribuidos por las Cortes Generales entre las Comunidades Autónomas y provincias, en su caso.
-
-### TÍTULO IX
-**Del Tribunal Constitucional**
 ### Artículo 159
-1. El Tribunal Constitucional se compone de 12 miembros nombrados por el Rey; de ellos, cuatro a propuesta del Congreso por mayoría de tres quintos de sus miembros; cuatro a propuesta del Senado, con idéntica mayoría; dos a propuesta del Gobierno, y dos a propuesta del Consejo General del Poder Judicial.
-
-2. Los miembros del Tribunal Constitucional deberán ser nombrados entre Magistrados y Fiscales, Profesores de Universidad, funcionarios públicos y Abogados, todos ellos juristas de reconocida competencia con más de quince años de ejercicio profesional.
-
-3. Los miembros del Tribunal Constitucional serán designados por un período de nueve años y se renovarán por terceras partes cada tres.
-
-4. La condición de miembro del Tribunal Constitucional es incompatible: con todo mandato representativo; con los cargos políticos o administrativos; con el desempeño de funciones directivas en un partido político o en un sindicato y con el empleo al servicio de los mismos; con el ejercicio de las carreras judicial y fiscal, y con cualquier actividad profesional o mercantil.
-
-En lo demás los miembros del Tribunal Constitucional tendrán las incompatibilidades propias de los miembros del poder judicial.
-
-5. Los miembros del Tribunal Constitucional serán independientes e inamovibles en el ejercicio de su mandato.
+La Diputación permanente durará de unas Cortes ordinarias a otras. 
 
 ### Artículo 160
-El Presidente del Tribunal Constitucional será nombrado entre sus miembros por el Rey, a propuesta del mismo Tribunal en pleno y por un período de tres años.
+Las facultades de esta diputación son: 
+Primera. Velar sobre la observancia de la Constitución y de las leyes, para dar cuenta a 
+las próximas Cortes de las infracciones que hayan notado. 
+Segunda. Convocar a Cortes extraordinarias en los casos prescritos por la 
+Constitución. 
+Tercera. Desempeñar las funciones que se señalan en los artículos 111 y 
+112. 
+Cuarta. Pasar aviso a los Diputados suplentes para que concurran en lugar de los 
+propietarios; y si ocurriere el fallecimiento o imposibilidad absoluta de propietarios y 
+suplentes de una provincia, comunicar las correspondientes órdenes a la misma, para 
+que proceda a nueva elección. 
+
+## CAPÍTULO XI 
+De las Cortes extraordinarias. 
 
 ### Artículo 161
-1. El Tribunal Constitucional tiene jurisdicción en todo el territorio español y es competente para conocer:
-
-a) Del recurso de inconstitucionalidad contra leyes y disposiciones normativas con fuerza de ley. La declaración de inconstitucionalidad de una norma jurídica con rango de ley, interpretada por la jurisprudencia, afectará a ésta, si bien la sentencia o sentencias recaídas no perderán el valor de cosa juzgada.
-
-b) Del recurso de amparo por violación de los derechos y libertades referidos en el artículo 53, 2, de esta Constitución, en los casos y formas que la ley establezca.
-
-c) De los conflictos de competencia entre el Estado y las Comunidades Autónomas o de los de éstas entre sí.
-
-d) De las demás materias que le atribuyan la Constitución o las leyes orgánicas.
-
-2. El Gobierno podrá impugnar ante el Tribunal Constitucional las disposiciones y resoluciones adoptadas por los órganos de las Comunidades Autónomas. La impugnación producirá la suspensión de la disposición o resolución recurrida, pero el Tribunal, en su caso, deberá ratificarla o levantarla en un plazo no superior a cinco meses.
+Las Cortes extraordinarias se compondrán de los mismos Diputados que forman 
+las ordinarias durante los dos años de su diputación. 
 
 ### Artículo 162
-1. Están legitimados:
-
-a) Para interponer el recurso de inconstitucionalidad, el Presidente del Gobierno, el Defensor del Pueblo, 50 Diputados, 50 Senadores, los órganos colegiados ejecutivos de las Comunidades Autónomas y, en su caso, las Asambleas de las mismas.
-
-b) Para interponer el recurso de amparo, toda persona natural o jurídica que invoque un interés legítimo, así como el Defensor del Pueblo y el Ministerio Fiscal.
-
-2. En los demás casos, la ley orgánica determinará las personas y órganos legitimados.
+La Diputación permanente de Cortes las convocará con señalamiento el día en 
+los tres casos siguientes: 
+Primero. Cuando vacare la Corona. 
+Segundo. Cuando el Rey se imposibilitare de cualquiera modo para el gobierno, o quiera 
+abdicar la Corona en el sucesor; estando autorizada en el primer caso la diputación para 
+tomar todas las medidas que estime convenientes, a fin de asegurarse de la inhabilidad 
+del Rey. 
+Tercero. Cuando en circunstancias críticas y por negocios arduos tuviere el 
+Rey por conveniente que se congreguen, y lo participare así a la Diputación permanente 
+de Cortes. 
 
 ### Artículo 163
-Cuando un órgano judicial considere, en algún proceso, que una norma con rango de ley, aplicable al caso, de cuya validez dependa el fallo, pueda ser contraria a la Constitución, planteará la cuestión ante el Tribunal Constitucional en los supuestos, en la forma y con los efectos que establezca la ley, que en ningún caso serán suspensivos.
+Las Cortes extraordinarias no entenderán sino en el objeto para que han sido 
+convocadas. 
 
 ### Artículo 164
-1. Las sentencias del Tribunal Constitucional se publicarán en el boletín oficial del Estado con los votos particulares, si los hubiere. Tienen el valor de cosa juzgada a partir del día siguiente de su publicación y no cabe recurso alguno contra ellas. Las que declaren la inconstitucionalidad de una ley o de una norma con fuerza de ley y todas las que no se limiten a la estimación subjetiva de un derecho, tienen plenos efectos frente a todos.
-
-2. Salvo que en el fallo se disponga otra cosa, subsistirá la vigencia de la ley en la parte no afectada por la inconstitucionalidad.
+Las sesiones de las Cortes extraordinarias comenzarán y se terminarán con las mismas 
+formalidades que las ordinarias. 
 
 ### Artículo 165
-Una ley orgánica regulará el funcionamiento del Tribunal Constitucional, el estatuto de sus miembros, el procedimiento ante el mismo y las condiciones para el ejercicio de las acciones.
+La celebración de las Cortes extraordinarias no estorbará la elección de nuevos 
+Diputados en el tiempo prescrito. 
 
-### TÍTULO X
-**De la reforma constitucional**
 ### Artículo 166
-La iniciativa de reforma constitucional se ejercerá en los términos previstos en los apartados 1 y 2 del artículo 87.
+Si las Cortes extraordinarias no hubieren concluido sus sesiones en el día señalado para 
+la reunión de las ordinarias, cesarán las primeras en sus funciones, y las ordinarias 
+continuarán el negocio para que aquéllas fueron convocadas. 
 
 ### Artículo 167
-1. Los proyectos de reforma constitucional deberán ser aprobados por una mayoría de tres quintos de cada una de las Cámaras. Si no hubiera acuerdo entre ambas, se intentará obtenerlo mediante la creación de una Comisión de composición paritaria de Diputados y Senadores, que presentará un texto que será votado por el Congreso y el Senado.
+La Diputación permanente de Cortes continuará en las funciones que le están señaladas 
+en los artículos 111 y 112, en el caso comprendido en el artículo precedente. 
 
-2. De no lograrse la aprobación mediante el procedimiento del apartado anterior, y siempre que el texto hubiere obtenido el voto favorable de la mayoría absoluta del Senado, el Congreso, por mayoría de dos tercios, podrá aprobar la reforma.
+## TÍTULO IV 
+DEL REY 
 
-3. Aprobada la reforma por las Cortes Generales, será sometida a referéndum para su ratificación cuando así lo soliciten, dentro de los quince días siguientes a su aprobación, una décima parte de los miembros de cualquiera de las Cámaras.
+## CAPÍTULO PRIMERO 
+De la inviolabilidad del Rey y de su autoridad. 
 
 ### Artículo 168
-1. Cuando se propusiere la revisión total de la Constitución o una parcial que afecte al Título preliminar, al Capítulo segundo, Sección primera del Título I, o al Título II, se procederá a la aprobación del principio por mayoría de dos tercios de cada Cámara, y a la disolución inmediata de las Cortes.
-
-2. Las Cámaras elegidas deberán ratificar la decisión y proceder al estudio del nuevo texto constitucional, que deberá ser aprobado por mayoría de dos tercios de ambas Cámaras.
-
-3. Aprobada la reforma por las Cortes Generales, será sometida a referéndum para su ratificación.
+La persona del Rey es sagrada e inviolable, y no está sujeta a responsabilidad. 
 
 ### Artículo 169
-No podrá iniciarse la reforma constitucional en tiempo de guerra o de vigencia de alguno de los estados previstos en el artículo 116.
+El Rey tendrá el tratamiento de Majestad Católica. 
 
-## DISPOSICIONES ADICIONALES
-**Primera.**
-La Constitución ampara y respeta los derechos históricos de los territorios forales.
+### Artículo 170
+La potestad de hacer ejecutar las leyes reside exclusivamente en el 
+Rey, y su autoridad de extiende a todo cuanto conduce a la conservación del orden 
+público en lo interior, y a la seguridad del Estado en lo exterior, conforme a la 
+Constitución y a las leyes. 
 
-La actualización general de dicho régimen foral se llevará a cabo, en su caso, en el marco de la Constitución y de los Estatutos de Autonomía.
+### Artículo 171
+Además de la prerrogativa que compete al Rey de sancionar las leyes y promulgarlas, le 
+corresponden como principales las facultades siguientes: 
+Primera. Expedir los decretos, reglamentos e instrucciones que crea conducentes para la 
+ejecución de las leyes. 
+Segunda. Cuidar de que en todo el reino se administre pronta y cumplidamente la justicia. 
+Tercera. Declarar la guerra, y hacer y ratificar la paz, dando después cuenta 
+documentada a las Cortes. 
+Cuarta. Nombrar los magistrados de todos los tribunales civiles y criminales, a propuesta 
+del Consejo de Estado. 
+Quinta. Proveer todos los empleos civiles y militares. 
+Sexta. Presentar para todos los obispados y para todas las dignidades y beneficios 
+eclesiásticos de real patronato, a propuesta del Consejo de Estado. 
+Séptima. Conceder honores y distinciones de toda clase, con arreglo a las leyes. 
+Octava. Mandar los ejércitos y armadas y nombrar los generales. 
+Novena. Disponer de la fuerza armada, distribuyéndola como más convenga. 
+Décima. Dirigir las relaciones diplomáticas y comerciales con las demás potencias, y 
+nombrar los embajadores, ministros y cónsules. 
+Undécima. Cuidar de la fabricación de la moneda, en la que se pondrá su busto y su 
+nombre. 
+Duodécima. Decretar la inversión de los fondos destinados a cada uno de los ramos de la 
+administración pública. 
+Décimatercia. Indultar a los delincuentes, con arreglo a las leyes. 
+Décimacuarta. Hacer a las Cortes las propuestas de leyes o de reformas que crea 
+conducentes al bien de la Nación, para que deliberen en la forma prescrita. 
+Décimaquinta. Conceder el pase, o retener los decretos conciliares y bulas pontificias con 
+el consentimiento de las Cortes, si contienen disposiciones generales, oyendo al Consejo 
+de Estado, si versan sobre negocios particulares o gubernativos, y si contienen puntos 
+contenciosos, pasando su conocimiento y decisión al Supremo Tribunal de justicia para 
+que resuelva con arreglo a las leyes. 
+Décimasexta. Nombrar y separar libremente los Secretarios de Estado y del 
+Despacho. 
 
-**Segunda.**
-La declaración de mayoría de edad contenida en el artículo 12 de esta Constitución no perjudica las situaciones amparadas por los derechos forales en el ámbito del Derecho privado.
+### Artículo 172
+Las restricciones de la autoridad del Rey son las siguientes: 
+Primera. No puede el Rey impedir, bajo ningún pretexto, la celebración de las Cortes en 
+las épocas y casos señalados por la Constitución, ni suspenderlas ni disolverlas, ni en 
+manera alguna embarazar sus sesiones y deliberaciones. Los que le aconsejasen o 
+auxiliasen en cualquier tentativa para estos actos, son declarados traidores y serán 
+perseguidos como tales. 
+Segunda. No puede el Rey ausentarse del Reino sin consentimiento de las 
+Cortes, y si lo hiciere, se entiende que ha abdicado la Corona. 
+Tercera. No puede el Rey enajenar, ceder, renunciar, o en cualquiera manera traspasar a 
+otro la autoridad real, ni alguna de sus prerrogativas. Si por cualquiera causa quisiere 
+abdicar el trono en el inmediato sucesor, no lo podrá hacer sin el consentimiento de las 
+Cortes. 
+Cuarta. No puede el Rey enajenar, ceder o permutar provincia, ciudad, villa o lugar, ni 
+parte alguna, por pequeña que sea, del territorio español. 
+Quinta. No puede el Rey hacer alianza ofensiva, ni tratado especial de comercio con 
+ninguna potencia extranjera, sin el consentimiento de las Cortes. 
+Sexta. No puede tampoco obligarse por ningún tratado a dar subsidios a ninguna 
+potencia extranjera sin el consentimiento de las Cortes. 
+Séptima. No puede el Rey ceder ni enajenar los bienes nacionales sin consentimiento de 
+las Cortes. 
+Octava. No puede el Rey imponer por sí, directa ni indirectamente, contribuciones, ni 
+hacer pedidos bajo cualquier nombre o para cualquier objeto que sea, sino que siempre 
+los han de decretar las Cortes. 
+Novena. No puede el Rey conceder privilegio exclusivo a persona ni corporación alguna. 
+Décima. No puede el Rey tomar la propiedad de ningún particular ni corporación, ni 
+turbarle en la posesión, uso y aprovechamiento de ella, y si en algún caso fuere necesario 
+para un objeto de conocida utilidad común tomar la propiedad de un particular, no lo 
+podrá hacer sin que al mismo tiempo sea indemnizado y se le dé el buen cambio a bien 
+vista de hombres buenos. 
+Undécima. No puede el Rey privar a ningún individuo de su libertad, ni imponerle por sí 
+pena alguna. El Secretario del Despacho que firme la orden, y el Juez que la ejecute, 
+serán responsables a la Nación, y castigados como reos de atentado contra la libertad 
+individual. Sólo en caso de que el bien y seguridad del Estado exijan el arresto de alguna 
+persona, podrá el Rey expedir órdenes al efecto; pero con la condición de que dentro de 
+cuarenta y ocho horas deberá hacerla entregar a disposición del tribunal o juez 
+competente. 
+Duodécima. El Rey, antes de contraer matrimonio, dará parte a las Cortes, para obtener 
+su consentimiento, y si no lo hiciere, entiéndese que abdica la Corona. 
 
-**Tercera.**
-La modificación del régimen económico y fiscal del archipiélago canario requerirá informe previo de la Comunidad Autónoma o, en su caso, del órgano provisional autonómico.
+### Artículo 173
+El Rey, en su advenimiento al trono, y si fuere menor, cuando entre a gobernar el Reino, 
+prestará juramento ante las Cortes bajo la fórmula siguiente: 
+“N. (aquí su nombre), por la gracia de Dios y la Constitución de la Monarquía 
+española, Rey de las Españas; juro por Dios y por los Santos Evangelios que defenderé y 
+conservaré la religión Católica, Apostólica, Romana, sin permitir otra alguna en el Reino; 
+que guardaré y haré guardar la Constitución política y leyes de la Monarquía española, no 
+mirando en cuanto hiciere sino al bien y provecho de ella; que no enajenaré, cederé ni 
+desmembraré parte alguna del Reino; que no exigiré jamás cantidad alguna de frutos, 
+dinero ni otra cosa, sino las que hubieren decretado las Cortes; que no tomaré jamás a 
+nadie su propiedad, y que respetaré sobre todo la libertad política de la Nación y la 
+personal de cada individuo; y si en lo que he jurado, o parte de ello, lo contrario hiciere, 
+no debo ser obedecido, antes aquello en que contraviniere, sea nulo y de ningún valor. 
+Así, Dios me ayude y sea en mi defensa, y si no, me lo demande.” 
 
-**Cuarta.**
-En las Comunidades Autónomas donde tengan su sede más de una Audiencia Territorial, los Estatutos de Autonomía respectivos podrán mantener las existentes, distribuyendo las competencias entre ellas, siempre de conformidad con lo previsto en la ley orgánica del poder judicial y dentro de la unidad e independencia de éste.
+## CAPÍTULO II 
+De la sucesión a la corona 
 
-## DISPOSICIONES TRANSITORIAS
-**Primera.**
-En los territorios dotados de un régimen provisional de autonomía, sus órganos colegiados superiores, mediante acuerdo adoptado por la mayoría absoluta de sus miembros, podrán sustituir la iniciativa que en el apartado 2 del artículo 143 atribuye a las Diputaciones Provinciales o a los órganos interinsulares correspondientes.
+### Artículo 174
+El Reino de las Españas es indivisible, y sólo se sucederá en el trono perpetuamente 
+desde la promulgación de la Constitución por el orden regular de primogenitura y 
+representación entre los descendientes legítimos, varones y hembras, de las líneas que 
+se expresarán. 
 
-**Segunda.**
-Los territorios que en el pasado hubiesen plebiscitado afirmativamente proyectos de Estatuto de autonomía y cuenten, al tiempo de promulgarse esta Constitución, con regímenes provisionales de autonomía podrán proceder inmediatamente en la forma que se prevé en el apartado 2 del artículo 148, cuando así lo acordaren, por mayoría absoluta, sus órganos preautonómicos colegiados superiores, comunicándolo al Gobierno. El proyecto de Estatuto será elaborado de acuerdo con lo establecido en el artículo 151, número 2, a convocatoria del órgano colegiado preautonómico.
+### Artículo 175
+No pueden ser Reyes de las Españas sino los que sean hijos legítimos habidos en 
+constante y legítimo matrimonio. 
 
-**Tercera.**
-La iniciativa del proceso autonómico por parte de las Corporaciones locales o de sus miembros, prevista en el apartado 2 del artículo 143, se entiende diferida, con todos sus efectos, hasta la celebración de las primeras elecciones locales una vez vigente la Constitución.
+### Artículo 176
+En el mismo grado y línea los varones prefieren a las hembras, y siempre el mayor al 
+menor; pero las hembras de mejor línea, o de mejor grado en la misma línea, prefieren a 
+los varones de línea o grado posterior. 
 
-**Cuarta.**
-1. En el caso de Navarra, y a efectos de su incorporación al Consejo General Vasco o al régimen autonómico vasco que le sustituya, en lugar de lo que establece el artículo 143 de la Constitución, la iniciativa corresponde al Órgano Foral competente, el cual adoptará su decisión por mayoría de los miembros que lo componen. Para la validez de dicha iniciativa será preciso, además, que la decisión del Órgano Foral competente sea ratificada por referéndum expresamente convocado al efecto, y aprobado por mayoría de los votos válidos emitidos.
+### Artículo 177
+El hijo o hija del primogénito del Rey, en el caso de morir su padre sin haber entrado en la 
+sucesión del Reino, prefiere a los tíos, y sucede inmediatamente al abuelo por derecho de 
+representación. 
 
-2. Si la iniciativa no prosperase, solamente se podrá reproducir la misma en distinto período del mandato del Órgano Foral competente, y en todo caso, cuando haya transcurrido el plazo mínimo que establece el artículo 143.
+### Artículo 178
+Mientras no se extingue la línea en que está radicada la sucesión, no entra la inmediata. 
 
-**Quinta.**
-Las ciudades de Ceuta y Melilla podrán constituirse en Comunidades Autónomas si así lo deciden sus respectivos Ayuntamientos, mediante acuerdo adoptado por la mayoría absoluta de sus miembros y así lo autorizan las Cortes Generales, mediante una ley orgánica, en los términos previstos en el artículo 144.
+### Artículo 179
+El Rey de las Españas es el Señor Don Fernando VII de Borbón, que actualmente reina. 
 
-**Sexta.**
-Cuando se remitieran a la Comisión Constitucional del Congreso varios proyectos de Estatuto, se dictaminarán por el orden de entrada en aquélla, y el plazo de dos meses a que se refiere el artículo 151 empezará a contar desde que la Comisión termine el estudio del proyecto o proyectos de que sucesivamente haya conocido.
+### Artículo 180
+A falta del Señor Don Fernando VII de Borbón, sucederán sus descendientes legítimos, 
+así varones como hembras; a falta de éstos, sucederán sus hermanos, y tíos hermanos 
+de su padre, así varones como hembras, y los descendientes legítimos de éstos por el 
+orden que queda prevenido, guardando en todos el derecho de representación y la 
+preferencia de las líneas anteriores a las posteriores. 
 
-**Séptima.**
-Los organismos provisionales autonómicos se considerarán disueltos en los siguientes casos:
+### Artículo 181
+Las Cortes deberán excluir de la sucesión aquella persona o personas que sean 
+incapaces para gobernar, o hayan hecho cosa por que merezcan perder la Corona. 
 
-a) Una vez constituidos los órganos que establezcan los Estatutos de Autonomía aprobados conforme a esta Constitución.
+### Artículo 182
+Si llegaren a extinguirse todas las líneas que aquí se señalan, las Cortes harán nuevos 
+llamamientos, como vean que más importa a la Nación, siguiendo siempre el orden y 
+reglas de suceder aquí establecidas. 
 
-b) En el supuesto de que la iniciativa del proceso autonómico no llegara a prosperar por no cumplir los requisitos previstos en el artículo 143.
+### Artículo 183
+Cuando la Corona haya de recaer inmediatamente o haya recaído en hembra, no podrá 
+ésta elegir marido sin consentimiento de las Cortes, y si lo contrario hiciere, se entiende 
+que abdica la Corona. 
 
-c) Si el organismo no hubiera ejercido el derecho que le reconoce la disposición transitoria primera en el plazo de tres años.
+### Artículo 184
+En el caso en que llegue a reinar una hembra, su marido no tendrá autoridad ninguna 
+respecto del Reino, ni parte alguna en el Gobierno. 
 
-**Octava.**
-1. Las Cámaras que han aprobado la presente Constitución asumirán, tras la entrada en vigor de la misma, las funciones y competencias que en ella se señalan, respectivamente, para el Congreso y el Senado, sin que en ningún caso su mandato se extienda más allá del 15 de junio de 1981.
+## CAPÍTULO III 
+De la menor edad del Rey, y de la Regencia. 
 
-2. A los efectos de lo establecido en el artículo 99, la promulgación de la Constitución se considerará como supuesto constitucional en el que procede su aplicación. A tal efecto, a partir de la citada promulgación se abrirá un período de treinta días para la aplicación de lo dispuesto en dicho artículo.
+### Artículo 185
+El Rey es menor de edad hasta los diez y ocho años cumplidos. 
 
-Durante este período, el actual Presidente del Gobierno, que asumirá las funciones y competencias que para dicho cargo establece la Constitución, podrá optar por utilizar la facultad que le reconoce el artículo 115 o dar paso, mediante la dimisión, a la aplicación de lo establecido en el artículo 99, quedando en este último caso en la situación prevista en el apartado 2 del artículo 101.
+### Artículo 186
+Durante la menor edad del Rey será gobernado el Reino por una Regencia. 
 
-3. En caso de disolución, de acuerdo con lo previsto en el artículo 115, y si no se hubiera desarrollado legalmente lo previsto en los artículos 68 y 69, serán de aplicación en las elecciones las normas vigentes con anterioridad, con las solas excepciones de que en lo referente a inelegibilidades e incompatibilidades se aplicará directamente lo previsto en el inciso segundo de la letra b) del apartado 1 del artículo 70 de la Constitución, así como lo dispuesto en la misma respecto a la edad para el voto y lo establecido en el artículo 69,3.
+### Artículo 187
+Lo será igualmente cuando el Rey se halle imposibilitado de ejercer su autoridad por 
+cualquier causa física o moral. 
 
-**Novena.**
-A los tres años de la elección por vez primera de los miembros del Tribunal Constitucional se procederá por sorteo para la designación de un grupo de cuatro miembros de la misma procedencia electiva que haya de cesar y renovarse. A estos solos efectos se entenderán agrupados como miembros de la misma procedencia a los dos designados a propuesta del Gobierno y a los dos que proceden de la formulada por el Consejo General del Poder Judicial. Del mismo modo se procederá transcurridos otros tres años entre los dos grupos no afectados por el sorteo anterior. A partir de entonces se estará a lo establecido en el número 3 del artículo 159.
+### Artículo 188
+Si el impedimento del Rey pasare de dos años, y el sucesor inmediato fuere mayor de 
+diez y ocho, las Cortes podrán nombrarle Regente del Reino en lugar de la Regencia. 
 
-## DISPOSICION DEROGATORIA
-1. Queda derogada la Ley 1/1977, de 4 de enero, para la Reforma Política, así como, en tanto en cuanto no estuvieran ya derogadas por la anteriormente mencionada Ley, la de Principios del Movimiento Nacional, de 17 de mayo de 1958; el Fuero de los Españoles, de 17 de julio de 1945; el del Trabajo, de 9 de marzo de 1938; la Ley Constitutiva de las Cortes, de 17 de julio de 1942; la Ley de Sucesión en la Jefatura del Estado, de 26 de julio de 1947, todas ellas modificadas por la Ley Orgánica del Estado, de 10 de enero de 1967, y en los mismos términos esta última y la de Referéndum Nacional de 22 de octubre de 1945.
+### Artículo 189
+En los casos en que vacare la Corona, siendo el Príncipe de Asturias menor de edad, 
+hasta que se junten las Cortes extraordinarias, si no se hallaren reunidas las ordinarias, la 
+Regencia provisional se compondrá de la Reina madre, si la hubiere, de dos Diputados 
+de la Diputación permanente de las Cortes, los más antiguos por orden de su elección en 
+la diputación, y de dos Consejeros del 
+Consejo de Estado, los más antiguos, a saber: el decano y el que le siga, si no hubiere 
+Reina madre, entrará en la Regencia el Consejero de Estado tercero en antigüedad. 
 
-2. En tanto en cuanto pudiera conservar alguna vigencia, se considera definitivamente derogada la Ley de 25 de octubre de 1839 en lo que pudiera afectar a las provincias de Álava, Guipúzcoa y Vizcaya.
+### Artículo 190
+La Regencia provisional será presidida por la Reina madre, si la hubiere, y, en su defecto, 
+por el individuo de la Diputación permanente de Cortes que sea primer nombrado en ella. 
 
-En los mismos términos se considera definitivamente derogada la Ley de 21 de julio de 1876.
+### Artículo 191
+La Regencia provisional no despachará otros negocios que los que no admitan dilación, y 
+no removerá ni nombrará empleados sino interinamente. 
 
-3. Asimismo quedan derogadas cuantas disposiciones se opongan a lo establecido en esta Constitución.
+### Artículo 192
+Reunidas las Cortes extraordinarias, nombrarán una Regencia, compuesta de tres o cinco 
+personas. 
 
-## DISPOSICION FINAL
-Esta Constitución entrará en vigor el mismo día de la publicación de su texto oficial en el boletín oficial del Estado. Se publicará también en las demás lenguas de España.
+### Artículo 193
+Para poder ser individuo de la Regencia se requiere ser ciudadano en el ejercicio de sus 
+derechos, quedando excluidos los extranjeros, aunque tengan carta de ciudadanos. 
 
-POR TANTO,
+### Artículo 194
+La Regencia será presidida por aquel de sus individuos que las Cortes designaren, 
+tocando a éstas establecer, en caso necesario, si ha de haber o no turno en la 
+presidencia, y en qué términos. 
 
-MANDO A TODOS LOS ESPAÑOLES, PARTICULARES Y AUTORIDADES, QUE GUARDEN Y HAGAN GUARDAR ESTA CONSTITUCIÓN COMO NORMA FUNDAMENTAL DEL ESTADO.
+### Artículo 195
+La Regencia ejercerá la autoridad del Rey en los términos que estimen las Cortes. 
 
-PALACIO DE LAS CORTES, A VEINTISIETE DE DICIEMBRE DE MIL NOVECIENTOS SETENTA Y OCHO.
+### Artículo 196
+Una y otra Regencia prestarán juramento según la fórmula prescrita en el artículo 173, 
+añadiendo la cláusula de que serán fieles al Rey, y la Regencia permanente añadirá, 
+además, que observará las condiciones que le hubieren impuesto las Cortes para el 
+ejercicio de su autoridad, y que cuando llegue el Rey a ser mayor, o cese la imposibilidad, 
+le entregará el Gobierno del Reino, bajo la pena, si un momento lo dilata, de ser sus 
+individuos habidos y castigados como traidor es. 
 
-JUAN CARLOS
+### Artículo 197
+Todos los actos de la Regencia se publicarán en nombre del Rey. 
 
-```text
-EL PRESIDENTE DE LAS CORTES
+### Artículo 198
+Será tutor del Rey menor la persona que el Rey difunto hubiere nombrado en su 
+testamento. Si no lo hubiere nombrado, será tutora la Reina madre, mientras permanezca 
+viuda. En su defecto, será nombrado el tutor por las Cortes. En el primero y tercer caso, 
+el tutor deberá ser natural del Reino. 
 
-Antonio Hernández Gil
+### Artículo 199
+La Regencia cuidará de que la educación del Rey menor sea la más conveniente al 
+grande objeto de su alta dignidad, y que se desempeñe conforme al plan que aprobaren 
+las Cortes. 
 
-EL PRESIDENTE DEL CONGRESO DE LOS DIPUTADOS
+### Artículo 200
+Estas señalarán el sueldo que hayan de gozar los individuos de la 
+Regencia. 
 
-Fernando Álvarez de Miranda y Torres
+## CAPÍTULO IV 
+De la familia Real y del reconocimiento del Príncipe de Asturias. 
 
-EL PRESIDENTE DEL SENADO
+### Artículo 201
+El hijo primogénito del Rey se titulará Príncipe de Asturias. 
 
-Antonio Fontán Pérez
-```
+### Artículo 202
+Los demás hijos e hijas del Rey serán y se llamarán Infantes de las 
+Españas. 
+
+### Artículo 203
+Asimismo serán y se llamarán Infantes de las Españas los hijos e hijas del Príncipe de 
+Asturias. 
+
+### Artículo 204
+A estas personas precisamente estará limitada la calidad de Infante de las Españas, sin 
+que pueda extenderse a otras. 
+
+### Artículo 205
+Los Infantes de las Españas gozarán de las distinciones y honores que han tenido hasta 
+aquí, y podrán ser nombrados para toda clase de destinos, exceptuados los de judicatura 
+y la diputación de Cortes. 
+
+### Artículo 206
+El Príncipe de Asturias no podrá salir del Reino sin consentimiento de las Cortes, y si 
+saliere sin él, quedará por el mismo hecho excluido del llamamiento a la Corona. 
+
+### Artículo 207
+Lo mismo se entenderá, permaneciendo fuera del Reino por más tiempo que el reflejado 
+en el permiso, si requerido para que vuelva, no lo verificare dentro del término que las 
+Cortes señalen. 
+
+### Artículo 208
+El Príncipe de Asturias, los Infantes e Infantas y sus hijos y descendientes que sean 
+súbditos del Rey, no podrán contraer matrimonio sin su consentimiento y el de las Cortes, 
+bajo la pena de ser excluido del llamamiento a la Corona. 
+
+### Artículo 209
+De las partidas de nacimiento, matrimonio y muerte de todas las personas de la familia 
+Real, se remitirá una copia auténtica a las Cortes, y en su defecto a la Diputación 
+permanente, para que se custodie en su archivo. 
+
+### Artículo 210
+El Príncipe de Asturias será reconocido por las Cortes con las formalidades que 
+prevendrá el reglamento del Gobierno interior de ellas. 
+
+### Artículo 211
+Este reconocimiento se hará en las primeras Cortes que se celebren después de su 
+nacimiento. 
+
+### Artículo 212
+El Príncipe de Asturias, llegando a la edad de catorce años, prestará juramento ante las 
+Cortes bajo la fórmula siguiente: “N. (aquí el nombre), Príncipe de Asturias, juro por Dios 
+y por los Santos Evangelios, que defenderé y conservaré la religión Católica, Apostólica, 
+Romana, sin permitir otra alguna en el Reino; que guardaré la Constitución política de la 
+Monarquía española, y que seré fiel y obediente al Rey. Así, Dios me ayude.” 
+
+## CAPÍTULO V 
+De la dotación de la familia Real 
+
+### Artículo 213
+Las Cortes señalarán al Rey la dotación anual de su casa, que sea correspondiente a la 
+alta dignidad de su persona. 
+
+### Artículo 214
+Pertenecen al Rey todos los Palacios Reales que han disfrutado sus predecesores, y las 
+Cortes señalarán los terrenos que tengan por conveniente reservar para el recreo de su 
+persona. 
+
+### Artículo 215
+Al Príncipe de Asturias, desde el día de su nacimiento, y a los 
+Infantes e Infantas, desde que cumplan siete años de edad, se asignará por las Cortes, 
+para sus alimentos, la cantidad anual correspondiente a su respectiva dignidad. 
+
+### Artículo 216
+A las Infantas, para cuando casaren, señalarán las Cortes la cantidad que estimen en 
+calidad de dote, y entregada ésta, cesarán los alimentos anuales. 
+
+### Artículo 217
+A los Infantes, si casaren mientras residan en las Españas, se les continuarán los 
+alimentos que les estén asignados, y si casaren y residieren fuera, cesarán los alimentos, 
+y se les entregará por una vez la cantidad que las Cortes señalen. 
+
+### Artículo 218
+Las Cortes señalarán los alimentos anuales que hayan de darse a la 
+Reina viuda. 
+
+### Artículo 219
+Los sueldos de los individuos de la Regencia se tomarán de la dotación 
+señalada a la casa del Rey. 
+
+### Artículo 220
+La dotación de la casa del Rey y los alimentos de su familia, de que hablan los 
+artículos precedentes, se señalarán por las Cortes al principio de cada reinado, y no se 
+podrán alterar durante él. 
+
+### Artículo 221
+Todas estas asignaciones son de cuenta de la tesorería nacional, por la que 
+serán satisfechas al administrador que el Rey nombrare, con el cual se entenderán las 
+acciones activas y pasivas que por razón de intereses puedan promoverse. 
+
+## CAPÍTULO VI 
+De los Secretarios de Estado y del Despacho. 
+
+### Artículo 222
+Los Secretarios del Despacho serán siete, a saber: 
+El Secretario del Despacho del Estado. 
+El Secretario del Despacho de la Gobernación del Reino para la Península e islas 
+adyacentes. 
+El Secretario del Despacho de la Gobernación del Reino para Ultramar. 
+El Secretario del Despacho de Gracia y Justicia. 
+El Secretario del Despacho de Hacienda. 
+El Secretario del Despacho de Guerra. 
+El Secretario del Despacho de Marina. 
+Las Cortes sucesivas harán en este sistema de Secretarías del Despacho la variación 
+que la experiencia o las circunstancias exijan. 
+
+### Artículo 223
+Para ser Secretario de Despacho se requiere ser ciudadano en el ejercicio de sus 
+derechos, quedando excluidos los extranjeros, aunque tengan carta de ciudadanos. 
+
+### Artículo 224
+Por un reglamento particular aprobado por las Cortes se señalarán a cada Secretaría los 
+negocios que deban pertenecerle. 
+
+### Artículo 225
+Todas las órdenes del Rey deberán ir firmadas por el Secretario del 
+Despacho del ramo a que el asunto corresponda. 
+Ningún Tribunal ni persona pública dará cumplimiento a la orden que carezca de este 
+requisito. 
+
+### Artículo 226
+Los Secretarios del Despacho serán responsables a las Cortes de las órdenes que 
+autoricen contra la Constitución o las leyes, sin que les sirva de excusa haberlo mandado 
+el Rey. 
+
+### Artículo 227
+Los Secretarios de Despacho formarán los presupuestos anuales de los gastos de la 
+Administración pública, que se estime deban hacerse por su respectivo ramo, y rendirán 
+cuentas de los que se hubieren hecho, en el modo que se expresará. 
+
+### Artículo 228
+Para hacer efectiva la responsabilidad de los Secretarios del 
+Despacho, decretarán ante todas cosas las Cortes que ha lugar a la formación de causa. 
+
+### Artículo 229
+Dado este decreto, quedará suspenso el Secretario del Despacho, y las Cortes remitirán 
+al Tribunal Supremo de Justicia todos los documentos concernientes a la causa que haya 
+de formarse por el mismo Tribunal, quien la sustanciará y decidirá con arreglo a las leyes. 
+
+### Artículo 230
+Las Cortes señalarán el sueldo que deban gozar los Secretarios del 
+Despacho durante su encargo. 
+
+## CAPÍTULO VII 
+Del Consejo de Estado. 
+
+### Artículo 231
+Habrá un Consejo de Estado compuesto de cuarenta individuos, que sean ciudadanos en 
+el ejercicio de sus derechos, quedando excluidos los extranjeros, aunque tengan carta de 
+ciudadanos. 
+
+### Artículo 232
+Estos serán precisamente en la forma siguiente, a saber: cuatro eclesiásticos, y no más, 
+de conocida y probada ilustración y merecimiento, de los cuales dos serán Obispos; 
+cuatro Grandes de España, y no más, adornados de las virtudes, talento y conocimientos 
+necesarios, y los restantes serán elegidos de entre los sujetos que más se hayan 
+distinguido por su ilustración y conocimientos, o por sus señalados servicios en alguno de 
+los principales ramos de la administración y gobierno del Estado. Las Cortes no podrán 
+proponer para estas plazas a ningún individuo que sea Diputado de Cortes al tiempo de 
+hacerse la elección. De los individuos del Consejo de Estado, doce, a lo menos, serán 
+nacidos en las provincias de Ultramar. 
+
+### Artículo 233
+Todos los Consejeros de Estado serán nombrados por el Rey, a propuesta de las Cortes. 
+
+### Artículo 234
+Para la formación de este Consejo se dispondrá en las Cortes una lista triple de todas las 
+clases referidas, en la proporción indicada, de la cual el Rey elegirá los cuarenta 
+individuos que han de componer el Consejo de Estado, tomando los eclesiásticos de la 
+lista de su clase, los Grandes de la suya, y así los demás. 
+
+### Artículo 235
+Cuando ocurriere alguna vacante en el Consejo de Estado, las Cortes primeras que se 
+celebren presentarán al Rey tres personas de la clase que se hubiere verificado, para que 
+elija la que le pareciere. 
+
+### Artículo 236
+El Consejo de Estado es el único Consejo del Rey que oirá su dictamen en los asuntos 
+graves gubernativos, y señaladamente para dar o negar la sanción a las leyes, declarar la 
+guerra y hacer los tratados. 
+
+### Artículo 237
+Pertenecerá a este Consejo hacer al Rey la propuesta por ternas para la presentación de 
+todos los beneficios eclesiásticos y para la provisión de las plazas de judicatura. 
+
+### Artículo 238
+El Rey formará un reglamento para el gobierno del Consejo de Estado, oyendo 
+previamente al mismo; y se presentará a las Cortes para su aprobación. 
+
+### Artículo 239
+Los Consejeros de Estado no podrán ser removidos sin causa justificada ante el Tribunal 
+Supremo de Justicia. 
+
+### Artículo 240
+Las Cortes señalarán el sueldo que deban gozar los Consejeros de Estado. 
+
+### Artículo 241
+Los Consejeros de Estado, al tomar posesión de sus plazas, harán en manos del Rey 
+juramento de guardar la Constitución, ser fieles al Rey, y aconsejarle lo que entendieren 
+ser conducente al bien de la Nación, sin mira particular ni interés privado. 
+
+## TÍTULO V 
+DE LOS TRIBUNALES Y DE LA ADMINISTRACIÓN DE JUSTICIA EN LO CIVIL Y EN LO 
+CRIMINAL 
+
+## CAPÍTULO PRIMERO 
+De los Tribunales. 
+
+### Artículo 242
+La potestad de aplicar las leyes en las causas civiles y criminales pertenece 
+exclusivamente a los Tribunales. 
+
+### Artículo 243
+Ni las Cortes ni el Rey podrán ejercer en ningún caso las funciones judiciales, avocar 
+causas pendientes, ni mandar abrir los juicios fenecidos. 
+
+### Artículo 244
+Las leyes señalarán el orden y las formalidades del proceso, que serán uniformes en 
+todos los Tribunales, y ni las Cortes ni el Rey podrán dispensarlas. 
+
+### Artículo 245
+Los Tribunales no podrán ejercer otras funciones que las de juzgar y hacer que se ejecute 
+lo juzgado. 
+
+### Artículo 246
+Tampoco podrán suspender la ejecución de las leyes ni hacer reglamento alguno para la 
+administración de justicia. 
+
+### Artículo 247
+Ningún español podrá ser juzgado en causas civiles ni criminales por ninguna Comisión, 
+sino por el tribunal competente, determinado con anterioridad por la ley. 
+
+### Artículo 248
+En los negocios comunes, civiles y criminales no habrá más que un solo fuero para toda 
+clase de personas. 
+
+### Artículo 249
+Los eclesiásticos continuarán gozando del fuero de su estado, en los términos que 
+prescriben las leyes o que en adelante prescribieren. 
+
+### Artículo 250
+Los militares gozarán también de fuero particular, en los términos que previene la 
+ordenanza o en adelante previniere. 
+
+### Artículo 251
+Para ser nombrado magistrado o juez se requiere haber nacido en el territorio español, y 
+ser mayor de veinticinco años. Las demás calidades que respectivamente deban éstos 
+tener, serán determinadas por las leyes. 
+
+### Artículo 252
+Los magistrados y jueces no podrán ser depuestos en sus destinos, sean temporales o 
+perpetuos, sino por causa legalmente probada y sentenciada, ni suspendidos, sino por 
+acusación legalmente intentada. 
+
+### Artículo 253
+Si al Rey llegaren quejas contra algún magistrado, y formado expediente, parecieren 
+fundadas, podrá, oído el Consejo de Estado, suspenderle, haciendo pasar 
+inmediatamente el expediente al Supremo Tribunal de Justicia, para que juzgue con 
+arreglo a las leyes. 
+
+### Artículo 254
+Toda falta de observancia de las leyes que arreglan el proceso en lo civil y en lo criminal, 
+hace responsables personalmente a los jueces que la cometieren. 
+
+### Artículo 255
+El soborno, el cohecho y la prevaricación de los magistrados y jueces producen acción 
+popular contra los que los cometan. 
+
+### Artículo 256
+Las Cortes señalarán a los magistrados y jueces de letras una dotación competente. 
+ 
+
+### Artículo 257
+La justicia se administrará en nombre del Rey, y las ejecutorias y provisiones de los 
+Tribunales superiores se encabezarán también en su nombre. 
+
+### Artículo 258
+El Código civil y criminal y el de comercio serán unos mismos para toda la Monarquía, sin 
+perjuicio de las variaciones que por particulares circunstancias podrán hacer las Cortes. 
+
+### Artículo 259
+Habrá en la Corte un Tribunal, que se llamará Supremo Tribunal de 
+Justicia. 
+
+### Artículo 260
+Las Cortes determinarán el número de magistrados que han de componerle, y las Salas 
+en que ha de distribuirse. 
+
+### Artículo 261
+Toca a este Supremo Tribunal: 
+Primero. Dirimir todas las competencias de las Audiencias entre sí en todo el territorio 
+español, y las de las Audiencias con los Tribunales especiales, que existan en la 
+Península e islas adyacentes. En Ultramar se dirimirán estas últimas según lo 
+determinaren las leyes. 
+Segundo. Juzgar a los Secretarios de Estado y del Despacho, cuando las Cortes 
+decretaren haber lugar a la formación de causa. 
+Tercero. Conocer de todas las causas de separación y suspensión de los consejeros de 
+Estado y de los magistrados de las Audiencias. 
+Cuarto. Conocer de todas las causas criminales de los Secretarios de Estado y del 
+Despacho, de los consejeros de Estado y de los magistrados de las Audiencias, 
+perteneciendo al jefe político más autorizado la instrucción del proceso para remitirlo a 
+este Tribunal. 
+Quinto. Conocer de todas las causas criminales que se promovieren contra los individuos 
+de este Supremo Tribunal. Si llegare el caso en que sea necesario hacer efectiva la 
+responsabilidad de este Supremo Tribunal, las Cortes, previa la formalidad establecida en 
+el artículo 228, procederán a nombrar para este fin un Tribunal compuesto de nueve 
+jueces, que serán elegidos por suerte de un número doble. 
+Sexto. Conocer de la residencia de todo empleado público que esté sujeto a ella por 
+disposición de las leyes. 
+Séptimo. Conocer de todos los asuntos contenciosos pertenecientes al Real patronato. 
+Octavo. Conocer de los recursos de fuerza de todos los Tribunales eclesiásticos 
+superiores de la Corte. 
+Noveno. Conocer de los recursos de nulidad que se interpongan contra las sentencias 
+dadas en última instancia para el preciso efecto de reponer el proceso, devolviéndolo, y 
+hacer efectiva la responsabilidad de que trata el art. 254. Por lo relativo a Ultramar, de 
+estos recursos se conocerá en las Audiencias en la forma que se dirá en su lugar. 
+Décimo. Oír las dudas de los demás Tribunales sobre la inteligencia de alguna ley, y 
+consultar sobre ellas al Rey con los fundamentos que hubiere, para que promueva la 
+conveniente declaración en las Cortes. 
+Undécimo. Examinar las listas de las causas civiles y criminales, que deben remitirle las 
+Audiencias para promover la pronta administración de justicia, pasar copia de ellas para 
+el mismo efecto al Gobierno, y disponer su publicación por medio de la imprenta. 
+
+### Artículo 262
+Todas las causas civiles y criminales se fenecerán dentro del territorio de cada Audiencia. 
+
+### Artículo 263
+Pertenecerá a las Audiencias conocer de todas las causas civiles de los Juzgados 
+inferiores de su demarcación en segunda y tercera instancia, y lo mismo de las 
+criminales, según lo determinen las leyes; y también de las causas de suspensión y 
+separación de los jueces inferiores de su territorio, en el modo que prevengan las leyes, 
+dando cuenta al Rey. 
+
+### Artículo 264
+Los magistrados que hubieren fallado en la segunda instancia, no podrán asistir a la vista 
+del mismo pleito en la tercera. 
+
+### Artículo 265
+Pertenecerá también a las Audiencias conocer de las competencias entre todos los 
+jueces subalternos de su territorio. 
+
+### Artículo 266
+Les pertenecerá asimismo conocer de los recursos de fuerza que se introduzcan, de los 
+Tribunales y autoridades eclesiásticas de su territorio. 
+
+### Artículo 267
+Les corresponderá también recibir de todos los jueces subalternos de su territorio avisos 
+puntuales de las causas que se formen por delitos, y listas de las causas civiles y 
+criminales pendientes en su Juzgado, con expresión del estado de unas y otras, a fin de 
+promover la más pronta administración de justicia. 
+
+### Artículo 268
+A las Audiencias de Ultramar les corresponderá además el conocer de los recursos de 
+nulidad, debiendo éstos interponerse, en aquellas Audiencias que tengan suficiente 
+número para la formación de tres Salas, en la que no haya conocido de la causa en 
+ninguna instancia. En las Audiencias que no consten de este número de ministros, se 
+interpondrán estos recursos de una a otra de las comprendidas en el distrito de una 
+misma gobernación superior; y en el caso de que en éste no hubiere más que una 
+Audiencia, irán a la más inmediata de otro distrito. 
+
+### Artículo 269
+Declarada la nulidad, la Audiencia que ha conocido de ella dará cuenta, con testimonio 
+que contenga los insertos convenientes, al Supremo Tribunal de Justicia, para hacer 
+efectiva la responsabilidad de que trata el art. 254. 
+
+### Artículo 270
+Las Audiencias remitirán cada año al Supremo Tribunal de Justicia listas exactas de las 
+causas civiles, y cada seis meses de las criminales, así fenecidas como pendientes, con 
+expresión del estado que éstas tengan, incluyendo las que hayan recibido de los 
+Juzgados inferiores. 
+
+### Artículo 271
+Se determinará por leyes y reglamentos especiales el número de los magistrados de las 
+Audiencias, que no podrán ser menos de siete, la forma de estos Tribunales y el lugar de 
+su residencia. 
+
+### Artículo 272
+Cuando llegue el caso de hacerse la conveniente división del territorio español, indicada 
+en el artículo 11, se determinará con respecto a ella el número de Audiencias que han de 
+establecerse, y se les señalará territorio. 
+
+### Artículo 273
+Se establecerán partidos proporcionalmente iguales, y en cada cabeza de partido habrá 
+un juez de letras con un Juzgado correspondiente. 
+
+### Artículo 274
+Las facultades de estos jueces se limitarán precisamente a lo contencioso, y las leyes 
+determinarán las que han de pertenecerles en la capital y pueblos de su partido, como 
+también hasta de qué cantidad podrán conocer en los negocios civiles sin apelación. 
+
+### Artículo 275
+En todos los pueblos se establecerán alcaldes, y las leyes determinarán la extensión de 
+sus facultades, así en lo contencioso como en lo económico. 
+
+### Artículo 276
+Todos los jueces de los Tribunales inferiores deberán dar cuenta, a más tardar dentro de 
+tercero día, a su respectiva Audiencia de las causas que se formen por delitos cometidos 
+en su territorio, y después continuarán dando cuenta de su estado en las épocas que la 
+Audiencia les prescriba. 
+
+### Artículo 277
+Deberán asimismo remitir a la Audiencia respectiva listas generales cada seis meses de 
+las causas civiles, y cada tres de las criminales, que pendieren en sus Juzgados, con 
+expresión de su estado. 
+
+### Artículo 278
+Las leyes decidirán si ha de haber Tribunales especiales para conocer de determinados 
+negocios. 
+
+### Artículo 279
+Los magistrados y jueces al tomar posesión de sus plazas, jurarán guardar la 
+Constitución, ser fieles al Rey, observar las leyes y administrar imparcialmente la justicia. 
+
+## CAPÍTULO II 
+De la administración de justicia en lo civil. 
+
+### Artículo 280
+No se podrá privar a ningún español del derecho de terminar sus diferencias por medio 
+de jueces árbitros, elegidos por ambas partes. 
+
+### Artículo 281
+La sentencia que dieren los árbitros se ejecutará si las partes, al hacer el compromiso, no 
+se hubieren reservado el derecho de apelar. 
+
+### Artículo 282
+El alcalde de cada pueblo ejercerá en él el oficio de conciliador, y el que tenga que 
+demandar por negocios civiles o por injurias, deberá presentarse a él con este objeto. 
+
+### Artículo 283
+El alcalde, con dos hombres buenos, nombrados uno por cada parte, oirá al demandante 
+y al demandado, se enterará de las razones en que respectivamente apoyen su intención, 
+y tomará oído el dictamen de los dos asociados, la providencia que le parezca propia 
+para el fin de terminar el litigio sin más progreso, como se terminará, en efecto, si las 
+partes se aquietan con esta decisión extrajudicial. 
+
+### Artículo 284
+Sin hacer constar que se ha intentado el medio de la conciliación, no se entablará pleito 
+alguno. 
+
+### Artículo 285
+En todo negocio, cualquiera que sea su cuantía, habrá lo más tres instancias y tres 
+sentencias definitivas pronunciadas en ellas. Cuando la tercera instancia se interponga de 
+dos sentencias conformes, el número de jueces que haya de decidirla deberá ser mayor 
+que el que asistió a la vista de la segunda, en la forma que lo disponga la ley. A ésta toca 
+también determinar, atendida la entidad de los negocios y la naturaleza y calidad de los 
+diferentes juicios, qué sentencia ha de ser la que en cada uno deba causar ejecutoria. 
+
+## CAPÍTULO III 
+De la administración de justicia en lo criminal. 
+
+### Artículo 286
+Las leyes arreglarán la administración de justicia en lo criminal de manera que el proceso 
+sea formado con brevedad y sin vicios, a fin de que los delitos sean prontamente 
+castigados. 
+
+### Artículo 287
+Ningún español podrá ser preso sin que preceda información sumaria del hecho por el 
+que merezca, según la ley, ser castigado con pena corporal, y asimismo un mandamiento 
+del juez por escrito, que se le notificará en el acto mismo de la prisión. 
+
+### Artículo 288
+Toda persona deberá obedecer estos mandamientos: cualquiera resistencia será 
+reputada delito grave. 
+
+### Artículo 289. 
+Cuando hubiere resistencia o se temiere la fuga, se podrá usar de la fuerza para asegurar 
+la persona. 
+
+### Artículo 290
+El arrestado, antes de ser puesto en prisión, será presentado al juez, siempre que no 
+haya cosa que lo estorbe, para que le reciba declaración; mas, si esto no pudiere 
+verificarse, se le conducirá a la cárcel en calidad de detenido, y el juez le recibirá la 
+declaración dentro de las veinticuatro horas. 
+
+### Artículo 291
+La declaración del arrestado será sin juramento, que a nadie ha de tomarse en materias 
+criminales sobre hecho propio. 
+
+### Artículo 292
+Infraganti, todo delincuente puede ser arrestado y todos pueden arrestarle y conducirle a 
+la presencia del juez: presentado o puesto en custodia, se procederá en todo como se 
+previene en los dos artículos precedentes. 
+
+### Artículo 293
+Si se resolviere que al arrestado se le ponga en la cárcel, o que permanezca en ella en 
+calidad de preso, se proveerá auto motivado, y de él se entregará copia al alcaide para 
+que la inserte en el libro de presos, sin cuyo requisito no admitirá el alcaide a ningún 
+preso en calidad de tal, bajo la más estrecha responsabilidad. 
+
+### Artículo 294
+Sólo se hará embargo de bienes cuando se proceda por delitos que llevan consigo 
+responsabilidad pecuniaria, y en proporción a la cantidad a que ésta pueda extenderse. 
+
+### Artículo 295
+No será llevado a la cárcel el que dé fiador en los casos en que la ley no prohíba 
+expresamente que se admita la fianza. 
+
+### Artículo 296
+En cualquier estado de la causa que aparezca que no puede imponerse al preso pena 
+corporal, se le pondrá en libertad, dando fianza. 
+
+### Artículo 297
+Se dispondrán las cárceles de manera que sirvan para asegurar, y no para molestar a los 
+presos; así, el alcaide tendrá a éstos en buena custodia, y separados los que el juez 
+mande tener sin comunicación; pero nunca en calabozos subterráneos ni malsanos. 
+
+### Artículo 298
+La ley determinará la frecuencia con que ha de hacerse la visita de cárceles, y no habrá 
+preso alguno que deje de presentarse a ella bajo ningún pretexto. 
+
+### Artículo 299
+El juez y el alcaide que faltaren a lo dispuesto en los artículos precedentes, serán 
+castigados como reos de detención arbitraria, la que será comprendida como delito en el 
+Código criminal. 
+
+### Artículo 300
+Dentro de las veinticuatro horas se manifestará al tratado como reo la causa de su 
+prisión, y el nombre de su acusador, si lo hubiere. 
+
+### Artículo 301
+Al tomar la confesión al tratado como reo, se le leerán íntegramente todos los 
+documentos y las declaraciones de los testigos, con los nombres de éstos; y si por ellos 
+no los conociere, se le darán cuantas noticias pida para venir en conocimiento de quiénes 
+son. 
+
+### Artículo 302
+El proceso, de allí en adelante, será público en el modo y forma que determinen las leyes. 
+
+### Artículo 303
+No se usará nunca del tormento ni de los apremios. 
+
+### Artículo 304
+Tampoco se impondrá la pena de confiscación de bienes. 
+
+### Artículo 305
+Ninguna pena que se imponga, por cualquier delito que sea, ha de ser trascendental por 
+término ninguno a la familia del que la sufre, sino que tendrá todo su efecto precisamente 
+sobre el que la mereció. 
+
+### Artículo 306
+No podrá ser allanada la casa de ningún español, sino en los casos que determine la ley 
+para el buen orden y seguridad del Estado. 
+
+### Artículo 307
+Si con el tiempo creyeren las Cortes que conviene haya distinción entre los jueces del 
+hecho y del derecho, la establecerán en la forma que juzguen conducente. 
+
+### Artículo 308
+Si en circunstancias extraordinarias la seguridad del Estado exigiese, en toda la 
+Monarquía o en parte de ella, la suspensión de algunas de las formalidades prescritas en 
+este capítulo para el arresto de los delincuentes, podrán las Cortes decretarla por un 
+tiempo determinado. 
+
+## TÍTULO VI 
+DEL GOBIERNO INTERIOR DE LAS PROVINCIAS Y DE LOS PUEBLOS 
+
+## CAPÍTULO PRIMERO 
+De los Ayuntamientos. 
+
+### Artículo 309
+Para el gobierno interior de los pueblos habrá Ayuntamientos compuestos de alcalde o 
+alcaldes, los regidores y el procurador síndico, y presididos por el jefe político donde lo 
+hubiere, y en su defecto por el alcalde o el primer nombrado entre éstos, si hubiere dos. 
+
+### Artículo 310
+Se pondrá Ayuntamiento en los pueblos que no le tengan y en que convenga le haya, no 
+pudiendo dejar de haberle en los que por sí o con su comarca lleguen a mil almas, y 
+también se les señalara término correspondiente. 
+
+### Artículo 311
+Las leyes determinarán el número de individuos de cada clase de que han de 
+componerse los Ayuntamientos de los pueblos con respecto a su vecindario. 
+
+### Artículo 312
+Los alcaldes, regidores y procuradores síndicos se nombrarán por elección en los 
+pueblos, cesando los regidores y demás que sirvan oficios perpetuos en los 
+Ayuntamientos, cualquiera que sea su título y denominación. 
+
+### Artículo 313
+Todos los años, en el mes de Diciembre, se reunirán los ciudadanos de cada pueblo para 
+elegir a pluralidad de votos, con proporción a su vecindario, determinando número de 
+electores que residan en el mismo pueblo y estén en el ejercicio de los derechos de 
+ciudadano. 
+
+### Artículo 314
+Los electores nombrarán en el mismo mes, a pluralidad absoluta de votos, el alcalde o 
+alcaldes, regidores y procurador o procuradores síndicos, para que entren a ejercer sus 
+cargos el 1º. de Enero del siguiente año. 
+
+### Artículo 315
+Los alcaldes se mudarán todos los años, los regidores por mitad cada año, y lo mismo los 
+procuradores síndicos donde haya dos: si hubiere sólo uno, se mudará todos los años. 
+
+### Artículo 316
+El que hubiere ejercido cualquiera de estos cargos no podrá volver a ser elegido para 
+ninguno de ellos sin que pasen, por lo menos, dos años, donde el vecindario lo permita. 
+
+### Artículo 317
+Para ser alcalde, regidor o procurador síndico, además de ser ciudadano en el ejercicio 
+de sus derechos, se requiere ser mayor de veinticinco años, con cinco, a lo menos, de 
+vecindad y residencia en el pueblo. Las leyes determinarán las demás calidades que han 
+de tener estos empleados. 
+
+### Artículo 318
+No podrá ser alcalde, regidor ni procurador síndico ningún empleado público de 
+nombramiento del Rey que esté en ejercicio, no entendiéndose comprendidos en esta 
+regla los que sirvan en las milicias nacionales. 
+
+### Artículo 319
+Todos los empleos municipales referidos serán carga concejil, de que nadie podrá 
+excusarse sin causa legal. 
+
+### Artículo 320
+Habrá un secretario en todo Ayuntamiento, elegido por éste a pluralidad absoluta de 
+votos, y dotado de los fondos del común. 
+
+### Artículo 321
+Estará a cargo de los Ayuntamientos: 
+Primero. La policía de salubridad y comodidad. 
+Segundo. Auxiliar al alcalde en todo lo que pertenezca a la seguridad de las personas y 
+bienes de los vecinos, y a la conservación del orden público. 
+Tercero. La administración e inversión de los caudales de propios y arbitrios, conforme a 
+las leyes y reglamentos, con el cargo de nombrar depositario bajo responsabilidad de los 
+que le nombran. 
+Cuarto. Hacer el repartimiento y recaudación de las contribuciones, y remitirlas a la 
+Tesorería respectiva. 
+Quinto. Cuidar de todas las escuelas de primeras letras y de los demás establecimientos 
+de educación que se paguen de los fondos del común. 
+Sexto. Cuidar de los hospitales, hospicios, casas de expósitos y demás establecimientos 
+de beneficencia, bajo las reglas que se prescriban. 
+Séptimo. Cuidar de la construcción y reparación de los caminos, calzadas, puentes y 
+cárceles, de los montes y plantíos del común, y de todas las obras públicas de necesidad, 
+utilidad y ornato. 
+Octavo. Formar las Ordenanzas municipales del pueblo y presentarlas a las Cortes para 
+su aprobación por medio de la Diputación provincial, que las acompañará con su informe. 
+Noveno. Promover la agricultura, la industria y el comercio, según la localidad y 
+circunstancias de los pueblos, y cuanto les sea útil y beneficioso. 
+
+### Artículo 322
+Si se ofrecieren obras u otros objetos de utilidad común, y por no ser suficientes los 
+caudales de propios, fuere necesario recurrir a arbitrios, no podrán imponerse éstos sino 
+obteniendo por medio de la Diputación provincial la aprobación de las Cortes. En el caso 
+de ser urgente la obra u objeto a que se destinen, podrán los Ayuntamientos usar 
+interinamente de ellos con el consentimiento de la misma Diputación, mientras recae la 
+resolución de las Cortes. Estos arbitrios se administrarán en todo como los caudales de 
+propios. 
+
+### Artículo 323
+Los Ayuntamientos desempeñarán todos estos recargos bajo la inspección de la 
+Diputación provincial, a quien rendirán cuenta justificada cada año de los caudales 
+públicos que hayan recaudado e invertido. 
+
+## CAPÍTULO II 
+Del gobierno político de las provincias y de las Diputaciones provinciales. 
+
+### Artículo 324
+El gobierno político de las provincias residirá en el jefe superior, nombrado por el Rey en 
+cada una de ellas. 
+
+### Artículo 325
+En cada provincia habrá una Diputación llamada provincial, para promover su 
+prosperidad, presidida por el jefe superior. 
+
+### Artículo 326
+Se compondrá esta Diputación del presidente, el intendente y de siete individuos elegidos 
+en la forma que se dirá, sin perjuicio de que las Cortes, en lo sucesivo, varíen este 
+número como lo crean conveniente, o lo exijan las circunstancias, hecha que sea la 
+nueva división de provincias de que trata el art. 11. 
+
+### Artículo 327
+La Diputación provincial se renovará cada dos años por mitad, saliendo la primera vez el 
+mayor número, y la segunda el menor, y así sucesivamente. 
+
+### Artículo 328
+La elección de estos individuos se hará por los electores de partido al otro día de haber 
+nombrado los Diputados de Cortes, por el mismo orden con que éstos se nombran. 
+
+### Artículo 329
+Al mismo tiempo, y en la misma forma, se elegirán tres suplentes para cada Diputación. 
+
+### Artículo 330
+Para ser individuo de la Diputación provincial se requiere ser ciudadano en el ejercicio de 
+sus derechos, mayor de veinticinco años, natural o vecino de la provincia, con residencia, 
+a lo menos, de siete años, y que tenga lo suficiente para mantenerse con decencia, y no 
+podrá serlo ninguno de los empleados de nombramiento del Rey de que trata el art. 318. 
+
+### Artículo 331
+Para que una misma persona pueda ser elegida segunda vez, deberá haber pasado, a lo 
+menos, el tiempo de cuatro años después de haber cesado en sus funciones. 
+
+### Artículo 332
+Cuando el jefe superior de la provincia no pudiere presidir la Diputación, la presidirá el 
+intendente, y, en su defecto, el Vocal que fuere primer nombrado. 
+
+### Artículo 333
+La Diputación nombrará un secretario, dotado de los fondos públicos de la provincia. 
+
+### Artículo 334
+Tendrá la Diputación en cada año, a lo más, noventa días de sesiones, 
+distribuidas en las épocas que más convenga. En la Península deberán hallarse reunidas 
+las Diputaciones para el 1º. de Marzo, y en Ultramar para el 1º. de junio. 
+
+### Artículo 335
+Tocará a estas Diputaciones: 
+Primero. Intervenir y aprobar el repartimento hecho a los pueblos de las contribuciones 
+que hubieren cabido a la provincia. 
+Segundo. Velar sobre la buena inversión de los fondos públicos de los pueblos y 
+examinar sus cuentas, para que con su Vº. Bº. recaiga la aprobación superior, cuidando 
+de que en todo se observen las leyes y reglamentos. 
+Tercero. Cuidar de que se establezcan Ayuntamientos donde corresponda los haya, 
+conforme a lo prevenido en el art. 310. 
+Cuarto. Si se ofrecieren obras nuevas de utilidad común de la provincia, o la reparación 
+de las antiguas, proponer al Gobierno los arbitrios que crean más convenientes para su 
+ejecución, a fin de obtener el correspondiente permiso de las Cortes. En Ultramar, si la 
+urgencia de las obras públicas no permitiese esperar la resolución de las Cortes, podrá la 
+Diputación, con expreso asenso del Jefe de la provincia, usar, desde luego, de los 
+arbitrios, dando inmediatamente cuenta al Gobierno para la aprobación de las Cortes. 
+Para la recaudación de los arbitrios, la Diputación, bajo su responsabilidad, nombrará 
+depositario, y las cuentas de la inversión, examinadas por la Diputación, se remitirán al 
+Gobierno para que las haga reconocer y glosar y, finalmente, las pase a las Cortes para 
+su aprobación. 
+Quinto. Promover la educación de la juventud conforme a los planos aprobados, y 
+fomentar la agricultura la industria y el comercio, protegiendo a los inventores de nuevos 
+descubrimientos en cualquiera de estos ramos. 
+Sexto. Dar parte al Gobierno de los abusos que noten en la administración de las rentas 
+públicas. 
+Séptimo. Formar el censo y la estadística de las provincias. 
+Octavo. Cuidar de que los establecimientos piadosos y de beneficencia llenen su 
+respectivo objeto, proponiendo al Gobierno las reglas que estimen conducentes para la 
+reforma de los abusos que observaren. 
+Noveno. Dar parte a las Cortes de las infracciones de la Constitución que se noten en la 
+provincia. 
+Décimo. Las Diputaciones de las provincias de Ultramar velarán sobre la economía, 
+orden y progresos de las misiones para la conversión de los indios infieles, cuyos 
+encargados les darán razón de sus operaciones en este ramo, para que se eviten 
+abusos; todo lo que las Diputaciones pondrán en noticia del Gobierno. 
+
+### Artículo 336
+Si alguna Diputación abusare de sus facultades, podrá el Rey suspender a los vocales 
+que la componen, dando parte a las Cortes de esta disposición y de los motivos de ella 
+para la determinación que corresponda; durante la suspensión entrarán en funciones los 
+suplentes. 
+
+### Artículo 337
+Todos los individuos de los Ayuntamientos y de las Diputaciones de provincia, al entrar en 
+el ejercicio de sus funciones, prestarán juramento, aquéllos en manos del jefe político, 
+donde le hubiere, o en su defecto del alcalde que fuere primer nombrado, y éstos en las 
+del jefe superior de la provincia, de guardar la Constitución política de la Monarquía 
+española, observar las leyes, ser fieles al Rey y cumplir religiosamente las obligaciones 
+de su cargo. 
+
+## TÍTULO VII 
+DE LAS CONTRIBUCIONES 
+
+## CAPÍTULO ÚNICO: 
+
+### Artículo 338
+Las Cortes establecerán o confirmarán anualmente las contribuciones, sean directas o 
+indirectas, generales, provinciales o municipales, subsistiendo las antiguas, hasta que se 
+publique su derogación o la imposición de otras. 
+
+### Artículo 339. 
+Las contribuciones se repartirán entre todos los españoles con proporción a sus 
+facultades, sin excepción ni privilegio alguno. 
+
+### Artículo 340
+Las contribuciones serán proporcionadas a los gastos que se decreten por las Cortes 
+para el servicio público en todos los ramos. 
+
+### Artículo 341
+Para que las Cortes puedan fijar los gastos en todos los ramos del servicio público y las 
+contribuciones que deban cubrirlos, el Secretario del Despacho de Hacienda las 
+presentará, luego que estén reunidas, el presupuesto general de los que se estimen 
+precisos, recogiendo de cada uno de los demás Secretarios del Despacho el respectivo a 
+su ramo. 
+
+### Artículo 342
+El mismo Secretario del Despacho de Hacienda presentará con el presupuesto de gastos 
+el plan de contribuciones que deban imponerse para llenarlos. 
+
+### Artículo 343
+Si al Rey pareciere gravosa o perjudicial alguna contribución, lo manifestará a las Cortes 
+por el Secretario del Despacho de Hacienda, presentando al mismo tiempo la que crea 
+más conveniente sustituir. 
+
+### Artículo 344
+Fijada la cuota de la contribución directa, las Cortes aprobarán el repartimiento de ella 
+entre las provincias, a cada una de las cuales se asignará el cupo correspondiente a su 
+riqueza, para lo que el Secretario del Despacho de Hacienda presentará también los 
+presupuestos necesarios. 
+
+### Artículo 345
+Habrá una Tesorería general para toda la Nación, a la que tocará disponer de todos los 
+productos de cualquiera renta destinada al servicio del Estado. 
+
+### Artículo 346
+Habrá en cada provincia una tesorería, en la que entrarán todos los caudales que en ella 
+se recauden para el Erario público. Estas tesorerías estarán en correspondencia con la 
+general, a cuya disposición tendrán todos sus fondos. 
+
+### Artículo 347
+Ningún pago se admitirá en cuenta al Tesorero general, si no se hiciere en virtud de 
+decreto del Rey, refrendado por el Secretario del Despacho de Hacienda, en el que se 
+expresen el gasto a que se destina su importe y el decreto de las Cortes con que éste se 
+autoriza. 
+
+### Artículo 348
+Para que la Tesorería general lleve su cuenta con la pureza que corresponde, el cargo y 
+la data deberán ser intervenidos respectivamente por las Contadurías de valores y de 
+distribución de la renta pública. 
+
+### Artículo 349
+Una instrucción particular arreglará estas oficinas de manera que sirvan para los fines de 
+su instituto. 
+
+### Artículo 350
+Para el examen de todas las cuentas de caudales públicos habrá una Contaduría mayor 
+de cuentas, que se organizará por una ley especial. 
+
+### Artículo 351
+La cuenta de la Tesorería general, que comprenderá el rendimiento anual de todas las 
+contribuciones y rentas, y su inversión, luego que reciba la aprobación final de las Cortes, 
+se imprimirá, publicará y circulará a las Diputaciones de provincia y a los Ayuntamientos. 
+
+### Artículo 352
+Del mismo modo se imprimirán, publicarán y circularán las cuentas que rindan los 
+Secretarios del Despacho de los gastos hechos en sus respectivos ramos. 
+
+### Artículo 353
+El manejo de la Hacienda pública estará siempre independiente de toda otra autoridad 
+que aquella a la que está encomendado. 
+
+### Artículo 354
+No habrá aduanas sino en los puertos de mar y en las fronteras; bien que esta 
+disposición no tendrá efecto hasta que las Cortes lo determinen. 
+
+### Artículo 355
+La deuda pública reconocida será una de las primeras atenciones de las Cortes, y éstas 
+pondrán el mayor cuidado en que se vaya verificando su progresiva extinción, y siempre 
+el pago de los réditos en la parte que los devengue, arreglando todo lo concerniente a la 
+dirección de este importante ramo, tanto respecto a los arbitrios que se establecieren, los 
+cuales se manejarán con absoluta separación de la Tesorería general, como respecto a 
+las oficinas de cuenta y razón. 
+
+## TÍTULO VIII 
+DE LA FUERZA MILITAR NACIONAL 
+
+## CAPÍTULO PRIMERO 
+De las tropas de continuo servicio. 
+
+### Artículo 356
+Habrá una fuerza militar nacional permanente, de tierra y de mar, para la defensa exterior 
+del Estado y la conservación del orden interior. 
+
+### Artículo 357
+Las Cortes fijarán anualmente el número de tropas que fueren necesarias, según las 
+circunstancias, y el modo de levantar la que fuere más conveniente. 
+
+### Artículo 358
+Las Cortes fijarán asimismo anualmente el número de buques de la marina militar que 
+han de armarse o conservarse armados. 
+
+### Artículo 359
+Establecerán las Cortes por medio de las respectivas ordenanzas todo lo relativo a la 
+disciplina, orden de ascensos, sueldos, administración y cuanto corresponda a la buena 
+constitución del ejército y armada. 
+
+### Artículo 360
+Se establecerán escuelas militares para la enseñanza e instrucción de todas las 
+diferentes armas del ejército y armada. 
+
+### Artículo 361
+Ningún español podrá excusarse del servicio militar, cuando y en la forma que fuere 
+llamado por la ley. 
+
+## CAPÍTULO II 
+De las milicias nacionales. 
+
+### Artículo 362
+Habrá en cada provincia cuerpos de milicias nacionales, compuestos de habitantes de 
+cada una de ellas, con proporción a su población y circunstancias. 
+
+### Artículo 363
+Se arreglará por una ordenanza particular el modo de su formación, su número y especial 
+constitución en todos sus ramos. 
+
+### Artículo 364
+El servicio de estas milicias no será continuo, y sólo tendrá lugar cuando las 
+circunstancias lo requieran. 
+
+### Artículo 365
+En caso necesario podrá el Rey disponer de esta fuerza dentro de la respectiva provincia; 
+pero no podrá emplearla fuera de ella sin otorgamiento de las Cortes. 
+
+## TÍTULO IX 
+DE LA INSTRUCCIÓN PÚBLICA 
+
+## CAPÍTULO ÚNICO 
+
+### Artículo 366
+En todos los pueblos de la Monarquía se establecerán escuelas de primeras letras, en las 
+que se enseñará a los niños a leer, escribir y contar, y el catecismo de la religión católica, 
+que comprenderá también una breve exposición de las obligaciones civiles. 
+
+### Artículo 367
+Asimismo se arreglará y creará el número competente de Universidades y de otros 
+establecimientos de instrucción que se juzguen convenientes para la enseñanza de todas 
+las ciencias, literatura y bellas artes. 
+
+### Artículo 368
+El plan general de enseñanza será uniforme en todo el Reino, debiendo explicarse la 
+Constitución política de la Monarquía en todas las Universidades y establecimientos 
+literarios donde se enseñen las ciencias eclesiásticas y políticas. 
+
+### Artículo 369
+Habrá una Dirección general de estudios, compuesta de personas de conocida 
+instrucción, a cuyo cargo estará, bajo la autoridad del Gobierno, la inspección de la 
+enseñanza pública. 
+
+### Artículo 370
+Las Cortes, por medio de planes y estatutos especiales, arreglarán cuanto pertenezca al 
+importante objeto de la instrucción pública. 
+
+### Artículo 371
+Todos los españoles tienen libertad de escribir, imprimir y publicar sus ideas políticas sin 
+necesidad de licencia, revisión o aprobación alguna anterior a la publicación, bajo las 
+restricciones y responsabilidad que establezcan las leyes. 
+
+## TÍTULO X 
+DE LA OBSERVANCIA DE LA CONSTITUCIÓN, Y MODO DE PROCEDER PARA 
+HACER VARIACIONES EN ELLA 
+
+## CAPÍTULO ÚNICO 
+
+### Artículo 372
+Las Cortes, en sus primeras sesiones, tomarán en consideración las infracciones de la 
+Constitución que se les hubieren hecho presentes, para poner el conveniente remedio y 
+hacer efectiva la responsabilidad de los que hubieran contravenido a ella. 
+
+### Artículo 373
+Todo español tiene derecho a representar a las Cortes o al Rey para reclamar la 
+observancia de la Constitución. 
+
+### Artículo 374
+Toda persona que ejerza cargo público, civil, militar o eclesiástico, prestará juramento, al 
+tomar posesión de su destino, de guardar la Constitución, ser fiel al Rey y desempeñar 
+debidamente su encargo. 
+
+### Artículo 375
+Hasta pasados ocho años después de hallarse puesta en práctica la 
+Constitución en todas sus partes, no se podrá proponer alteración, adición ni reforma en 
+ninguno de sus artículos. 
+
+### Artículo 376
+Para hacer cualquier alteración, adición o reforma en la Constitución será necesario que 
+la diputación que haya de decretarla definitivamente venga autorizada con poderes 
+especiales para este objeto. 
+
+### Artículo 377
+Cualquiera proposición de reforma en algún artículo de la Constitución deberá hacerse 
+por escrito, y ser apoyada y firmada, a lo menos, por veinte Diputados. 
+
+### Artículo 378
+La proposición de reforma se leerá por tres veces, con el intervalo de seis días de una a 
+otra lectura, y después de la tercera se deliberará si ha lugar a admitirla a discusión. 
+
+### Artículo 379
+Admitida a discusión, se procederá en ella bajo las mismas formalidades y trámites que 
+se prescriben para la formación de las leyes, después de los cuales se propondrá a la 
+votación si ha lugar a tratarse de nuevo en la siguiente diputación general, y para que así 
+quede declarado, deberán convenir las dos terceras partes de los votos. 
+
+### Artículo 380
+La diputación general siguiente, previas las mismas formalidades en todas sus partes, 
+podrá declarar en cualquiera de los dos años de sus sesiones, conviniendo en ello las 
+dos terceras partes de votos, que ha lugar al otorgamiento de poderes especiales para 
+hacer la reforma. 
+
+### Artículo 381
+Hecha esta declaración, se publicará y comunicará a todas las provincias, y según el 
+tiempo en que se hubiere hecho, determinarán las Cortes si ha de ser la diputación 
+próximamente inmediata o la siguiente a ésta la que ha de traer los poderes especiales. 
+
+### Artículo 382
+Estos serán otorgados por las juntas electorales de provincia, añadiendo a los poderes 
+ordinarios la cláusula siguiente: “Asimismo les otorgan poder especial para hacer en la 
+Constitución la reforma de que trata el decreto de las Cortes, cuyo tenor es el siguiente: 
+(Aquí el decreto literal.) Todo con arreglo a lo prevenido por la misma Constitución. Y se 
+obligan a reconocer y tener por constitucional lo que en su virtud establecieren.” 
+
+### Artículo 383
+La reforma propuesta se discutirá de nuevo, y si fuere aprobada por las dos terceras 
+partes de Diputados, pasará a ser ley constitucional, y como tal se publicará en las 
+Cortes. 
+
+### Artículo 384
+Una diputación presentará el decreto de reforma al Rey para que la haga publicar y 
+circular a todas las autoridades y pueblos de la Monarquía. 
+Cádiz, 18 de Marzo de 1812.--Vicente Pascual, Diputado por la ciudad de Teruel, 
+presidente.--(Siguen las firmas de los Sres. Diputados)--José María Gutiérrez de Terán, 
+Diputado por Nueva España, secretario.—José Antonio Navarrete, Diputado por el Perú, 
+secretario.—José de Zorraquin, Diputado por Madrid, secretario.—Joaquín Díaz Caneja, 
+Diputado por León, secretario.” 
+Por tanto, mandamos a todos los españoles nuestros súbditos, de cualquiera clase y 
+condición que sean, que hayan y guarden la Constitución inserta, como ley fundamental 
+de la Monarquía, y mandamos asimismo a todos los Tribunales, Justicias, Jefes, 
+Gobernadores y demás Autoridades, así civiles como militares y eclesiásticos, de 
+cualquiera clase y dignidad, que guarden y hagan guardar, cumplir y ejecutar la misma 
+Constitución en todas sus partes. 
+Tendréislo entendido y dispondréis lo necesario a su cumplimiento, haciéndolo imprimir, 
+publicar y circular.—Joaquín de Mosquera y Figueroa, presidente.—Juan 
+Villavicencio.—Ignacio Rodríguez de Rivas.—El Conde del Abisbal. 
+En Cádiz a 19 de Marzo de 1812.—A. D. Ignacio de la Pezuela. 
+
 ---
 
 *Este documento está basado en fuentes oficiales (BOE, Parlamento) y análisis reconocidos, ideal como referencia para estudios jurídicos, históricos o informativos.*
