@@ -2,6 +2,7 @@
 
 > **Fuente oficial**: Congreso de los Diputados  
 > Versión consolidada: 18 de junio de 1837 ([ver en congreso.es](https://www.congreso.es/constitucion/ficheros/historicas/cons_1837.pdf))
+> Documento complementario: ([ver en congreso.es](https://www.congreso.es/docu/constituciones/1837/ce37_cd.pdf))
 
 ---
 
