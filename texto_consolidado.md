@@ -75,7 +75,7 @@ indemnización.
 La Nación se obliga a mantener el culto y los ministros de la religión católica que profesan 
 los españoles. 
 
-## TÍTULO III 
+## TÍTULO II
 **DE LAS CORTES** 
 
 ### Artículo 12
@@ -85,7 +85,7 @@ La potestad de hacer las leyes reside en las Cortes con el Rey.
 Las Cortes se componen de dos Cuerpos Colegisladores, iguales en facultades: el 
 Senado y el Congreso de Diputados. 
 
-## TÍTULO III 
+## TÍTULO III
 DEL SENADO 
 
 ### Artículo 14
