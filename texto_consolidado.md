@@ -366,7 +366,7 @@ Rey, cuando éste, con motivos fundados, le mande juzgar por el Tribunal compete
 ### Artículo 67
 Los jueces son responsables personalmente de toda infracción de ley que cometan. 
 
-### Artículo 68. 
+### Artículo 68
 La justicia se administra en nombre del Rey. 
 
 ## TÍTULO XI 
