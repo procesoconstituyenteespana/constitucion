@@ -1,638 +1,643 @@
-# Constitución Española (1837)
+# Constitución Española (1869)
 
 > **Fuente oficial**: Congreso de los Diputados  
-> Versión consolidada: 23 de mayo de 1845 ([ver en congreso.es](https://www.congreso.es/constitucion/ficheros/historicas/cons_1845.pdf))
+> Versión consolidada: 23 de mayo de 1845 ([ver en congreso.es](https://www.congreso.es/constitucion/ficheros/historicas/cons_1869.pdf))
 
 ---
 
-# CONSTITUCIÓN DE 1845 
-Doña Isabel II, por la gracia de Dios y la Constitución de la Monarquía 
-Española, Reina de las Españas; a todos los que las presentes vieren y entendieren, 
-sabed: Que siendo nuestra voluntad y la de las Cortes del Reino regularizar y poner en 
-consonancia con las necesidades actuales del Estado los antiguos fueron y libertades de 
-estos Reinos, y la intervención que sus Cortes han tenido en todos tiempos en los 
-negocios graves de la Monarquía, modificando al efecto la Constitución promulgada en 18 
-de Junio de 1837, hemos venido, en unión y de acuerdo con las Cortes actualmente 
-reunidas, en decretar y sancionar la siguiente CONSTITUCION DE LA MONARQUIA ESPAÑOLA 1 
+# Constitución de 1869
+ 
+```text
+(Las disposiciones referentes al Senado se encuentran en el Título III y artículos 40, 56 y 57).
 
-## 
-### TÍTULO PRIMERO 
-**DE LOS ESPAÑOLES**
+(Para facilitar su accesibilidad, la transcripción del texto actualiza la ortografía y puntuación del original).
 
+La Nación española, y en su nombre las Cortes Constituyentes elegidas por sufragio universal, deseando afianzar la justicia, la libertad y la seguridad, y proveer al bien de cuantos vivan en España, decretan y sancionan la siguiente: constitución
+```
 
-### Artículo 1º
-Son españoles: 
-1º. Todas las personas nacidas en los dominios de España. 
-2º. Los hijos de padre o madre españoles, aunque hayan nacido fuera de 
-España. 
-3º. Los extranjeros que hayan obtenido carta de naturaleza. 
-4º. Los que sin ella hayan ganado vecindad en cualquier pueblo de la 
-Monarquía. 
-La calidad de español se pierde por adquirir naturaleza en país extranjero, y por admitir 
-empleo de otro Gobierno sin licencia del Rey. 
-Una ley determinará los derechos que deberán gozar los extranjeros que obtengan carta 
-de naturaleza o hayan ganado vecindad. 
-
-### Artículo 2
-Todos los españoles puedan imprimir y publicar libremente sus ideas sin previa censura, 
-con sujeción a las leyes. 
-
-### Artículo 3
-Todo español tiene derecho de dirigir peticiones por escrito a las 
-Cortes y al Rey, como determinen las leyes. 
-
-### Artículo 4
-Unos mismos Códigos regirán en toda la Monarquía. 
-
-### Artículo 5
-Todos los españoles son admisibles a los empleos y cargos públicos, según su mérito y 
-capacidad. 
-
-### Artículo 6
-Todo español está obligado a defender la Patria con las armas cuando sea llamado por la 
-ley y a contribuir en proporción de sus haberes para los gastos del Estado. 
-
-### Artículo 7
-No puede ser detenido, ni preso, ni separado de su domicilio ningún español, ni allanada 
-su casa sino en los casos y en la forma que las leyes prescriban. 
-
-### Artículo 8
-Si la seguridad del Estado exigiere en circunstancias extraordinarias la suspensión 
-temporal en toda la Monarquía, o en parte de ella, de lo dispuesto en el artículo anterior, 
-se determinará por una ley. 
-
-### Artículo 9
-Ningún español puede ser procesado ni sentenciado sino por el Juez o Tribunal 
-competente, en virtud de leyes anteriores al delito y en la forma que éstas prescriban. 
-Discutida y votada por las Cortes Constituyentes de 1854-56 la Constitución que 
-generalmente es designada con esta última fecha, aunque en realidad debiera serlo con 
-la de 1855, puesto que su aprobación terminó en 14 de Diciembre de dicho año, y sin 
-haber llegado a promulgarse, se dictó el Real decreto de 15 de Septiembre de 1856 
-restableciendo esta Constitución de 1845, modificada por el Acta Adicional que se inserta 
-a continuación de la misma, y que había de guardarse y cumplirse como parte integrante 
-de ella, entre tanto que las Cortes resolvieran lo conveniente. 
-
-### Artículo 10
-No se impondrá jamás la pena de confiscación de bienes, y ningún español será privado 
-de su propiedad sino por causa justificada de utilidad común, previa la correspondiente 
-indemnización. 
-
-### Artículo 11
-La Religión de la Nación española es la católica, apostólica, romana. El Estado se obliga 
-a mantener el culto y sus ministros. 
-
-### TÍTULO II 
-DE LAS CORTES 
-
-### Artículo 12
-La potestad de hacer las leyes reside en las Cortes con el Rey. 
-
-### Artículo 13
-Las Cortes se componen de los Cuerpos Colegisladores, iguales en facultades: el 
-Senado y el Congreso de los Diputados. 
-
-### TÍTULO III 
-DEL SENADO 
-
-### Artículo 14
-El número de Senadores es ilimitado: su nombramiento pertenece al 
-Rey. 
-
-### Artículo 15
-Sólo podrán ser nombrados Senadores los españoles que, además de tener treinta años 
-cumplidos, pertenezcan a las clases siguientes: 
-Presidentes de alguno de los Cuerpos Colegisladores. 
-Senadores o Diputados admitidos tres veces en las Cortes. 
-Ministros de la Corona. 
-Consejeros de Estado. 
-Arzobispos. 
-Obispos. 
-Grandes de España. 
-Capitanes generales del Ejército y Armada. 
-Tenientes generales del Ejército y Armada. 
-Embajadores. 
-Ministros plenipotenciarios. 
-Presidentes de Tribunales Supremos. 
-Ministros y Fiscales de los mismos. 
-Los comprendidos en las categorías anteriores deberán además disfrutar 
- 30.000 reales de renta procedente de bienes propios o de sueldos de los empleos que 
-no puedan perderse sino por causa legalmente probada, o de jubilación, retiro o cesantía. 
-Títulos de Castilla que disfruten 60.000 reales de renta. 
-Los que paguen con un año de antelación 8.000 reales de contribuciones directas, hayan 
-sido Senadores o Diputados a Cortes, o Diputados provinciales, o Alcaldes en pueblos de 
-30.000 almas, o Presidentes de Juntas o Tribunales de Comercio. 
-Las condiciones necesarias para ser nombrado Senador podrán variarse por una ley. 
-
-### Artículo 16
-El nombramiento de los Senadores se hará por decretos especiales, y en ellos se 
-expresará el título en que, conforme al artículo anterior, se funde el nombramiento. 
-
-### Artículo 17
-El cargo de Senador en vitalicio. 
-
-### Artículo 18
-Los hijos del Rey y del heredero inmediato de la Corona son 
-Senadores a la edad de veinticinco años. 
-
-### Artículo 19
-Además de las facultades legislativas corresponde al Senado: 
-1º. Juzgar a los Ministros cuando fueren acusados por el Congreso de los 
-Diputados. 
-2º. Conocer de los delitos graves contra la persona o dignidad del Rey, o contra la 
-seguridad del Estado, conforme a lo que establezcan las leyes. 
-3º. Juzgar a los individuos de su seno en los casos y en la forma que determinaran las 
-leyes. 
-
-### TÍTULO IV 
-**DEL CONGRESO DE LOS DIPUTADOS** 
-
-### Artículo 20
-El Congreso de los Diputados se compondrá de los que nombren las 
-Juntas electorales en la forma que determine la ley. Se nombrará un Diputado, a lo 
-menos, por cada 50.000 almas de la población. 
-
-### Artículo 21
-Los Diputados se elegirán por el método directo, y podrán ser reelegidos indefinidamente. 
-
-### Artículo 22
-Para ser Diputado se requiere ser español, del estado seglar, haber cumplido veinticinco 
-años, disfrutar la renta procedente de bienes raíces o pagar por contribuciones directas la 
-cantidad que la ley Electoral exija, y tener las demás circunstancias que en la misma ley 
-se prefijen. 
-
-### Artículo 23
-Todo español que tenga esas calidades puede ser nombrado 
-Diputado por cualquier provincia. 
-
-### Artículo 24
-Los Diputados serán elegidos por cinco años. 
-
-### Artículo 25
-Los Diputados que admitan del Gobierno o de la Casa Real pensión, empleo que no sea 
-de escala en su respectiva carrera, comisión con sueldo, honores o condecoraciones, 
-quedan sujetos a reelección. 
-La disposición anterior no comprende a los Diputados que fueren nombrados 
-Ministros de la Corona. 
-
-### TÍTULO V 
-**DE LA CELEBRACIÓN Y FACULTADES DE LAS CORTES** 
-
-### Artículo 26
-Las Cortes se reúnen todos los años. Corresponde al Rey convocarlas, suspender y 
-cerrar sus sesiones, y disolver el Congreso de los Diputados; pero con la obligación, en 
-este último caso, de convocar otras Cortes y reunirlas dentro de tres meses. 
-
-### Artículo 27
-Las Cortes serán precisamente convocadas luego que vacare la Corona, o cuando el Rey 
-se imposibilitare de cualquier modo para el gobierno. 
-
-### Artículo 28
-Cada uno de los Cuerpos Colegisladores forma el respectivo 
-Reglamento para su gobierno interior, y examina las calidades de los individuos que le 
-componen; el Congreso decide, además, sobre la legalidad de las elecciones de los 
-Diputados. 
-
-### Artículo 29
-El Congreso de los Diputados nombra su Presidente, Vicepresidentes y Secretarios. 
-
-### Artículo 30
-El Rey nombra para cada legislatura, de entre los mismos 
-Senadores, el Presidente y Vicepresidentes del Senado, y éste elige sus Secretarios. 
-
-### Artículo 31
-El Rey abre y cierra las Cortes, en persona o por medio de los Ministros. 
-
-### Artículo 32
-No podrá estar reunido uno de los dos Cuerpos Colegisladores sin que también lo esté el 
-otro; exceptuase el caso en que el Senado ejerza funciones judiciales. 
-
-### Artículo 33
-Los Cuerpos Colegisladores no pueden deliberar juntos ni en presencia del Rey. 
-
-### Artículo 34
-Las Sesiones del Senado y del Congreso serán públicas, y sólo en los casos en que 
-exijan reserva podrá celebrarse sesión secreta. 
-
-### Artículo 35
-El Rey, y cada uno de los Cuerpos Colegisladores, tienen la iniciativa 
-de las leyes. 
-
-### Artículo 36
-Las leyes sobre contribuciones y crédito público se presentarán primero al Congreso de 
-los Diputados. 
-
-### Artículo 37
-Las resoluciones en cada uno de los Cuerpos Colegisladores se toman a pluralidad 
-absoluta de votos; pero para votar las leyes se requiere la presencia de la mitad más uno 
-del número total de los individuos que le componen. 
-
-### Artículo 38
-Si uno de los Cuerpos Colegisladores desechare algún proyecto de ley, o le negare el 
-Rey la sanción, no podrá volverse a proponer un proyecto de ley sobre el mismo objeto 
-en aquella legislatura. 
-
-### Artículo 39
-Además de la potestad legislativa que ejercen las Cortes con el Rey, les pertenecen las 
-facultades siguientes: 
-1ª. Recibir al Rey, al sucesor inmediato de la Corona y a la Regencia o 
-Regente del Reino el juramento de guardar la Constitución y las leyes. 
-2ª. Elegir Regente o Regencia del Reino y nombrar tutor al Rey menor cuando lo previene 
-la Constitución. 
-3ª. Hacer efectiva la responsabilidad de los Ministros, los cuales serán acusados por el 
-Congreso y juzgados por el Senado. 
-
-### Artículo 40
-Los Senadores y los Diputados son inviolables por sus opiniones y votos en el ejercicio 
-de su encargo. 
-
-### Artículo 41
-Los Senadores no podrán ser procesados ni arrestados sin previa resolución del Senado 
-sino cuando sean hallados in fraganti, o cuando no esté reunido el Senado; pero en todo 
-caso se dará cuenta a este Cuerpo lo más pronto posible para que determine lo que 
-corresponda. Tampoco podrán los Diputados ser procesados ni arrestados durante las 
-sesiones sin permiso del Congreso, a no ser hallados in fraganti; pero en este caso y en 
-el de ser procesados o arrestados cuando estuvieran cerradas las Cortes, se dará cuenta 
-lo más pronto posible al Congreso para su conocimiento y resolución. 
-
-### TÍTULO VI 
-**DEL REY** 
-
-### Artículo 42
-La Persona del Rey es sagrada e inviolable, y no está sujeta a responsabilidad. Son 
-responsables los Ministros. 
-
-### Artículo 43
-La potestad de hacer ejecutar las leyes reside en el Rey, y su autoridad se extiende a 
-todo cuanto conduce a la conservación del orden público en lo interior, y a la seguridad 
-del Estado en lo exterior, conforme a la Constitución y a las leyes. 
-
-### Artículo 44
-El Rey sanciona y promulga las leyes. 
-
-### Artículo 45
-Además de las prerrogativas que la Constitución señala al Rey, le corresponde: 
-1º. Expedir los decretos, reglamentos e instrucciones que sean conducentes para la 
-ejecución de las leyes. 
-2º. Cuidar de que todo en el Reino se administre pronta y cumplidamente la justicia. 
-3º. Indultar a los delincuentes con arreglo a las leyes. 
-4º. Declarar la guerra y hacer y ratificar la paz, dando después cuenta documentada a las 
-Cortes. 
-5º. Disponer de la fuerza armada, distribuyéndola como más convenga. 
-6º. Dirigir las relaciones diplomáticas y comerciales con las demás Potencias. 
-7º. Cuidar de la fabricación de la moneda, en la que se pondrá su busto y su nombre. 
-8º. Decretar la inversión de los fondos destinados a cada uno de los ramos de la 
-administración pública. 
-9º. Nombrar todos los empleados públicos y conocer honores y distinciones de todas 
-clases, con arreglo a las leyes. 
-10. Nombrar y separar libremente los Ministros. 
-
-### Artículo 46
-El Rey necesita estar autorizado por una ley especial: 
-1º. Para enajenar, ceder o permutar cualquier parte del territorio español. 
-2º. Para admitir tropas extranjeras en el Reino. 
-3º. Para rectificar los tratados de alianza ofensiva, los especiales de comercio y los que 
-estipulen dar subsidios a alguna Potencia extranjera. 
-4º. Para abdicar la Corona en su inmediato sucesor. 
-
-### Artículo 47
-El Rey, antes de contraer matrimonio, lo pondrá en conocimiento de las Cortes, a cuya 
-aprobación se someterán las estipulaciones y contratos matrimoniales que deban ser 
-objeto de una ley. 
-Lo mismo se observará respecto del matrimonio del inmediato sucesor a la Corona. Ni el 
-Rey ni el inmediato sucesor pueden contraer matrimonio con persona que por ley esté 
-excluida de la sucesión a la Corona. 
-
-### Artículo 48
-La dotación del Rey y de su Familia se fijará por las Cortes al principio de cada reinado. 
-
-### TÍTULO VII 
-**DE LA SUCESIÓN A LA CORONA** 
-
-### Artículo 49
-La Reina legítima de las Españas es Doña Isabel II de Borbón. 
-
-### Artículo 50
-La sucesión en el Trono de las Españas será según el orden regular de primogenitura y 
-representación, prefiriendo siempre la línea anterior a las posteriores; en la misma línea, 
-el grado más próximo al más remoto; en el mismo grado, el varón a la hembra, y en el 
-mismo sexo, la persona de más edad a la de menos. 
-
-### Artículo 51
-Extinguidas las líneas de los descendientes legítimos de Doña Isabel 
-II de Borbón, sucederán por el orden que queda establecido su hermana y los tíos 
-hermanos de su padre, así varones como hembras, y sus legítimos descendientes, si no 
-estuviesen excluidos. 
-
-### Artículo 52
-Si llegaren a extinguirse todas las líneas que se señalan, se harán por una ley nuevos 
-llamamientos, como más convenga a la Nación. 
-
-### Artículo 53
-Cualquier duda de hecho o de derecho que ocurra en orden a la sucesión de la Corona 
-se resolverá por una ley. 
-
-### Artículo 54
-Las personas que sean incapaces para gobernar, o hayan hecho cosa por que merezcan 
-perder el derecho a la Corona, serán excluidas de la sucesión de una ley. 
-
-### Artículo 55
-Cuando reine una hembra, su marido no tendrá parte ninguna en el gobierno del Reino. 
-
-### TÍTULO VIII 
-**DE LA MENOR EDAD DEL REY, Y DE LA REGENCIA** 
-
-### Artículo 56
-El Rey es menor de edad hasta cumplir catorce años. 
-
-### Artículo 57
-Cuando el Rey fuere menor de edad, el padre o la madre del Rey, y en su defecto el 
-pariente más próximo a suceder en la Corona, según el orden establecido en la 
-Constitución, entrará, desde luego, a ejercer la Regencia, y la ejercerá todo el tiempo de 
-la menor edad del Rey. 
-
-### Artículo 58
-Para que el pariente más próximo ejerza la Regencia, necesita ser español, tener veinte 
-años cumplidos, y no estar excluido de la sucesión de la Corona. 
-El padre o la madre del Rey sólo podrán ejercer la Regencia permaneciendo viudos. 
-
-### Artículo 59
-El Regente prestará ante las Cortes el juramento de ser fiel al Rey menor y de guardar la 
-Constitución y las leyes. 
-Si las Cortes no estuvieren reunidas, el Regente las convocará inmediatamente, y entre 
-tanto prestará el mismo juramento ante el Consejo de Ministros, prometiendo reiterarle 
-ante las Cortes tan luego como se hallen congregadas. 
-
-### Artículo 60
-Si no hubiere ninguna persona a quien corresponda de derecho la Regencia, la 
-nombrarán las Cortes, y se compondrá de una, tres o cinco personas. 
-Hasta que se haga este nombramiento gobernará provisionalmente el Reino el 
-Consejo de Ministros. 
-
-### Artículo 61
-Cuando el Rey se imposibilitare para ejercer su autoridad, y la imposibilidad fuere 
-reconocida por las Cortes, ejercerá la Regencia durante el impedimento el hijo 
-primogénito del Rey, y a falta de éste, los llamados a la Regencia. 
-
-### Artículo 62
-El Regente, y la Regencia en su caso, ejercerá toda la autoridad del 
-Rey, en cuyo nombre se publicarán los actos del Gobierno. 
-
-### Artículo 63
-Será tutor del Rey menor la persona que en su testamento hubiere nombrado el Rey 
-difunto, siempre que sea español de nacimiento; si no lo hubiese nombrado, será tutor el 
-padre o la madre mientras permanezcan viudos. En su defecto, le nombrarán las Cortes, 
-pero no podrán estar reunidos los encargos de Regente y de tutor sino en el padre o la 
-madre de éste. 
-
-### TÍTULO IX 
-**DE LOS MINISTROS** 
-
-### Artículo 64
-Todo lo que el Rey mandare o dispusiere en el ejercicio de su autoridad, deberá ser 
-firmado por el Ministro a quien corresponda, y ningún funcionario público dará 
-cumplimiento a lo que carezca de este requisito. 
-
-### Artículo 65
-Los Ministros pueden ser Senadores o Diputados y tomar parte en las discusiones de 
-ambos Cuerpos Colegisladores; pero sólo tendrán voto en aquel a que pertenezcan. 
-
-### TÍTULO X 
-**DE LA ADMINISTRACIÓN DE JUSTICIA** 
-
-### Artículo 66
-A los Tribunales y Juzgados pertenece exclusivamente la potestad de aplicar las leyes en 
-los juicios civiles y criminales; sin que puedan ejercer otras funciones que las de juzgar y 
-hacer que se ejecute lo juzgado. 
-
-### Artículo 67
-Las leyes determinarán los Tribunales y Juzgados que ha de haber, la organización de 
-cada uno, sus facultades, el modo de ejercer y las calidades que han de tener sus 
-individuos. 
-
-### Artículo 68
-Los juicios en materias criminales serán públicos, en la forma que determinen las leyes. 
-
-### Artículo 69
-Ningún magistrado o juez podrá ser depuesto de su destino, temporal o perpetuo, sino 
-por sentencia ejecutoriada; ni suspendido sino por auto judicial, o en virtud de orden del 
-Rey, cuando éste, con motivos fundados, le mande juzgar por el Tribunal competente. 
-
-### Artículo 70
-Los jueces son responsables personalmente de toda infracción de ley que cometan. 
-
-### Artículo 71
-La justicia se administra en nombre del Rey. 
-
-### TÍTULO XI 
-**DE LAS DIPUTACIONES PROVINCIALES Y DE LOS AYUNTAMIENTOS** 
-
-### Artículo 72
-En cada provincia habrá una Diputación provincial, elegida en la forma que determine la 
-ley y compuesta del número de individuos que ésta señale. 
-
-### Artículo 73
-Habrá en los pueblos Alcaldes y Ayuntamientos. Los Ayuntamientos serán nombrados 
-por los vecinos a quienes la ley confiera este derecho. 
-
-### Artículo 74
-La ley determinará la organización y atribuciones de las Diputaciones y de los 
-Ayuntamientos, y la intervención que hayan de tener en ambas Corporaciones los 
-delegados del Gobierno. 
-
-### TÍTULO XII 
-**DE LAS CONTRIBUCIONES** 
-
-### Artículo 75
-Todos los años presentará el Gobierno a las Cortes el presupuesto general de los gastos 
-del Estado para el año siguiente y el plan de las contribuciones y medios para llenarlos, 
-como asimismo las cuentas de la recaudación e inversión de los caudales públicos para 
-su examen y aprobación. 
-
-### Artículo 76
-No podrá imponerse ni cobrarse ninguna contribución ni arbitrio que no esté autorizado 
-por la ley de Presupuestos u otra especial. 
-
-### Artículo 77
-Igual autorización se necesita para disponer de las propiedades del 
-Estado y para tomar caudales a préstamo sobre el crédito de la Nación. 
-
-### Artículo 78
-La Deuda pública está bajo la salvaguardia especial de la Nación. 
-
-### TÍTULO XIII 
-**DE LA FUERZA MILITAR** 
-
-### Artículo 79
-Las Cortes fijarán, todos los años, a propuesta del Rey, la fuerza militar permanente de 
-mar y tierra. 
-
-## ARTÍCULO ADICIONAL 
-
-### Artículo 80
-Las provincias de Ultramar serán gobernadas por leyes especiales. 
-Por tanto, mandamos a todos nuestros súbditos de cualquiera clase y condición que 
-sean, que hayan y guarden la presente Constitución como ley fundamental de la 
-Monarquía; y mandamos asimismo a todos los Tribunales, Justicias, 
-Jefes, Gobernadores y demás Autoridades, así civiles como militares y eclesiásticas, de 
-cualquier clase y dignidad, que guarden y hagan guardar, cumplir y ejecutar la expresada 
-Constitución en todas sus partes. 
-En Palacio a 23 de Mayo de 1845. —YO LA REINA. —El Presidente del Consejo de 
-Ministros, Ministro de la Guerra, Ramón María Narváez. —El Ministro de Estado, 
-Francisco Martínez de la Rosa. —El Ministro de Gracia y Justicia, Luis Mayans. 
-—El Ministro de Hacienda, Alejandro Mon. —El Ministro de Marina, Comercio y 
-Gobernación de Ultramar, Francisco Armero. —El Ministro de la Gobernación de la 
-Península, Pedro José Pidal.(1) 
-
-## ACTA ADICIONAL A LA CONSTITUCION DE LA MONARQUIA ESPAÑOLA(2) 
+## TÍTULO PRIMERO
+**De los españoles y sus derechos**
 
 ### Artículo 1
-La calificación de los delitos de imprenta corresponde a los 
-Jurados, salvas las excepciones que determinen las leyes. 
+Son españoles:
+
+1.º. Todas las personas nacidas en territorio español.
+
+2.º. Los hijos de padre o madre españoles, aunque hayan nacido fuera de España.
+
+3.º. Los extranjeros que hayan obtenido carta de naturaleza.
+
+4.º. Los que, sin ella, hayan ganado vecindad en cualquier pueblo del territorio español.
+
+La calidad de español se adquiere, se conserva y se pierde con arreglo a lo que determinen las leyes.
 
 ### Artículo 2
-Promulgada la ley de que trata el art. 8º. de la Constitución, el territorio a que aquélla se 
-aplique se regirá, durante la suspensión de lo prescrito en el artículo 7º. de la misma 
-Constitución, por la ley de orden público establecida de antemano. Pero ni en una ni en 
-otra ley se podrá autorizar al Gobierno para extrañar del Reino a los españoles, ni para 
-deportarlos ni desterrarlos fuera de la Península. 
+Ningún español ni extranjero podrá ser detenido ni preso sino por causa de delito.
 
 ### Artículo 3
-La primera creación de Senadores no podrá exceder de 140. Hecha ésta, sólo podrá el 
-Rey nombrar Senadores cuando estén abiertas las Cortes. 
+Todo detenido será puesto en libertad o entregado a la autoridad judicial dentro de las veinticuatro horas siguientes al acto de la detención.
+
+Toda detención se dejará sin efecto o elevará a prisión dentro de las setenta y dos horas de haber sido entregado el detenido al juez competente.
+
+La providencia que se dictare se notificará al interesado dentro del mismo plazo.
 
 ### Artículo 4
-La ley electoral de Diputados a Cortes determinará si éstos han de acreditar o no el pago 
-de contribución o la posesión de renta. 
+Ningún español podrá ser preso sino en virtud de mandamiento de juez competente. El auto por el cual se haya dictado el mandamiento, se ratificará o repondrá, oído el presunto reo, dentro de las setenta y dos horas siguientes al acto de la prisión.
 
 ### Artículo 5
-Aun cuando sea de escala el empleo que admita el Diputado a Cortes, quedará éste 
-sujeto a reelección. 
+Nadie podrá entrar en el domicilio de un español, o extranjero residente en España, sin su consentimiento, excepto en los casos urgentes de incendio, inundación u otro peligro análogo, o de agresión ilegítima procedente de dentro, o para auxiliar a persona que desde allí pida socorro.
+
+Fuera de estos casos, la entrada en el domicilio de un español, o extranjero residente en España, y el registro de sus papeles o efectos, solo podrán decretarse por el juez competente y ejecutarse de día.
+
+El registro de papeles y efectos tendrá siempre lugar a presencia del interesado o de un individuo de su familia, y, en su defecto, de dos testigos vecinos del mismo pueblo.
+
+Sin embargo, cuando un delincuente, hallado in fraganti y perseguido por la autoridad o sus agentes, se refugiare en su domicilio, podrán estos penetrar en él, solo para el acto de la aprehensión. Si se refugiare en domicilio ajeno, procederá requerimiento al dueño de este.
 
 ### Artículo 6
-Durante cada año estarán reunidas las Cortes a lo menos cuatro meses, contados desde 
-el día en que se constituya definitivamente el Congreso. 
+Ningún español podrá ser compelido a mudar de domicilio o de residencia sino en virtud de sentencia ejecutoria.
 
 ### Artículo 7
-Cuando entre los dos Cuerpos Colegisladores no haya conformidad acerca de la ley 
-anual de presupuestos, regirá en el año correspondiente la ley de presupuestos del año 
-anterior. 
+En ningún caso podrá detenerse ni abrirse por la autoridad gubernativa la correspondencia confiada al correo, ni tampoco detenerse la telegráfica.
+
+Pero en virtud de auto de juez competente podrán detenerse una y otra correspondencia, y también abrirse en presencia del procesado la que se le dirija por correo.
 
 ### Artículo 8
-Sin previa autorización del Congreso no se podrá dictar sentencia contra los Diputados a 
-quienes se refiere el art. 41 de la Constitución. 
+Todo auto de prisión, de registro de morada, o de detención de la correspondencia escrita o telegráfica, será motivado.
+
+Cuando el auto carezca de este requisito, o cuando los motivos en que se haya fundado se declaren en juicio ilegítimo o notoriamente insuficientes, la persona que hubiere sido presa, o cuya prisión no se hubiere ratificado dentro del plazo señalado en el articulo 4.º, o cuyo domicilio hubiere sido allanado, o cuya correspondencia hubiere sido detenida, tendrá derecho a reclamar del juez que haya dictado el auto una indemnización proporcionada al daño causado, pero nunca inferior a 500 pesetas.
+
+Los agentes de la autoridad pública estarán asimismo sujetos a la indemnización que regule el juez, cuando reciban en prisión a cualquiera persona sin mandamiento en que se inserte el auto motivado, o cuando la retengan sin que dicho auto haya sido ratificado dentro del término legal.
 
 ### Artículo 9
-Además de los casos enumerados en el artículo 46 de la Constitución, el Rey necesitará 
-estar autorizado por una ley especial: 
-1º. Para conceder indultos generales y amnistías. 
-2º. Para enajenar en todo o en parte el patrimonio de la Corona. 
+La autoridad gubernativa que infrinja lo prescrito en los artículos 2.º, 3.º, 4.º y 5.º, incurrirá según los casos, en delito de detención arbitraria o de allanamiento de morada, y quedará además sujeta a la indemnización prescrita en el párrafo segundo del artículo anterior.
 
 ### Artículo 10
-También necesitará el Rey estar autorizado por una ley especial para contraer matrimonio 
-y para permitir que le contraigan los que sean súbditos suyos y estén llamados por la 
-Constitución a sucederle en la Corona. 
+Tendrá asimismo derecho a indemnización regulada por el juez, todo detenido que dentro del término señalado en el articulo 3.º no haya sido entregado a la autoridad judicial.
+
+Si el juez, dentro del término prescrito en dicho artículo, no elevare a prisión la detención, estará obligado para con el detenido a la indemnización que establece el articulo 8.º.
 
 ### Artículo 11
-Habrá un Consejo de Estado, al cual oirá el Rey en los casos que determinen las leyes. 
-(1) Esta Constitución fue reformada de nuevo por la ley de 17 de Julio de 1857, que se 
-inserta a continuación del Acta Adicional. 
-(2) La vigencia de esta Acta adicional fue tan breve que se dejó sin efecto por otro Real 
-decreto de 14 de Octubre del mismo año 1856, disponiendo que sólo rigiera y se 
-observase la ley constitucional de la Monarquía promulgada en unión y de acuerdo con 
-las Cortes en 23 de Mayo de 1845. 
+Ningún español podrá ser procesado ni sentenciado sino por el juez o tribunal a quien, en virtud de leyes anteriores al delito, competa el conocimiento, y en la forma que estas prescriban.
+
+No podrán crearse tribunales extraordinarios ni comisiones especiales para conocer de ningún delito.
 
 ### Artículo 12
-La ley orgánica de Tribunales determinará los casos y la forma en que gubernativa o 
-disciplinariamente podrá el Rey trasladar, jubilar y declarar cesantes a los magistrados y 
-jueces. 
+Toda persona detenida o presa sin las formalidades legales, o fuera de los casos previstos en esta Constitución, será puesta en libertad a petición suya o de cualquier español.
+
+La ley determinará la forma de proceder sumariamente en este caso, así como las penas personales y pecuniarias en que haya de incurrir el que ordenare, ejecutare o hiciere ejecutar la detención o prisión legal.
 
 ### Artículo 13
-El Rey sólo podrá nombrar alcaldes en los pueblos que tengan 40.000 almas, y en los 
-demás ejercerá en los nombramientos de los alcaldes la intervención que determine la 
-ley. 
+Nadie podrá ser privado temporal o perpetuamente de sus bienes y derechos, ni turbado en la posesión de ellos, sino en virtud de sentencia judicial.
+
+Los funcionarios públicos que bajo cualquier pretexto infrinjan esta prescripción serán personalmente responsables del daño causado.
+
+Quedan exceptuados de ella los casos de incendio o de inundación u otros urgentes análogos, en que por la ocupación se haya de excusar un peligro al propietario o poseedor, o evitar o atenuar el mal que se temiere o hubiere sobrevenido.
 
 ### Artículo 14
-Las listas electorales para Diputados a Cortes serán permanentes. Las calidades de los 
-electores se examinarán en todas las instancias en juicio público y contradictorio. 
+Nadie podrá ser expropiado de sus bienes sino por causa de utilidad común y en virtud de mandamiento judicial, que no se ejecutará sin previa indemnización regulada por el juez con intervención del interesado.
 
 ### Artículo 15
-Dentro de los ocho días siguientes a la apertura de las Cortes, el Gobierno presentará al 
-Congreso las cuentas del penúltimo año y el presupuesto para el año próximo venidero. 
+Nadie está obligado a pagar contribución que no haya sido votada por las Cortes, o por las Corporaciones populares legalmente autorizadas para imponerla, y cuya cobranza no se haga en la forma prescrita por la ley.
+
+Todo funcionario público que intente exigir o exija el pago de una contribución sin los requisitos prescritos en este artículo, incurrirá en el delito de exacción ilegal.
 
 ### Artículo 16
-Las Cortes deliberarán sobre la ley a que se refiere el artículo 79 de la Constitución, antes 
-de deliberar sobre la ley de Presupuestos. 
-Dado en Palacio a 15 de Septiembre de 1856. —Está rubricado de la Real mano. —El 
-Presidente del Consejo de Ministros, Leopoldo O’Donnell. 
-LEY DE 17 DE JULIO DE 1857(1) 
-Reformando de nuevo la Constitución de 1845. 
-Doña Isabel II, por la gracia de Dios, etc.; a todos los que las presentes vieren y 
-entendieren, sabed: Que las Cortes han decretado y Nos sancionado la siguiente reforma 
-de los artículos 14, 15, 16, 17, 18 y 28 de la Constitución. 
-
-### Artículo 14
-El Senado se compondrá: 
-De los hijos del Rey y del sucesor inmediato de la Corona, que hayan cumplido 
-veinticinco años. 
-De los Arzobispos y del Patriarca de las Indias. 
-De los Presidentes de los Tribunales Supremos de Justicia y de Guerra y Marina. 
-De los Capitanes generales del Ejército y Armada. 
-De los Grandes de España por derecho propio, que no sean súbditos de otra 
-potencia y que acrediten tener la renta de 200.000 reales, procedentes de bienes 
-inmuebles o de derechos que gocen de la misma consideración legal. 
-De un número limitado de Senadores nombrados por el Rey. 
-
-### Artículo 15
-Sólo podrán ser nombrados Senadores los españoles que pertenezcan o hayan 
-pertenecido a las clases siguientes: Presidente del Congreso de los Diputados; Diputados 
-admitidos cuatro veces en las Cortes y que hayan ejercido la diputación durante ocho 
-años; Ministros de la Corona; Obispos; Grandes de España; Tenientes generales del 
-Ejército y Armada, después de dos años de nombramiento; Embajadores, después de 
-dos años de servicio efectivo, y Ministros plenipotenciarios, después de cuatro; 
-Vicepresidentes del Consejo Real; Ministros y Fiscales de los Tribunales Supremos y 
-Consejeros reales, después de dos años de ejercicio. 
-Los comprendidos en las categorías anteriores deberán, además, disfrutar 30.000 reales. 
-(1) Esta ley fue derogada por otra de 20 de Abril de 1864, cuyo artículo único restablecía 
-en su integridad la Constitución del Estado y contenía además la siguiente: 
-Disposición transitoria. —Serán admitidos como Senadores los Grandes de España por 
-derecho propio que no sean súbditos de otra potencia y que a la promulgación de esta ley 
-posean la renta de 200.000 reales, procedentes de bienes inmuebles o de derechos que 
-gocen de la misma consideración con tal que lo pidan en el término de un año. 
-En la misma forma y solicitándolo dentro del mismo plazo, tendrán derecho a ser 
-admitidos como Senadores los Grandes que no hayan cumplido la edad de treinta años; 
-pero deberán probar después de cumplirla y antes de tomar asiento en el 
-Senado, que conservan todas las cualidades anteriormente expresadas, de renta, 
-procedentes de bienes propios o de sueldos de los empleos que no puedan perderse sino 
-por causa legalmente probada, o de jubilación, retiro o cesantía. Títulos de Castilla que 
-disfruten 100.000 reales de renta. Los que paguen con cuatro años de antelación 20.000 
-reales de contribuciones directas y hayan sido además Senadores, o Diputados o 
-Diputados Provinciales. 
-El nombramiento de Senadores se hará por decretos especiales, y en ellos se expresará 
-siempre el título en que, conforme a lo dispuesto en este artículo, se funde el 
-nombramiento. 
-Las condiciones necesarias para ser nombrado Senador podrán variarse por una ley. 
-
-### Artículo 16
-Para tomar asiento en el Senado se necesita ser español, tener treinta años cumplidos, 
-no estar procesado criminalmente ni inhabilitado en el ejercicio de sus derechos políticos, 
-y no tener sus bienes intervenidos. 
+Ningún español que se halle en el pleno goce de sus derechos civiles podrá ser privado del derecho de votar en las elecciones de senadores, diputados a Cortes, diputados provinciales y concejales.
 
 ### Artículo 17
-La dignidad de Senador en los Grandes de España que acrediten tener la renta y 
-requisitos expresados en el art. 14, es hereditaria. 
-En todos los demás casos es vitalicia. 
+Tampoco podrá ser privado ningún español:
+
+Del derecho de emitir libremente sus ideas y opiniones, ya de palabra, ya por escrito, valiéndose de la imprenta o de otro procedimiento semejante.
+
+Del derecho de reunirse pacíficamente.
+
+Del derecho de asociarse para todos los fines de la vida humana que no sean contrarios a la moral pública.
+
+Y, por último, del derecho de dirigir peticiones individual o colectivamente a las Cortes, al rey y a las autoridades.
 
 ### Artículo 18
-A fin de perpetuar la dignidad de Senador en sus familias, los Grandes de España podrán 
-constituir vinculaciones sobre sus bienes en la forma y en la cantidad que se determinará 
-por una ley especial. 
+Toda reunión pública estará sujeta a las disposiciones generales de policía. Las reuniones al aire libre y las manifestaciones políticas solo podrán celebrarse de día.
+
+### Artículo 19
+A toda asociación cuyos individuos delinquieren por los medios que la misma les proporcione, podrá imponérseles la pena de disolución.
+
+La autoridad gubernativa podrá suspender la asociación que delinca, sometiendo incontinenti a los reos al juez competente.
+
+Toda asociación cuyo objeto o cuyos medios comprometan la seguridad del Estado podrá ser disuelta por una ley.
+
+### Artículo 20
+El derecho de petición no podrá ejercerse colectivamente por ninguna clase de fuerza armada.
+
+Tampoco podrán ejercerlo individualmente los que formen parte de una fuerza armada, sino con arreglo a las leyes de su instituto, en cuanto tenga relación con este.
+
+### Artículo 21
+La Nación se obliga a mantener el culto y los ministros de la religión católica.
+
+El ejercicio público o privado de cualquier otro culto queda garantizado a todos los extranjeros residentes en España, sin más limitaciones que las reglas universales de la moral y del derecho.
+
+Si algunos españoles profesaren otra religión que la católica, es aplicable a los mismos todo lo dispuesto en el párrafo anterior.
+
+### Artículo 22
+No se establecerá ni por las leyes, ni por las autoridades, disposición alguna preventiva que se refiera al ejercicio de los derechos definidos en este título. Tampoco podrán establecerse la censura, el depósito ni el editor responsable para los periódicos.
+
+### Artículo 23
+Los delitos que se cometan con ocasión del ejercicio de los derechos consignados en este título, serán penados por los tribunales con arreglo a las leyes comunes.
+
+### Artículo 24
+Todo español podrá fundar y mantener establecimientos de instrucción o de educación, sin previa licencia, salva la inspección de la autoridad competente por razones de higiene y moralidad.
+
+### Artículo 25
+Todo extranjero podrá establecerse libremente en territorio español, ejercer en él su industria, o dedicarse a cualquiera profesión para cuyo desempeño no exijan las leyes títulos de aptitud expedidos por las autoridades españolas.
+
+### Artículo 26
+A ningún español que esté en el pleno goce de sus derechos civiles podrá impedirse salir libremente del territorio, ni trasladar su residencia y haberes a país extranjero, salvas las obligaciones de contribuir al servicio militar o al mantenimiento de las cargas públicas.
+
+### Artículo 27
+Todos los españoles son admisibles a los empleos y cargos públicos según su mérito y capacidad.
+
+La obtención y el desempeño de estos empleos y cargos, así como la adquisición y el ejercicio de los derechos civiles y políticos, son independientes de la religión que profesen los españoles.
+
+El extranjero que no estuviere naturalizado no podrá ejercer en España cargo alguno que tenga aneja autoridad o jurisdicción.
 
 ### Artículo 28
-Cada uno de los Cuerpos Colegisladores examina las calidades de los individuos que le 
-componen; el Congreso decide además sobre la legalidad de las elecciones de los 
-Diputados. 
-Los Reglamentos del Senado y del Congreso serán objeto de una ley. 
-Por tanto, mandamos, etc. Dado en Palacio a 17 de Julio de 1857. 
+Todo español está obligado a defender la patria con las armas cuando sea llamado por la ley, y a contribuir a los gastos del Estado en proporción de sus haberes.
+
+### Artículo 29
+La enumeración de los derechos consignados en este título no implica la prohibición de cualquiera otro no consignado expresamente.
+
+### Artículo 30
+No será necesaria la previa autorización para procesar ante los tribunales ordinarios a los funcionarios públicos, cualquiera que sea el delito que cometieren.
+
+El mandato del superior no eximirá de responsabilidad en los casos de infracción manifiesta, clara y terminante de una prescripción constitucional. En los demás, solo eximirá a los agentes que no ejerzan autoridad.
+
+### Artículo 31
+Las garantías consignadas en los artículos 2.º, 5.º, y 6.º, y párrafos 1.º, 2.º y 3.º del 17, no podrán suspenderse en toda la Monarquía ni en parte de ella, sino temporalmente y por medio de una ley, cuando así lo exija la seguridad del Estado en circunstancias extraordinarias.
+
+Promulgada aquella, el territorio a que se aplicare se regirá, durante la suspensión, por la ley de Orden público establecida de antemano.
+
+Pero ni en una ni en otra ley se podrán suspender más garantías que las consignadas en el primer párrafo de este artículo, ni autorizar al Gobierno para extrañar del Reino, ni deportar a los españoles, ni para desterrarlos a distancia de más de 250 kilómetros de su domicilio.
+
+En ningún caso los jefes militares o civiles podrán establecer otra penalidad que la prescrita previamente por la ley.
+
+## TÍTULO II
+**De los poderes públicos**
+
+### Artículo 32
+La soberanía reside esencialmente en la Nación, de la cual emanan todos los poderes.
+
+### Artículo 33
+La forma de gobierno de la Nación española es la Monarquía.
+
+### Artículo 34
+La potestad de hacer las leyes reside en las Cortes.
+
+El rey sanciona y promulga las leyes.
+
+### Artículo 35
+El poder ejecutivo reside en el rey, que lo ejerce por medio de sus ministros.
+
+### Artículo 36
+Los Tribunales ejercen el poder judicial.
+
+### Artículo 37
+La gestión de los intereses peculiares de los pueblos y de las provincias corresponde respectivamente a los Ayuntamientos y Diputaciones provinciales, con arreglo a las leyes.
+
+## TÍTULO III
+**Del poder legislativo**
+
+### Artículo 38
+Las Cortes se componen de dos Cuerpos Colegisladores, a saber: Senado y Congreso. Ambos Cuerpos son iguales en facultades, excepto en los casos previstos en la Constitución.
+
+### Artículo 39
+El Congreso se renovará totalmente cada tres años. El Senado se renovará por cuartas partes cada tres años.
+
+### Artículo 40
+Los senadores y diputados representarán a toda la Nación, y no exclusivamente a los electores que los nombraren.
+
+### Artículo 41
+Ningún senador ni diputado podrá admitir de sus electores mandato alguno imperativo.
+
+Sección I. De la celebración y facultades de las Cortes
+
+### Artículo 42
+Las Cortes se reúnen todos los años.
+
+Corresponde al rey convocarlas, suspender y cerrar sus sesiones, y disolver uno de los Cuerpos Colegisladores, o ambos a la vez.
+
+### Artículo 43
+Las Cortes estarán reunidas a lo menos cuatro meses cada año, sin incluir en este tiempo el que se invierta en su constitución. El rey las convocará, a más tardar, para el día 1.º de febrero.
+
+### Artículo 44
+Las Cortes se reunirán necesariamente luego que vacare la Corona o que el rey se imposibilitare de cualquier modo para el gobierno del Estado.
+
+### Artículo 45
+Cada uno de los Cuerpos Colegisladores tendrá las facultades siguientes:
+
+1.º. Formar el respectivo reglamento para su gobierno interior.
+
+2.º. Examinar la legalidad de las elecciones y la aptitud legal de los individuos que lo compongan; y
+
+3.º. Nombrar, al constituirse, su presidente, vicepresidentes y secretarios.
+
+Mientras el Congreso no sea disuelto, su presidente, vicepresidentes y secretarios, continuarán ejerciendo sus cargos durante las tres legislaturas.
+
+El presidente, vicepresidentes y secretarios del Senado se renovarán siempre que haya elección general de dichos cargos en el Congreso.
+
+### Artículo 46
+No podrá estar reunido uno de los Cuerpos Colegisladores sin que lo esté también el otro, excepto el caso en que el Senado se constituya en Tribunal.
+
+### Artículo 47
+Los Cuerpos Colegisladores no pueden deliberar juntos, ni en presencia del rey.
+
+### Artículo 48
+Las sesiones del Senado y las del Congreso serán públicas, excepto en los casos que necesariamente exijan reserva.
+
+### Artículo 49
+Ningún proyecto podrá llegar a ser ley sin que antes sea votado en los dos Cuerpos Colegisladores.
+
+Si no hubiera absoluta conformidad entre ambos, se procederá con arreglo a la ley que fija sus relaciones.
+
+### Artículo 50
+Los proyectos de ley sobre contribuciones, crédito público y fuerza militar se presentarán al Congreso antes que al Senado; y si este hiciere en ellos alguna alteración que aquel no admita, prevalecerá la resolución del Congreso.
+
+### Artículo 51
+Las resoluciones de las Cortes se tomarán a pluralidad de votos.
+
+Para votar las leyes se requiere en cada uno de los Cuerpos Colegisladores la presencia de la mitad más uno del número total de los individuos que tengan aprobadas sus actas.
+
+### Artículo 52
+Ningún proyecto de ley puede aprobarse por las Cortes sino después de haber sido votado, artículo por artículo, en cada uno de los Cuerpos Colegisladores.
+
+Exceptuándose los Códigos o leyes que por su mucha extensión no se presten a la discusión por artículos; pero, aun en este caso, los respectivos proyectos se someterán íntegros a las Cortes.
+
+### Artículo 53
+Ambos Cuerpos Colegisladores tienen derecho de censura, y cada uno de sus individuos el de interpelación.
+
+### Artículo 54
+La iniciativa de las leyes corresponde al rey y a cada uno de los Cuerpos Colegisladores.
+
+### Artículo 55
+No se podrán presentar en persona, individual ni colectivamente, peticiones a las Cortes.
+
+Tampoco podrán celebrarse, cuando las Cortes estén abiertas, reuniones al aire libre en los alrededores del Palacio de ninguno de los Cuerpos Colegisladores.
+
+### Artículo 56
+Los senadores y los diputados no podrán ser procesados ni detenidos cuando estén abiertas las Cortes, sin permiso del respectivo Cuerpo Colegislador, a no ser hallados in fraganti. Así en este caso, como en el de ser procesados o arrestados mientras estuvieren cerradas las Cortes, se dará cuenta al Cuerpo a que pertenezcan, tan luego como se reúna.
+
+Cuando se hubiere dictado sentencia contra un senador o diputado en proceso seguido sin el permiso a que se refiere el párrafo anterior, la sentencia no podrá llevarse a efecto hasta que autorice su ejecución el Cuerpo a que pertenezca el procesado.
+
+### Artículo 57
+Los senadores y diputados son inviolables por las opiniones y votos que emitan en el ejercicio de su cargo.
+
+### Artículo 58
+Además de la potestad legislativa, corresponde a las Cortes:
+
+1.º. Recibir al rey, al sucesor inmediato de la Corona y a la Regencia el juramento de guardar la Constitución y las leyes.
+
+2.º. Resolver cualquiera duda de hecho o de derecho que ocurra en orden a la sucesión de la Corona.
+
+3.º. Elegir la Regencia del Reino y nombrar el tutor del rey menor cuando lo previene la Constitución.
+
+4.º. Hacer efectiva la responsabilidad de los ministros; y
+
+5.º. Nombrar y separar libremente los ministros del Tribunal de Cuentas del Reino, sin que el nombramiento pueda recaer en ningún senador ni diputado.
+
+### Artículo 59
+El senador o diputado que acepte del Gobierno o de la Casa Real pensión, empleo, comisión con sueldo, honores o condecoraciones, se entenderá que renuncia a su cargo.
+
+Exceptúase de esta disposición el empleo de ministro de la Corona.
+
+Sección II. Del Senado
+
+### Artículo 60
+Los senadores se elegirán por provincias.
+
+Al efecto, cada distrito municipal elegirá por sufragio universal un número de compromisarios igual a la sexta parte del de concejales que deban componer su Ayuntamiento.
+
+Los distritos municipales donde el número de concejales no llegue a seis, elegirán, sin embargo, un compromisario.
+
+Los compromisarios así elegidos se asociarán a la Diputación provincial respectiva, constituyendo con ella la Junta electoral.
+
+Cada una de estas Juntas elegirá, a pluralidad absoluta de votos, cuatro senadores.
+
+### Artículo 61
+Cualquiera que sea en adelante la división territorial, nunca se alterará el número total de senadores que, con arreglo a lo prescrito en esta Constitución, resulta de la demarcación actual de provincias.
+
+### Artículo 62
+Para ser elegido senador se necesita:
+
+1.º. Ser español.
+
+2.º. Tener cuarenta años de edad.
+
+3.º. Gozar de todos los derechos civiles. Y
+
+4.º. Reunir algunas de las siguientes condiciones:
+
+- Ser o haber sido presidente del Congreso.
+
+- Diputado electo en tres elecciones generales, o una vez para Cortes Constituyentes.
+
+- Ministro de la Corona.
+
+- Presidente del Consejo de Estado, de los Tribunales Supremos, del Consejo Supremo de la Guerra y del Tribunal de Cuentas del Reino.
+
+- Capitán general de Ejército o almirante.
+
+- Teniente general o vicealmirante.
+
+- Embajador.
+
+- Consejero de Estado.
+
+- Magistrado de los Tribunales Supremos, individuo del Consejo Supremo de la Guerra y del Almirantazgo, ministro del Tribunal de Cuentas del Reino o ministro plenipotenciario durante dos años.
+
+- Arzobispo u obispo.
+
+- Rector de Universidad de la Clase de Catedráticos.
+
+- Catedrático de término, con dos años de ejercicio.
+
+- Presidente o director de las Academias Española, de la Historia, de Nobles Artes, de Ciencias Exactas, Físicas y Naturales, de Ciencias Morales y Políticas, y de Ciencias Médicas.
+
+- Inspector general de los Cuerpos de ingenieros civiles.
+
+- Diputado provincial cuatro veces.
+
+- Alcalde dos veces en pueblos de más de 30.000 almas.
+
+### Artículo 63
+Serán además elegibles los 50 mayores contribuyentes por contribución territorial, y los 20 mayores por subsidio industrial y comercial, de cada provincia.
+
+### Artículo 64
+El Senado se renovará por cuartas partes, con arreglo a la Ley Electoral, cada vez que se hagan elecciones generales de Diputados.
+
+La renovación será total cuando el rey disuelva el Senado.
+
+Sección III. Del Congreso
+
+### Artículo 65
+El Congreso se compondrá de un diputado al menos por cada 40.000 almas de población, elegido con arreglo a la Ley Electoral.
+
+### Artículo 66
+Para ser diputado se requiere ser español, mayor de edad, y gozar de todos los derechos civiles.
+
+ 
+
+## TÍTULO IV
+**Del rey**
+
+### Artículo 67
+La persona del rey es inviolable, y no está sujeta a responsabilidad. Son responsables los ministros.
+
+### Artículo 68
+El rey nombra y separa libremente sus ministros.
+
+### Artículo 69
+La potestad de hacer ejecutar las leyes reside en el rey, y su autoridad de extiende a todo cuanto conduce a la conservación del orden público en lo interior y a la seguridad del Estado en lo exterior, conforme a la Constitución y a las leyes.
+
+### Artículo 70
+El rey dispone de las fuerzas de mar y tierra, declara la guerra, y hace y ratifica la paz; dando después cuenta documentada a las Cortes.
+
+### Artículo 71
+Una sola vez en cada legislatura podrá el rey suspender las Cortes sin el consentimiento de estas. En todo caso, las Cortes no podrán dejar de estar reunidas el tiempo señalado en el articulo 43.
+
+### Artículo 72
+En el caso de disolución de uno o de ambos Cuerpos Colegisladores, el Real Decreto contendrá necesariamente la convocatoria de las Cortes para dentro de tres meses.
+
+### Artículo 73
+Además de las facultades necesarias para la ejecución de las leyes, corresponde al rey:
+
+1.º. Cuidar de la acuñación de la moneda, en la que se pondrá su busto y nombre.
+
+2.º. Conferir los empleos civiles y militares con arreglo a las leyes.
+
+3.º. Conceder en igual forma honores y distinciones.
+
+4.º. Dirigir las relaciones diplomáticas y comerciales con las demás potencias.
+
+5.º. Cuidar de que en todo el Reino se administre pronta y cumplida justicia; y
+
+6.º. Indultar a los delincuentes, con arreglo a las leyes, salvo lo dispuesto relativamente a los ministros.
+
+### Artículo 74
+El Rey necesita estar autorizado por una ley especial:
+
+1.º. Para enajenar, ceder o permutar cualquier parte del territorio español.
+
+2.º. Para incorporar cualquier otro territorio al territorio español.
+
+3.º. Para admitir tropas extranjeras en el Reino.
+
+4.º. Para ratificar los tratados de alianza ofensiva, los especiales de comercio, los que estipulen dar subsidios a una potencia extranjera, y todos aquellos que puedan obligar individualmente a los españoles.
+
+En ningún caso los artículos secretos de un tratado podrán derogar los públicos.
+
+5.º. Para conceder amnistías e indultos generales.
+
+6.º. Para contraer matrimonio y para permitir que lo contraigan las personas que sean súbditos suyos y tengan derecho a suceder en la Corona, según la Constitución; y
+
+7.º. Para abdicar la Corona.
+
+### Artículo 75
+Al rey corresponde la facultad de hacer reglamentos para el cumplimiento y aplicación de las leyes, previos los requisitos que las mismas señalen.
+
+### Artículo 76
+La dotación del rey se fijará al principio de cada reinado.
+
+## TÍTULO V
+**De la sucesión a la corona y de la regencia del reino**
+
+### Artículo 77
+La autoridad real será hereditaria.
+
+La sucesión en el trono seguirá el orden regular de primogenitura y representación, siendo preferida siempre la línea anterior a las posteriores; en la misma línea, el grado más próximo al más remoto; en el mismo grado, el varón a la hembra, y en el mismo sexo, la persona de más edad a la de menos.
+
+### Artículo 78
+Si llegare a extinguirse la dinastía que sea llamada a la posesión de la Corona, las Cortes harán nuevos llamamientos, como más convenga a la Nación.
+
+### Artículo 79
+Cuando falleciere el rey, el nuevo rey jurará guardar y hacer guardar la Constitución y las Leyes, del mismo modo y en los mismos términos que las Cortes decreten para el primero que ocupe el trono conforme a la Constitución.
+
+Igual juramento prestará el príncipe de Asturias cuando cumpla dieciocho años.
+
+### Artículo 80
+Las Cortes excluirán de la sucesión a aquellas personas que sean incapaces para gobernar o hayan hecho cosa por que merezcan perder el derecho a la Corona.
+
+### Artículo 81
+Cuando reine una hembra, su marido no tendrá parte ninguna en el gobierno del Reino.
+
+### Artículo 82
+El rey es mayor de edad a los dieciocho años.
+
+### Artículo 83
+Cuando el rey se imposibilitare para ejercer su autoridad, y la imposibilidad fuere reconocida por las Cortes, o vacare la Corona siendo de menor edad el inmediato sucesor, nombrarán las Cortes para gobernar el Reino una Regencia compuesta de una, tres o cinco personas.
+
+### Artículo 84
+Hasta que las Cortes nombren la Regencia, será gobernado el Reino provisionalmente por el padre, o, en su defecto, por la madre del rey, y en defecto de ambos, por el Consejo de Ministros.
+
+### Artículo 85
+La Regencia ejercerá toda la autoridad del rey, en cuyo nombre se publicarán los actos del Gobierno.
+
+Durante la Regencia no puede hacerse variación alguna en la Constitución.
+
+### Artículo 86
+Será tutor del rey menor el que le hubiere nombrado en su testamento el rey difunto. Si este no le hubiere nombrado, recaerá la tutela en el padre, y, en su defecto, en la madre mientras permanezcan viudos.
+
+A falta de tutor testamentario o legítimo, le nombrarán las Cortes.
+
+En el primero y tercer caso el tutor ha de ser español de nacimiento.
+
+Las Cortes tendrán respecto de la tutela del rey las mismas facultades que les concede el articulo 80 en cuanto a la sucesión a la Corona.
+
+Los cargos de regente y de tutor del rey no pueden estar reunidos sino en el padre o la madre.
+
+## TÍTULO VI
+**De los ministros**
+
+### Artículo 87
+Todo lo que el rey mandare o dispusiere en el ejercicio de su autoridad, será firmado por el ministro a quien corresponda. Ningún funcionario público dará cumplimiento a lo que carezca de este requisito.
+
+### Artículo 88
+No podrán asistir a las sesiones de las Cortes los ministros que no pertenezcan a uno de los Cuerpos Colegisladores.
+
+### Artículo 89
+Los ministros son responsables ante las Cortes de los delitos que cometan en el ejercicio de sus funciones.
+
+Al Congreso corresponde acusarlos y al Senado juzgarlos.
+
+Las leyes determinarán los casos de responsabilidad de los ministros, las penas a que estén sujetos y el modo de proceder contra ellos.
+
+### Artículo 90
+Para que el rey indulte a los ministros condenados por el Senado, ha de preceder petición de uno de los Cuerpos Colegisladores.
+
+ 
+
+## TÍTULO VII
+**Del poder judicial**
+
+### Artículo 91
+A los Tribunales corresponde exclusivamente la potestad de aplicar las leyes en los juicios civiles y criminales.
+
+La justicia se administra en nombre del rey.
+
+Unos mismos Códigos regirán en toda la Monarquía, sin perjuicio de las variaciones que por particulares circunstancias determinen las leyes.
+
+En ellos no se establecerá más que un solo fuero para todos los españoles en los juicios comunes, civiles y criminales.
+
+### Artículo 92
+Los Tribunales no aplicarán los reglamentos generales, provinciales y locales sino en cuanto estén conformes con las leyes.
+
+### Artículo 93
+Se establecerá el juicio por jurados para todos los delitos políticos, y para los comunes que determine la ley.
+
+La ley determinará también las condiciones necesarias para desempeñar el cargo de jurado.
+
+### Artículo 94
+El rey nombra los magistrados y jueces a propuesta del Consejo de Estado y con arreglo a la ley orgánica de Tribunales.
+
+El ingreso en la carrera judicial será por oposición. Sin embargo, el rey podrá nombrar hasta la cuarta parte de magistrados de las Audiencias y del Tribunal Supremo sin sujeción a lo dispuesto en el párrafo anterior, ni a las reglas generales de la ley orgánica de Tribunales pero siempre con audiencia del Consejo de Estado y dentro de las categorías que para estos casos establezca la referida ley.
+
+### Artículo 95
+Los magistrados y jueces no podrán ser depuestos sino por sentencia ejecutoria o por Real Decreto acordado en Consejo de Ministros, previa consulta del Consejo de Estado, y al tenor de lo que se disponga en la mencionada ley orgánica. Tampoco podrán ser trasladados sino por Real Decreto expedido con los mismos trámites; pero podrán ser suspendidos por auto de Tribunal competente.
+
+### Artículo 96
+Los Tribunales, bajo su responsabilidad, no darán posesión a los magistrados o jueces que no hubieren sido nombrados con arreglo a la Constitución y a las leyes.
+
+### Artículo 97
+Los ascensos en la carrera judicial se harán a consulta del Consejo de Estado.
+
+### Artículo 98
+Los jueces son responsables personalmente de toda infracción de ley que cometan, según lo que determine la ley de responsabilidad judicial.
+
+Todo español podrá entablar acción pública contra los jueces o magistrados por los delitos que cometieren en el ejercicio de su cargo.
+
+## TÍTULO VIII
+**De las diputaciones provinciales y ayuntamientos**
+
+### Artículo 99
+La organización y atribuciones de las Diputaciones provinciales y Ayuntamientos se regirán por sus respectivas leyes.
+
+Estas se ajustarán a los principios siguientes:
+
+1.º. Gobierno y dirección de los intereses peculiares de la provincia o del pueblo por las respectivas Corporaciones.
+
+2.º. Publicidad de las sesiones de unas y otras dentro de los límites señalados por la ley.
+
+3.º. Publicación de los presupuestos, cuentas y acuerdos importantes de las mismas.
+
+4.º. Intervención del rey, y en su caso de las Cortes, para impedir que las Diputaciones provinciales y los Ayuntamientos se extralimiten de sus atribuciones en perjuicio de los intereses generales y permanentes; y
+
+5.º. Determinación de sus facultades en materia de impuestos a fin de que los provinciales y municipales no se hallen nunca en oposición con el sistema tributario del Estado.
+
+ 
+
+## TÍTULO IX
+**De las contribuciones y de la fuerza pública**
+
+### Artículo 100
+El Gobierno presentará todos los años a las Cortes los presupuestos de gastos y de ingresos, expresando las alteraciones que haya hecho en los del año anterior.
+
+Cuando las Cortes se reúnan el 1.º de febrero, los presupuestos habrán de presentarse al Congreso dentro de los diez días siguientes a su reunión.
+
+### Artículo 101
+El Gobierno presentará, al mismo tiempo que los presupuestos, el balance del último ejercicio, con arreglo a la ley.
+
+### Artículo 102
+Ningún pago podrá hacerse sino con arreglo a la ley de Presupuestos u otra especial, y por orden del ministro de Hacienda, en la forma y bajo la responsabilidad que las leyes determinen.
+
+### Artículo 103
+El Gobierno necesita estar autorizado por una ley para disponer de las propiedades del Estado y para tomar caudales a préstamo sobre el crédito de la Nación.
+
+### Artículo 104
+La Deuda pública está bajo la salvaguardia de la Nación.
+
+No se hará ningún empréstito sin que se voten al mismo tiempo los recursos necesarios para pagar sus intereses.
+
+### Artículo 105
+Todas las leyes referentes a ingresos, gastos públicos o crédito público se considerarán como parte del presupuesto y se publicarán con este carácter.
+
+### Artículo 106
+Las Cortes fijarán todos los años, a propuesta del rey, las fuerzas militares de mar y tierra.
+
+Las leyes que determinen estas fuerzas se votarán antes que la de Presupuestos.
+
+### Artículo 107
+No puede existir en territorio español fuerza armada permanente que no esté autorizada por una ley.
+
+## TÍTULO X
+**De las provincias de ultramar**
+
+### Artículo 108
+Las Cortes Constituyentes reformarán el sistema actual de gobierno de las provincias de ultramar, cuando hayan tomado asiento los diputados de Cuba o Puerto Rico, para hacer extensivos a las mismas, con las modificaciones que se creyeren necesarias, los derechos consignados en la Constitución.
+
+### Artículo 109
+El régimen por que se gobiernan las provincias españolas situadas en el archipiélago filipino será reformado por una ley.
+
+ 
+
+## TÍTULO XI
+**De la reforma de la constitución**
+
+### Artículo 110
+Las Cortes, por sí o a propuesta del rey, podrán acordar la reforma de la Constitución, señalando al efecto el artículo o artículos que hayan de alterarse.
+
+### Artículo 111
+Hecha esta declaración, el rey disolverá el Senado y el Congreso, y convocará nuevas Cortes, que se reunirán dentro de los tres meses siguientes. En la convocatoria se insertará la resolución de las Cortes de que habla el artículo anterior.
+
+### Artículo 112
+Los Cuerpos Colegisladores tendrán el carácter de Constituyentes tan solo para deliberar acerca de la reforma, continuando después con el de Cortes ordinarias.
+
+Mientras las Cortes sean Constituyentes, no podrá ser disuelto ninguno de los Cuerpos Colegisladores.
+
+## DISPOSICIONES TRANSITORIAS
+### Artículo 1
+La ley que en virtud de esta Constitución se haga para elegir la persona del rey y para resolver las cuestiones a que esta elección diere lugar, formará parte de la Constitución.
+
+### Artículo 2
+Hasta que promulgada la ley orgánica de Tribunales, tengan cumplido efecto los artículos 94, 95, 96 y 97 de la Constitución, el poder ejecutivo podrá dictar las disposiciones conducentes a su aplicación en la parte que sea posible.
+
+Palacio de las Cortes en Madrid, a 1.º de junio de 1869. Nicolás María Rivero, diputado por Madrid, presidente. [Le sigue la firma de los diputados constituyentes]. Manuel de Llano y Persi, diputado por la circunscripción de Alcalá, secretario. El marqués de Sardoal, diputado por Motril, secretario. Julián Sánchez Ruano, diputado por Salamanca, secretario. Francisco Javier Carratalá, diputado por Alicante, secretario.
 
 ---
 
