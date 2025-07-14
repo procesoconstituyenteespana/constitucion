@@ -18,7 +18,7 @@ CONSTITUYENTES, DECRETA Y SANCIONA ESTA CONSTITUCIÓN
 ## TÍTULO PRELIMINAR 
 **Disposiciones generales**
 
-### Artículo primero. 
+### Artículo 1
 España es una República democrática de trabajadores de toda clase, que se organiza en 
 régimen de Libertad y de Justicia. 
 Los poderes de todos sus órganos emanan del pueblo. 
@@ -26,47 +26,47 @@ La República constituye un Estado integral, compatible con la autonomía de los
 Municipios y las Regiones. 
 La bandera de la República española es roja, amarilla y morada. 
 
-### Artículo 2º. 
+### Artículo 2
 Todos los españoles son iguales ante la ley. 
 
-### Artículo 3º. 
+### Artículo 3
 El Estado español no tiene religión oficial. 
 
-### Artículo 4º. 
+### Artículo 4
 El castellano es el idioma oficial de la República. 
 Todo español tiene obligación de saberlo y derecho de usarlo, sin perjuicio de los 
 derechos que las leyes del Estado reconozcan a las lenguas de las provincias o regiones. 
 Salvo lo que se disponga en leyes especiales, a nadie se le podrá exigir el conocimiento 
 ni el uso de ninguna lengua regional. 
 
-### Artículo 5º. 
+### Artículo 5
 La capitalidad de la República se fija en Madrid. 
 
-### Artículo 6º. 
+### Artículo 6
 España renuncia a la guerra como instrumento de política nacional. 
 
-### Artículo 7º. 
+### Artículo 7
 El Estado español acatará las normas universales del Derecho internacional, 
 incorporándolas a su derecho positivo. 
 
 ## TÍTULO PRIMERO 
 **Organización nacional**
 
-### Artículo 8º. 
+### Artículo 8
 El estado español, dentro de los límites irreductibles de su territorio actual, estará
 integrado por Municipios mancomunados en provincias y por las regiones que se 
 constituyan en régimen de autonomía. 
 Los territorios de soberanía del norte de África se organizarán en régimen autónomo en 
 relación directa con el Poder central. 
 
-### Artículo 9º. 
+### Artículo 9
 Todos los Municipios de la República serán autónomos en las materias de su 
 competencia, y elegirán sus Ayuntamientos por sufragio universal, igual, directo y secreto, 
 salvo cuando funcionen en régimen de Concejo abierto. 
 Los Alcaldes serán designados siempre por elección directa del pueblo o por el 
 Ayuntamiento. 
 
-### Artículo 10. 
+### Artículo 10
 Las provincias se constituirán por los Municipios mancomunados conforme a una ley que 
 determinará su régimen, sus funciones y la manera de elegir el órgano gestor de sus fines 
 político administrativos. 
@@ -77,7 +77,7 @@ Cabildo insular como Cuerpo gestor de sus intereses peculiares, con funciones y
 facultades administrativas iguales a las que la ley asigne al de las provincias. 
 Las islas Baleares podrán optar por un régimen idéntico. 
 
-### Artículo 11. 
+### Artículo 11
 Si una o varias provincias limítrofes, con características históricas, culturales y 
 económicas, comunes, acordaran organizarse en región autónoma para formar un núcleo 
 político administrativo, dentro del Estado español, presentarán su Estatuto con arreglo a 
@@ -91,7 +91,7 @@ Una vez aprobado el Estatuto, será la ley básica de la organización
 Político administrativa de la región autónoma, y el Estado español la reconocerá y 
 amparará como parte integrante de su ordenamiento jurídico. 
 
-### Artículo 12. 
+### Artículo 12
 Para la aprobación del Estatuto de la región autónoma, se requieren las siguientes 
 condiciones: 
 a) Que lo proponga la mayoría de sus Ayuntamientos o, cuando menos, aquellos cuyos 
@@ -106,10 +106,10 @@ Constitución, y tampoco a las leyes orgánicas del Estado en las materias no tr
 al poder regional, sin perjuicio de la facultad que a las Cortes reconocen los artículos 15 y 
 16. 
 
-### Artículo 13. 
+### Artículo 13
 En ningún caso se admite la federación de regiones autónomas. 
 
-### Artículo 14. 
+### Artículo 14
 Son de la exclusiva competencia del Estado español la legislación y la ejecución directa 
 en las materias siguientes: 
 1ª. Adquisición y pérdida de la nacionalidad y regulación de los derechos y deberes 
@@ -118,8 +118,7 @@ constitucionales.
 3ª. Representación diplomática y consular y, en general, la del Estado en el exterior; 
 declaración de guerra; Tratados de paz; régimen de Colonias y Protectorado, y toda clase 
 de relaciones internacionales. 
-4ª. Defensa de la seguridad pública en los conflictos de carácter 
-suprarregional o extrarregional. 
+4ª. Defensa de la seguridad pública en los conflictos de carácter suprarregional o extrarregional. 
 5ª. Pesca marítima. 
 6ª. Deuda del Estado. 
 7ª. Ejército, Marina de guerra y Defensa nacional. 
@@ -140,15 +139,14 @@ fuera de la región autónoma o el transporte de la energía salga de su términ
 17. Hacienda general del Estado. 
 18. Fiscalización de la producción y el comercio de armas. 
 
-### Artículo 15. 
+### Artículo 15
 Corresponde al Estado español la legislación, y podrá corresponder a las regiones 
 autónomas la ejecución, en la medida de su capacidad política, a juicio de las Cortes, 
 sobre las siguientes materias: 
 1ª. Legislación penal, social, mercantil y procesal, y en cuanto a la legislación civil, la 
 forma del matrimonio, la ordenación de los registros e hipotecas, las bases de las 
 obligaciones contractuales y la regulación de los Estatutos, personal, real y formal, para 
-coordinar la aplicación y resolver los conflictos entre las distintas legislaciones civiles de 
-España. La ejecución de las leyes sociales será inspeccionada por el Gobierno de la 
+coordinar la aplicación y resolver los conflictos entre las distintas legislaciones civiles de España. La ejecución de las leyes sociales será inspeccionada por el Gobierno de la 
 República, para garantizar su estricto cumplimiento y el de los tratados internacionales 
 que afecten a la materia. 
 2ª. Legislación sobre propiedad intelectual e industrial. 
@@ -169,21 +167,21 @@ sus obras peculiares.
 legislación la propiedad y las facultades del Estado y de las regiones. 
 11. Servicios y aviación civil y radiodifusión. 
 
-### Artículo 16. 
+### Artículo 16
 En las materias no comprendidas en los dos artículos anteriores, podrán corresponder a 
 la competencia de las regiones autónomas la legislación exclusiva y la ejecución directa, 
 conforme a lo que dispongan los respectivos Estatutos aprobados por las Cortes. 
 
-### Artículo 17. 
+### Artículo 17
 En las regiones autónomas no se podrá regular ninguna materia con diferencia de trato 
 entre los naturales del país y los demás españoles. 
 
-### Artículo 18. 
+### Artículo 18
 Todas las materias que no estén explícitamente reconocidas en su Estatuto a la región 
 autónoma, se reputarán propias de la competencia del Estado; pero éste podrá distribuir 
 o transmitir las facultades por medio de una ley. 
 
-### Artículo 19. 
+### Artículo 19
 El Estado podrá fijar, por medio de una ley, aquellas bases a que habrán de ajustarse las
 disposiciones legislativas de las regiones autónomas, cuando así lo exigiera la armonía 
 entre los intereses locales y el interés general de la República. 
@@ -194,7 +192,7 @@ de los Diputados que integren las Cortes.
 En las materias reguladas por una ley de Bases de la República las regiones podrán 
 estatuir lo pertinente, por ley o por ordenanza. 
 
-### Artículo 20. 
+### Artículo 20
 Las leyes de la República serán ejecutadas en las regiones autónomas por sus 
 autoridades respectivas, excepto aquellas cuya aplicación esté atribuida a órganos 
 especiales o en cuyo texto se disponga lo contrario, siempre conforme a lo establecido en 
@@ -202,20 +200,21 @@ este Título.
 El Gobierno de la República podrá dictar Reglamentos para la ejecución de sus leyes, 
 aun en los casos en que esta ejecución corresponda a las autoridades regionales. 
 
-### Artículo 21. 
+### Artículo 21
 El derecho del Estado español prevalece sobre el de las regiones autónomas en todo lo 
 que no esté atribuido a la exclusiva competencia de éstas en sus respectivos Estatutos. 
 
-### Artículo 22. 
+### Artículo 22
 Cualquiera de las provincias que forme una región autónoma o parte de ella podrá 
 renunciar a su régimen y volver al de provincia directamente vinculada al Poder central. 
 Para tomar este acuerdo será necesario que lo proponga la mayoría de sus 
 Ayuntamientos y lo acepten, por lo menos, dos terceras partes de los electorales inscritos 
 en el censo de la provincia. 
-TITULO II 
+
+## TÍTULO II 
 Nacionalidad 
 
-### Artículo 23. 
+### Artículo 23
 Son españoles: 
 1º. Los nacidos, dentro o fuera de España, de padre o madre españoles. 
 2º. Los nacidos en territorio español de padres extranjeros, siempre que opten por la 
@@ -230,7 +229,7 @@ internacionales.
 Una ley establecerá el procedimiento que facilite la adquisición de la nacionalidad a las 
 personas de origen español que residan en el Extranjero. 
 
-### Artículo 24. 
+### Artículo 24
 La calidad de español se pierde: 
 1º. Por entrar al servicio de las armas de una potencia extranjera sin licencia del Estado 
 español, o por aceptar empleo de otro Gobierno que lleve anejo ejercicio de autoridad o 
@@ -250,12 +249,12 @@ de origen.
 ## CAPÍTULO PRIMERO 
 **Garantías individuales y políticas**
 
-### Artículo 25. 
+### Artículo 25
 No podrán ser fundamento de privilegio jurídico: la naturaleza, la filiación, el sexo, la clase 
 social, la riqueza, las ideas políticas ni las creencias religiosas. 
 El Estado no reconoce distinciones y títulos nobiliarios. 
 
-### Artículo 26. 
+### Artículo 26
 Todas las confesiones religiosas serán consideradas como Asociaciones sometidas a una 
 ley especial. 
 El Estado, las regiones, las provincias y los Municipios, no mantendrán, favorecerán, ni 
@@ -280,7 +279,7 @@ fines privativos.
 relación con los fines de la Asociación. 
 Los bienes de las Órdenes religiosas podrán ser nacionalizados. 
 
-### Artículo 27. 
+### Artículo 27
 La libertad de conciencia y el derecho de profesar y practicar libremente cualquier religión
 quedan garantizados en el territorio español, salvo el respeto debido a las exigencias de 
 la moral pública. 
@@ -294,11 +293,11 @@ política, salvo lo dispuesto en esta Constitución para el nombramiento de Pres
 República y para ser Presidente del Consejo de 
 Ministros. 
 
-### Artículo 28. 
+### Artículo 28
 Sólo se castigarán los hechos declarados punibles por ley anterior a su perpetración. 
 Nadie será juzgado sino por juez competente y conforme a los trámites legales. 
 
-### Artículo 29. 
+### Artículo 29
 Nadie podrá ser detenido ni preso sino por causa de delito. Todo detenido será puesto en 
 libertad o entregado a la autoridad judicial, dentro de las veinticuatro horas siguientes al 
 acto de la detención. 
@@ -311,11 +310,11 @@ artículo, y los agentes y funcionarios que las ejecuten, con evidencia de su il
 La acción para perseguir estas infracciones será pública, sin necesidad de prestar fianza 
 ni caución de ningún género. 
 
-### Artículo 30. 
+### Artículo 30
 El Estado no podrá suscribir ningún Convenio o Tratado internacional que tenga por 
 objeto la extradición de delincuentes político sociales. 
 
-### Artículo 31. 
+### Artículo 31
 Todo español podrá circular libremente por el territorio nacional y elegir en él su 
 residencia y domicilio, sin que pueda ser compelido a mudarlos a no ser en virtud de 
 sentencia ejecutoria. 
@@ -328,59 +327,58 @@ Nadie podrá entrar en él sino en virtud de mandamiento de juez competente. El 
 de papeles y efectos se practicará siempre a presencia del interesado o de una persona 
 de su familia, y, en su defecto, de dos vecinos del mismo pueblo. 
 
-### Artículo 32. 
+### Artículo 32
 Queda garantizada la inviolabilidad de la correspondencia en todas sus formas, a no ser 
 que se dicte auto judicial en contrario. 
 
-### Artículo 33. 
+### Artículo 33
 Toda persona es libre de elegir profesión. Se reconoce la libertad de industria y comercio, 
 salvo las limitaciones que, por motivos económicos y sociales de interés general,
 impongan las leyes. 
 
-### Artículo 34. 
+### Artículo 34
 Toda persona tiene derecho a emitir libremente sus ideas y opiniones, valiéndose de 
 cualquier medio de difusión, sin sujetarse a la previa censura. 
 En ningún caso podrá recogerse la edición de libros y periódicos sino en virtud de 
 mandamiento de juez competente. No podrá decretarse la suspensión de ningún 
 periódico, sino por sentencia firme. 
 
-### Artículo 35. 
+### Artículo 35
 Todo español podrá dirigir peticiones, individual y colectivamente, a los 
 Poderes públicos y a las autoridades. Este derecho no podrá ejercerse por ninguna clase 
 de fuerza armada. 
 
-### Artículo 36. 
+### Artículo 36
 Los ciudadanos de uno y de otro sexo, mayores de veintitrés años, tendrán los mismos 
 derechos electorales conforme determinen las leyes. 
 
-### Artículo 37. 
+### Artículo 37
 El Estado podrá exigir de todo ciudadano su prestación personal para servicios civiles o 
 militares, con arreglo a las leyes. 
 Las Cortes, a propuesta del Gobierno, fijarán todos los años el contingente militar. 
 
-### Artículo 38. 
+### Artículo 38
 Queda reconocido el derecho de reunirse pacíficamente y sin armas. 
 Una ley especial regulará el derecho de reunión al aire libre y el de manifestación. 
 
-### Artículo 39. 
+### Artículo 39
 Los españoles podrán asociarse o sindicarse libremente para los distintos fines de la vida 
 humana, conforme a las leyes del Estado. 
 Los Sindicatos y Asociaciones están obligados a inscribirse en el Registro público 
 correspondiente, con arreglo a la ley. 
 
-### Artículo 40. 
+### Artículo 40
 Todos los españoles, sin distinción de sexo, son admisibles a los empleos y cargos 
 públicos según su mérito y capacidad, salvo las incompatibilidades que las leyes señalen. 
 
-### Artículo 41. 
+### Artículo 41
 Los nombramientos, excedencias y jubilaciones de los funcionarios públicos se harán 
 conforme a las leyes. Su inamovilidad se garantiza por la Constitución. La separación del 
 servicio, las suspensiones y los traslados sólo tendrán lugar por causas justificadas 
 previstas en la ley. 
 No se podrá molestar ni perseguir a ningún funcionario público por sus opiniones 
 políticas, sociales o religiosas. 
-Si el funcionario público, en el ejercicio de su cargo, infringe sus deberes con perjuicio de 
-tercero, el Estado o la Corporación a quien sirva serán subsidiariamente responsables de 
+Si el funcionario público, en el ejercicio de su cargo, infringe sus deberes con perjuicio de tercero, el Estado o la Corporación a quien sirva serán subsidiariamente responsables de 
 los daños y perjuicios consiguientes, conforme determine la ley. 
 Los funcionarios civiles podrán constituir Asociaciones profesionales que no impliquen 
 injerencia en el servicio público que les estuviere encomendado. Las 
@@ -388,7 +386,7 @@ Asociaciones profesionales de funcionarios se regularán por una ley. Estas
 Asociaciones podrán recurrir ante los Tribunales contra los acuerdos de la superioridad
 que vulneren los derechos de los funcionarios. 
 
-### Artículo 42. 
+### Artículo 42
 Los derechos y garantías consignados en los artículos 29, 31, 34, 38 y 39 podrán ser
 suspendidos total o parcialmente, en todo el territorio nacional o en parte de él, por 
 decreto del Gobierno, cuando así lo exija la seguridad del Estado, en casos de notoria e 
@@ -413,7 +411,7 @@ distancia superior a 250 kilómetros de su domicilio.
 ## CAPÍTULO II 
 **Familia, economía y cultura**
 
-### Artículo 43. 
+### Artículo 43
 La familia está bajo la salvaguardia especial del Estado. El matrimonio se funda en la 
 igualdad de derechos para ambos sexos, y podrá disolverse por mutuo disenso o a 
 petición de cualquiera de los cónyuges, con alegación en este caso de justa causa. 
@@ -428,7 +426,7 @@ filiación alguna.
 El Estado prestará asistencia a los enfermos y ancianos, y protección a la maternidad y a 
 la infancia, haciendo suya la “Declaración de Ginebra” o tabla de los derechos del niño. 
 
-### Artículo 44. 
+### Artículo 44
 Toda la riqueza del país, sea quien fuere su dueño, está subordinada a los intereses de la
 economía nacional y afecta al sostenimiento de las cargas públicas, con arreglo a la 
 Constitución y a las leyes. 
@@ -443,7 +441,7 @@ cuando así lo exigieran la racionalización de la producción y los intereses d
 nacional. 
 En ningún caso se impondrá la pena de confiscación de bienes. 
 
-### Artículo 45. 
+### Artículo 45
 Toda la riqueza artística e histórica del país, sea quien fuere su dueño, constituye tesoro 
 cultural de la Nación y estará bajo la salvaguardia del Estado, que podrá prohibir su 
 exportación y enajenación y decretar las expropiaciones legales que estimare oportunas 
@@ -452,7 +450,7 @@ asegurará su celosa custodia y atenderá a su perfecta conservación.
 El Estado protegerá también los lugares notables por su belleza natural o por su
 reconocido valor artístico o histórico. 
 
-### Artículo 46. 
+### Artículo 46
 El trabajo, en sus diversas formas, es una obligación social, y gozará de la protección de
 las leyes. 
 La República asegurará a todo trabajador las condiciones necesarias de una existencia 
@@ -465,7 +463,7 @@ que integran la producción; la participación de los obreros en la dirección, 
 administración y los beneficios de las empresas, y todo cuanto afecte a la defensa de los 
 trabajadores. 
 
-### Artículo 47. 
+### Artículo 47
 La República protegerá al campesino y a este fin legislará, entre otras materias, sobre el 
 patrimonio familiar inembargable y exento de toda clase de impuestos, crédito agrícola, 
 indemnización por pérdida de las cosechas, cooperativas de producción y consumo, cajas 
@@ -473,7 +471,7 @@ de previsión, escuelas prácticas de agricultura y granjas de experimentación
 agropecuarias, obras para riego y vías rurales de comunicación. 
 La República protegerá en términos equivalentes a los pescadores. 
 
-### Artículo 48. 
+### Artículo 48
 El servicio de la cultura es atribución esencial del Estado, y lo prestará mediante 
 instituciones educativas enlazadas por el sistema de la escuela unificada. 
 La enseñanza primaria será gratuita y obligatoria. 
@@ -487,7 +485,7 @@ inspirará en ideales de solidaridad humana.
 Se reconoce a las Iglesias el derecho, sujeto a inspección del Estado, de enseñar sus 
 respectivas doctrinas en sus propios establecimientos. 
 
-### Artículo 49. 
+### Artículo 49
 La expedición de títulos académicos y profesionales corresponde exclusivamente al 
 Estado, que establecerá las pruebas y requisitos necesarios para obtenerlos aun en los 
 casos en que los certificados de estudios procedan de centros de enseñanza de las 
@@ -496,7 +494,7 @@ cada grado, la duración de los períodos de escolaridad, el contenido de los pl
 pedagógicos y las condiciones en que se podrá autorizar la enseñanza en los 
 establecimientos privados. 
 
-### Artículo 50. 
+### Artículo 50
 Las regiones autónomas podrán organizar la enseñanza en sus lenguas respectivas, de 
 acuerdo con las facultades que se concedan en los Estatutos. Es obligatorio el estudio de 
 la lengua castellana, y ésta se usará también como instrumento de enseñanza en todos 
@@ -508,18 +506,19 @@ cumplimiento de las disposiciones contenidas en este artículo y en los dos ante
 El Estado atenderá a la expansión cultural de España estableciendo delegaciones y
 centros de estudio y enseñanza en el Extranjero y preferentemente en los países 
 hispanoamericanos. 
-TITULO IV 
+
+## TÍTULO IV 
 Las Cortes 
 
-### Artículo 51. 
+### Artículo 51
 La potestad legislativa reside en el pueblo, que la ejerce por medio de las 
 Cortes o Congreso de los Diputados. 
 
-### Artículo 52. 
+### Artículo 52
 El Congreso de los Diputados se compone de los representantes elegidos por sufragio 
 universal, igual, directo y secreto. 
 
-### Artículo 53. 
+### Artículo 53
 Serán elegibles para Diputados todos los ciudadanos de la República mayores de 
 veintitrés años, sin distinción de sexo ni de estado civil, que reúnan las condiciones 
 fijadas por la ley Electoral. 
@@ -530,15 +529,15 @@ Sesenta días, a lo sumo, después de expirar el mandato o de ser disueltas las 
 habrán de verificarse las nuevas elecciones. El Congreso se reunirá a los treinta días, 
 como máximo, después de la elección. Los Diputados serán reelegibles indefinidamente. 
 
-### Artículo 54. 
+### Artículo 54
 La ley determinará los casos de incompatibilidad de los Diputados, así como su 
 retribución. 
 
-### Artículo 55. 
+### Artículo 55
 Los Diputados son inviolables por los votos y opiniones que emitan en el ejercicio de su 
 cargo. 
 
-### Artículo 56. 
+### Artículo 56
 Los Diputados sólo podrán ser detenidos en caso de flagrante delito. 
 La detención será comunicada inmediatamente a la Cámara o a la Diputación 
 Permanente. 
@@ -557,25 +556,25 @@ parlamentario del Diputado objeto de la acción judicial.
 Los acuerdos de la Diputación Permanente se entenderán revocados si reunido el 
 Congreso no los ratificara expresamente en una de sus veinte primeras sesiones. 
 
-### Artículo 57. 
+### Artículo 57
 El Congreso de los Diputados tendrá facultad para resolver sobre la validez de la elección 
 y la capacidad de sus miembros electos y para adoptar su Reglamento de régimen 
 interior. 
 
-### Artículo 58. 
+### Artículo 58
 Las Cortes se reunirán sin necesidad de convocatoria el primer día hábil de los meses de
 febrero y octubre de cada año y funcionarán, por lo menos, durante tres meses en el 
 primer período y dos en el segundo. 
 
-### Artículo 59. 
+### Artículo 59
 Las Cortes disueltas se reúnen de pleno derecho y recobran su potestad como 
 Poder legítimo del Estado, desde el momento en que el Presidente no hubiere cumplido, 
 dentro de plazo, la obligación de convocar las nuevas elecciones. 
 
-### Artículo 60. 
+### Artículo 60
 El Gobierno y el Congreso de los Diputados tienen la iniciativa de las leyes. 
 
-### Artículo 61. 
+### Artículo 61
 El Congreso podrá autorizar al Gobierno para que éste legisle por decreto, acordado en 
 Consejo de Ministros, sobre materias reservadas a la competencia del 
 Poder legislativo. 
@@ -586,7 +585,7 @@ El Congreso podrá reclamar el conocimiento de los decretos así dictados, para 
 sobre su adaptación a las bases establecidas por él. 
 En ningún caso podrá autorizarse en esta forma, aumento alguno de gastos. 
 
-### Artículo 62. 
+### Artículo 62
 El Congreso designará de su seno una Diputación Permanente de Cortes, compuesta, 
 como máximo, de 21 representantes de las distintas fracciones políticas, en proporción a 
 su fuerza numérica. 
@@ -598,12 +597,12 @@ decretos-leyes.
 3º. De lo concerniente a la detención y procesamiento de los Diputados. 
 4º. De las demás materias en que el Reglamento de la Cámara le diere atribución. 
 
-### Artículo 63. 
+### Artículo 63
 El Presidente del Consejo y los Ministros tendrán voz en el Congreso, aunque no sea 
 Diputados. 
 No podrán excusar su asistencia a la Cámara cuando sean por ella requeridos. 
 
-### Artículo 64. 
+### Artículo 64
 El Congreso podrá acordar un coto de censura contra el Gobierno o alguno de sus 
 Ministros. 
 Todo voto de censura deberá ser propuesto, en forma motivada y por escrito, con las 
@@ -615,7 +614,7 @@ no fuese aprobado por la mayoría absoluta de los Diputados que constituyan la C
 Las mismas garantías se observarán respecto a cualquier otra proposición que 
 indirectamente implique un voto de censura. 
 
-### Artículo 65. 
+### Artículo 65
 Todos los Convenios internacionales ratificados por España e inscritos en la 
 Sociedad de las Naciones y que tengan carácter de ley internacional, se considerarán 
 parte constitutiva de la legislación española, que habrá de acomodarse a lo que en 
@@ -627,7 +626,7 @@ No podrá dictarse ley alguna en contradicción con dichos Convenios, si no hubi
 previamente denunciados conforme al procedimiento en ellos establecido. 
 La iniciativa de la denuncia habrá de ser sancionada por las Cortes. 
 
-### Artículo 66. 
+### Artículo 66
 El pueblo podrá atraer a su decisión mediante “referéndum” las leyes votadas por las 
 Cortes. Bastará, par a ello, que lo solicite el 15 por 100 del Cuerpo electoral. 
 No serán objeto de este recurso la Constitución, las leyes complementarias de la misma, 
@@ -638,15 +637,16 @@ Cortes una proposición de ley siempre que lo pida, por lo menos, el 15 por 100 
 electores. 
 Una ley especial regulará el procedimiento y las garantías del “referéndum” y de la
 iniciativa popular. 
-TITULO V 
+
+## TÍTULO V 
 Presidencia de la República 
 
-### Artículo 67. 
+### Artículo 67
 El Presidente de la República es el Jefe del Estado y personifica a la Nación. 
 La ley determinará su dotación y sus honores, que no podrán ser alterados durante el 
 período de su magistratura. 
 
-### Artículo 68. 
+### Artículo 68
 El Presidente de la República será elegido conjuntamente por las Cortes y un número de 
 compromisarios igual al de Diputados. 
 Los compromisarios serán elegidos por sufragio universal, igual, directo y secreto, 
@@ -654,12 +654,12 @@ conforme al procedimiento que determine la ley. Al Tribunal de Garantías
 Constitucionales corresponde el examen y aprobación de los poderes de los 
 compromisarios. 
 
-### Artículo 69. 
+### Artículo 69
 Sólo serán elegibles para la Presidencia de la República los ciudadanos españoles 
 mayores de cuarenta años que se hallen en el pleno goce de sus derechos civiles y 
 políticos. 
 
-### Artículo 70. 
+### Artículo 70
 No podrán ser elegibles ni tampoco propuestos para candidatos: 
 a) Los militares en activo o en la reserva, ni los retirados que no lleven diez años, cuando 
 menos, en dicha situación. 
@@ -667,21 +667,21 @@ b) Los eclesiásticos, los ministros de las varias confesiones y los religiosos 
 c) Los miembros de las familias reinantes o ex reinantes de cualquier país, sea cual fuere 
 el grado de parentesco que les una con el jefe de las mismas. 
 
-### Artículo 71. 
+### Artículo 71
 El mandato del Presidente de la República durará seis años. 
 El Presidente de la República no podrá ser reelegido hasta transcurridos seis años del 
 término de su anterior mandato. 
 
-### Artículo 72. 
+### Artículo 72
 El Presidente de la República prometerá ante las Cortes, solemnemente reunidas, 
 fidelidad a la República y a la Constitución. 
 Prestada esta promesa, se considerará iniciado el nuevo período presidencial. 
 
-### Artículo 73. 
+### Artículo 73
 La elección de nuevo Presidente de la República se celebrará treinta días antes de la 
 expiración del mandato presidencial. 
 
-### Artículo 74. 
+### Artículo 74
 En caso de impedimento temporal o ausencia del Presidente de la República, le 
 substituirá en sus funciones el de las Cortes, quien será substituido en las suyas por el 
 Vicepresidente del Congreso. Del mismo modo, el Presidente del Parlamento asumirá las 
@@ -692,12 +692,12 @@ siguientes a la convocatoria.
 A los exclusivos efectos de la elección de Presidente de la República, las 
 Cortes, aun estando disueltas, conservan sus poderes. 
 
-### Artículo 75. 
+### Artículo 75
 El Presidente de la República nombrará y separará libremente al Presidente del 
 Gobierno, y, a propuesta de éste, a los Ministros. Habrá de separarlos necesariamente en 
 el caso de que las Cortes les negaren de modo explícito su confianza. 
 
-### Artículo 76. 
+### Artículo 76
 Corresponde también al Presidente de la República: 
 a) Declarar la guerra, conforme a los requisitos del artículo siguiente, y firmar la paz. 
 b) Conferir los empleos civiles y militares y expedir los títulos profesionales, de acuerdo 
@@ -724,7 +724,7 @@ Pacto de la Sociedad, a los efectos que en él se previenen.
 Los Tratados y Convenios secretos y las cláusulas secretas de cualquier 
 Tratado o Convenio no obligarán a la Nación. 
 
-### Artículo 77. 
+### Artículo 77
 El Presidente de la República no podrá firmar declaración alguna de guerra sino en las 
 condiciones prescritas en el Pacto de la Sociedad de las Naciones, y sólo una vez 
 agotados aquellos medios defensivos que no tengan carácter bélico y los procedimientos 
@@ -736,17 +736,17 @@ generales.
 Cumplidos los anteriores requisitos, el Presidente de la República habrá de estar 
 autorizado por una ley para firmar la declaración de guerra. 
 
-### Artículo 78. 
+### Artículo 78
 El Presidente de la República no podrá cursar el aviso de que España se retira de la 
 Sociedad de las Naciones sino anunciándolo con la antelación que exige el Pacto de esa 
 Sociedad, y mediante previa autorización de las Cortes, consignada en una ley especial, 
 votada por mayoría absoluta. 
 
-### Artículo 79. 
+### Artículo 79
 El Presidente de la República, a propuesta del Gobierno, expedirá los decretos, 
 reglamentos e instrucciones necesarios para la ejecución de las leyes. 
 
-### Artículo 80. 
+### Artículo 80
 Cuando no se halle reunido el Congreso, el Presidente, a propuesta y por acuerdo 
 unánime del Gobierno y con la aprobación de los dos tercios de la Diputación 
 Permanente, podrá estatuir por decreto sobre materias reservadas a la competencia de 
@@ -755,7 +755,7 @@ demande la defensa de la República.
 Los decretos así dictados tendrán sólo carácter provisional, y su vigencia estará limitada 
 al tiempo que tarde el Congreso en resolver o legislar sobre la materia. 
 
-### Artículo 81. 
+### Artículo 81
 El Presidente de la República podrá convocar el Congreso con carácter extraordinario
 siempre que lo estime oportuno. 
 Podrá suspender las sesiones ordinarias del Congreso en cada legislatura sólo por un 
@@ -770,7 +770,7 @@ En el caso de segunda disolución, el primer acto de las nuevas Cortes será exa
 resolver la necesidad del decreto de disolución de las anteriores. El voto desfavorable de 
 la mayoría absoluta de las Cortes llevará aneja la destitución del Presidente. 
 
-### Artículo 82. 
+### Artículo 82
 El Presidente podrá ser destituido antes de que expire su mandato. 
 La iniciativa de destitución se tomará a propuesta de las tres quintas partes de los 
 miembros que compongan el Congreso, y desde este instante el Presidente no podrá 
@@ -781,7 +781,7 @@ Cortes decidirán por mayoría absoluta sobre la propuesta de éstas.
 Si la Asamblea votare contra la destitución, quedará disuelto el Congreso. En caso 
 contrario, esta misma Asamblea elegirá el nuevo Presidente. 
 
-### Artículo 83. 
+### Artículo 83
 El Presidente promulgará las leyes sancionadas por el Congreso, dentro del plazo de 
 quince días, contados desde aquel en que la sanción le hubiere sido oficialmente 
 comunicada. 
@@ -792,7 +792,7 @@ Congreso, en mensaje razonado, que las someta a nueva deliberación. Si volviera
 aprobadas por una mayoría de dos tercios de votantes, el Presidente quedará obligado a 
 promulgarlas. 
 
-### Artículo 84. 
+### Artículo 84
 Serán nulos y sin fuerza alguna de obligar los actos y mandatos del Presidente que no
 estén refrendados por un Ministro. 
 La ejecución de dichos mandatos implicará responsabilidad penal. 
@@ -800,7 +800,7 @@ Los Ministros que refrenden actos o mandatos del Presidente de la República asu
 plena responsabilidad política y civil y participan de la criminal que de ellos pueda 
 derivarse. 
 
-### Artículo 85. 
+### Artículo 85
 El Presidente de la República es criminalmente responsable de la infracción delictiva de 
 sus obligaciones constitucionales. 
 El Congreso, por acuerdo de las tres quintas partes de la totalidad de sus miembros, 
@@ -812,62 +812,64 @@ elección, y la causa seguirá sus trámites.
 Si la acusación no fuese admitida, el Congreso quedará disuelto y se procederá a nueva 
 convocatoria. 
 Una ley de carácter constitucional determinará el procedimiento para exigir la 
-responsabilidad criminal del Presidente de la República. 
-TITULO VI 
-Gobierno 
+responsabilidad criminal del Presidente de la República.
 
-### Artículo 86. 
+## TÍTULO VI 
+**Gobierno**
+
+### Artículo 86
 El Presidente del Consejo y los Ministros constituyen el Gobierno. 
 
-### Artículo 87. 
+### Artículo 87
 El Presidente del Consejo de Ministros dirige y representa la política general del 
 Gobierno. Le afectan las mismas incompatibilidades establecidas en el artículo 70 para el 
 Presidente de la República. 
 A los Ministros corresponde la alta dirección y gestión de los servicios públicos 
 asignados a los diferentes departamentos ministeriales. 
 
-### Artículo 88. 
+### Artículo 88
 El Presidente de la República, a propuesta del Presidente del Consejo, podrá nombrar 
 uno o más Ministros sin cartera. 
 
-### Artículo 89. 
+### Artículo 89
 Los miembros del Gobierno tendrán la dotación que determinen las Cortes. 
 Mientras ejerzan sus funciones, no podrán desempeñar profesión alguna, ni intervenir 
 directa o indirectamente en la dirección o gestión de ninguna empresa ni asociación 
 privada. 
 
-### Artículo 90. 
+### Artículo 90
 Corresponde al Consejo de Ministros, principalmente, elaborar los proyectos de ley que
 haya de someter al Parlamento; dictar decretos; ejercer la potestad reglamentaria, y 
 deliberar sobre todos los asuntos de interés público. 
 
-### Artículo 91. 
+### Artículo 91
 Los miembros del Consejo responden ante el Congreso: solidariamente de la política del 
 Gobierno, e individualmente de su propia gestión ministerial. 
 
-### Artículo 92. 
+### Artículo 92
 El Presidente del Consejo y los Ministros son, también, individualmente responsables, en 
 el orden civil y en el criminal, por las infracciones de la Constitución y de las leyes. 
 En caso de delito, el Congreso ejercerá la acusación ante el Tribunal de 
 Garantías Constitucionales en la forma que la ley determine. 
 
-### Artículo 93. 
+### Artículo 93
 Una ley especial regulará la creación y el funcionamiento de los órganos asesores y de 
 ordenación económica de la Administración, del Gobierno y de las 
 Cortes. 
 Entre estos organismos figurará un Cuerpo consultivo supremo de la República en 
 asuntos de Gobierno y Administración, cuya composición, atribuciones y funcionamiento 
 serán regulados por dicha ley. 
-TITULO VII 
-Justicia 
 
-### Artículo 94. 
+## TÍTULO VII 
+**Justicia**
+
+### Artículo 94
 La Justicia se administra en nombre del Estado. 
 La República asegurará a los litigantes económicamente necesitados la gratuidad de la
 Justicia. 
 Los jueces son independientes en su función. Sólo están sometidos a la ley. 
 
-### Artículo 95. 
+### Artículo 95
 La Administración de Justicia comprenderá todas las jurisdicciones existentes, que serán 
 reguladas por las leyes. 
 La jurisdicción penal militar quedará limitada a los delitos militares, a los servicios de 
@@ -876,7 +878,7 @@ No podrá establecerse fuero alguno por razón de las personas ni de los lugares
 exceptúa el caso del estado de guerra, con arreglo a la ley de Orden público. 
 Quedan abolidos todos los Tribunales de honor, tanto civiles como militares. 
 
-### Artículo 96. 
+### Artículo 96
 El presidente del Tribunal Supremo será designado por el Jefe del Estado, a propuesta de
 una Asamblea constituida en la forma que determine la ley. 
 El cargo de presidente del Tribunal Supremo sólo requerirá: ser español, mayor de
@@ -885,7 +887,7 @@ Le comprenderán las incapacidades e incompatibilidades establecidas para los de
 funcionarios judiciales. 
 El ejercicio de su magistratura durará diez años. 
 
-### Artículo 97. 
+### Artículo 97
 El presidente del Tribunal Supremo tendrá además de sus facultades propias, las
 siguientes: 
 a) Preparar y proponer al Ministro y a la Comisión Parlamentaria de Justicia, leyes de 
@@ -897,12 +899,12 @@ El presidente del Tribunal Supremo y el Fiscal general de la República estarán
 agregados, de modo permanente, con voz y voto, a la Comisión parlamentaria de 
 Justicia, sin que ello implique asiento en la Cámara. 
 
-### Artículo 98. 
+### Artículo 98
 Los jueces y magistrados no podrán ser jubilados, separados ni suspendidos en sus 
 funciones, ni trasladados de sus puestos, sino con sujeción a las leyes, que contendrán 
 las garantías necesarias para que sea efectiva la independencia de los Tribunales. 
 
-### Artículo 99. 
+### Artículo 99
 La responsabilidad civil y criminal en que puedan incurrir los jueces, magistrados y 
 fiscales en el ejercicio de sus funciones o con ocasión de ellas, será exigible ante el 
 Tribunal Supremo con intervención de un Jurado especial, cuya designación, capacidad e 
@@ -912,45 +914,46 @@ La responsabilidad criminal del presidente y los magistrados del Tribunal
 Supremo y del Fiscal de la República será exigida por el Tribunal de Garantías 
 Constitucionales. 
 
-### Artículo 100. 
+### Artículo 100
 Cuando un Tribunal de Justicia haya de aplicar una ley que estime contraria a la 
 Constitución, suspenderá el procedimiento y se dirigirá en consulta al Tribunal de 
 Garantías Constitucionales. 
 
-### Artículo 101. 
+### Artículo 101
 La ley establecerá recursos contra la ilegalidad de los actos o disposiciones emanadas de 
 la Administración en el ejercicio de su potestad reglamentaria, y contra los actos 
 discrecionales de la misma, constitutivos de exceso o desviación de poder. 
 
-### Artículo 102. 
+### Artículo 102
 Las amnistías sólo podrán ser acordadas por el Parlamento. No se concederán indultos 
 generales. El Tribunal Supremo otorgará los individuales a propuesta del sentenciador, 
 del fiscal de la Junta de Prisiones o a petición de parte. 
 En los delitos de extrema gravedad, podrá indultar el Presidente de la República, previo 
 informe del Tribunal Supremo y a propuesta del Gobierno responsable. 
 
-### Artículo 103. 
+### Artículo 103
 El pueblo participará en la Administración de Justicia mediante la institución del Jurado, 
 cuya organización y funcionamiento serán objeto de una ley especial. 
 
-### Artículo 104. 
+### Artículo 104
 El Ministerio Fiscal velará por el exacto cumplimiento de las leyes y por el interés social. 
 Constituirá un solo Cuerpo y tendrá las mismas garantías de independencia que la 
 Administración de Justicia. 
 
-### Artículo 105. 
+### Artículo 105
 La ley organizará Tribunales de urgencia para hacer efectivo el derecho de amparo de las
 garantías individuales. 
 
-### Artículo 106. 
+### Artículo 106
 Todo español tiene derecho a ser indemnizado de los perjuicios que se le irroguen por 
 error judicial o delito de los funcionarios judiciales en el ejercicio de sus cargos, conforme 
 determinen las leyes. 
 El Estado será subsidiariamente responsable de estas indemnizaciones. 
-TITULO VIII 
-Hacienda pública 
 
-### Artículo 107. 
+## TÍTULO VIII 
+**Hacienda pública**
+
+### Artículo 107
 La formación del proyecto de Presupuestos corresponde al Gobierno; su aprobación a las 
 Cortes. El Gobierno presentará a éstas, en la primera quincena de 
 Octubre de cada año, el proyecto de Presupuestos generales del Estado para el ejercicio 
@@ -960,13 +963,13 @@ Si no pudiera ser votado antes del primer día del año económico siguiente se 
 por trimestres la vigencia del último Presupuesto, sin que estas prórrogas puedan 
 exceder de cuatro. 
 
-### Artículo 108. 
+### Artículo 108
 Las Cortes no podrán presentar enmienda sobre aumento de créditos a ningún artículo ni 
 capítulo del proyecto de Presupuesto, a no ser con la firma de la décima parte de sus 
 miembros. Su aprobación requerirá el voto favorable de la mayoría absoluta del 
 Congreso. 
 
-### Artículo 109. 
+### Artículo 109
 Para cada año económico no podrá haber sino un solo Presupuesto, y en él serán 
 incluidos, tanto en ingresos como en gastos, los de carácter ordinario. 
 En caso de necesidad perentoria, a juicio de la mayoría absoluta del Congreso, podrá 
@@ -976,27 +979,27 @@ de la República, éste, sin perjuicio de la efectividad de sus acuerdos, comuni
 Cortes las infracciones o responsabilidades ministeriales en que a su juicio se hubiere 
 incurrido. 
 
-### Artículo 110. 
+### Artículo 110
 El Presupuesto general será ejecutivo por el solo voto de las Cortes, y no requerirá, para
 su vigencia, la promulgación del Jefe del Estado. 
 
-### Artículo 111. 
+### Artículo 111
 El Presupuesto fijará la Deuda flotante que el Gobierno podrá emitir dentro del año
 económico y que quedará extinguida durante la vida legal del Presupuesto. 
 
-### Artículo 112. 
+### Artículo 112
 Salvo lo dispuesto en el artículo anterior, toda ley que autorice al Gobierno para tomar 
 caudales a préstamo, habrá de contener las condiciones de éste, incluso el tipo nominal 
 de interés, y, en su caso, de la amortización de la Deuda. 
 Las autorización es al Gobierno en este respecto si limitarán, cuando así lo estimen 
 oportuno las Cortes, a las condiciones y al tipo de negociación. 
 
-### Artículo 113. 
+### Artículo 113
 El Presupuesto no podrá contener ninguna autorización que permita al 
 Gobierno sobrepasar en el gasto la cifra absoluta en él consignada, salvo caso de guerra. 
 En consecuencia, no podrán existir los créditos llamados ampliables. 
 
-### Artículo 114. 
+### Artículo 114
 Los créditos consignados en el estado de gastos representan las cantidades máximas
 asignadas a cada servicio, que no podrán ser alteradas ni rebasadas por el Gobierno. Por 
 excepción, cuando las Cortes no estuvieren reunidas, podrá el Gobierno conceder, bajo 
@@ -1008,7 +1011,7 @@ c) Calamidades públicas.
 d) Compromisos internacionales. 
 Las leyes especiales determinarán la tramitación de estos créditos. 
 
-### Artículo 115. 
+### Artículo 115
 Nadie estará obligado a pagar contribución que no esté votada por las Cortes o por las 
 Corporaciones legalmente autorizadas para imponerla. 
 La exacción de contribuciones, impuestos y tasas y la realización de ventas y 
@@ -1018,18 +1021,18 @@ Presupuesto.
 No obstante, se entenderán autorizadas las operaciones administrativas previas, 
 ordenadas en las leyes. 
 
-### Artículo 116. 
+### Artículo 116
 La ley de Presupuestos, cuando se considere necesaria, contendrá solamente las normas 
 aplicables a la ejecución del Presupuesto a que se refiera. 
 Sus preceptos sólo regirán durante la vigencia del Presupuesto mismo. 
 
-### Artículo 117. 
+### Artículo 117
 El Gobierno necesita estar autorizado por una ley para disponer de las propiedades del 
 Estado y para tomar caudales a préstamo sobre el crédito de la 
 Nación. Toda operación que infrinja este precepto será nula y no obligará al Estado a su
 amortización ni al pago de intereses. 
 
-### Artículo 118. 
+### Artículo 118
 La Deuda pública está bajo la salvaguardia del Estado. Los créditos necesarios para 
 satisfacer el pago de intereses y capitales se entenderán siempre incluidos en el estado 
 de gastos del Presupuesto y no podrán ser objeto de discusión mientras se ajusten 
@@ -1037,7 +1040,7 @@ estrictamente a las leyes que autorizaron la emisión. De idénticas garantías 
 general, toda operación que implique, directa o indirectamente, responsabilidad 
 económica del Tesoro, siempre que se dé el mismo supuesto. 
 
-### Artículo 119. 
+### Artículo 119
 Toda ley que instituya alguna Caja de amortización, se ajustará a las siguientes normas: 
 1ª. Otorgará a la Caja la plena autonomía de gestión. 
 2ª. Designará concreta y específicamente los recursos con que sea dotada. Ni los 
@@ -1047,7 +1050,7 @@ El presupuesto anual de la Caja necesitará para ser ejecutivo la aprobación de
 Ministro de Hacienda. Las cuentas se someterán al Tribunal de Cuentas de la 
 República. Del resultado de esta censura conocerán las Cortes. 
 
-### Artículo 120. 
+### Artículo 120
 El Tribunal de Cuentas de la República es el órgano fiscalizador de la gestión económica. 
 Dependerá directamente de las Cortes y ejercerá sus funciones por delegación de ellas 
 en el conocimiento y aprobación final de las cuentas del Estado. 
@@ -1058,7 +1061,7 @@ Tribunal de Garantías Constitucionales.
 ## TÍTULO IX 
 **Garantías y reforma de la Constitución**
 
-### Artículo 121. 
+### Artículo 121
 Se establece, con jurisdicción en todo el territorio de la República, un Tribunal de 
 Garantías Constitucionales, que tendrá competencia para conocer de: 
 a) El recurso de inconstitucionalidad de las leyes. 
@@ -1073,7 +1076,7 @@ Ministros.
 f) La responsabilidad criminal del presidente y los magistrados del Tribunal 
 Supremo y del Fiscal de la República. 
 
-### Artículo 122. 
+### Artículo 122
 Compondrán este Tribunal: 
 Un presidente designado por el Parlamento, sea o no Diputado. 
 El presidente del alto Cuerpo consultivo de la República a que se refiere el artículo 93. 
@@ -1086,7 +1089,7 @@ República.
 Cuatro profesores de la Facultad de Derecho, designados por el mismo procedimiento 
 entre todas las de España. 
 
-### Artículo 123. 
+### Artículo 123
 Son competentes para acudir ante el Tribunal de Garantías Constitucionales: 
 1º. El Ministerio Fiscal. 
 2º. Los jueces y tribunales en el caso del artículo 100. 
@@ -1094,12 +1097,12 @@ Son competentes para acudir ante el Tribunal de Garantías Constitucionales:
 4º. Las Regiones españolas. 
 5º. Toda persona individual o colectiva, aunque no hubiera sido directamente agraviada.
 
-### Artículo 124. 
+### Artículo 124
 Una ley orgánica especial, votada por estas Cortes, establecerá las inmunidades y 
 prerrogativas de los miembros del Tribunal y la extensión y efectos de los recursos a que 
 se refiere el artículo 121. 
 
-### Artículo 125. 
+### Artículo 125
 La Constitución podrá ser reformada: 
 a) A propuesta del Gobierno. 
 b) A propuesta de la cuarta parte de los miembros del Parlamento. 
