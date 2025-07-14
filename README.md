@@ -55,7 +55,7 @@ Colaborar en el fortalecimiento de unas relaciones pacíficas y de eficaz cooper
 En consecuencia, las Cortes aprueban y el pueblo español ratifica la siguiente
 ```
 
-[Ver Constitución Española (1845)](texto_consolidado.md)
+[Ver Constitución Española (1876)](texto_consolidado.md)
 
 
 ## 📚 Enlaces oficiales y de interés
